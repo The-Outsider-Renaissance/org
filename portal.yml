@@ -33,7 +33,7 @@ metadata:
   description: A collection of all Groups
 spec:
   targets:
-    - ./groups/*.yaml
+    - ./groups/*.yml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Location
@@ -42,4 +42,4 @@ metadata:
   description: A collection of all Users
 spec:
   targets:
-    - ./users/*.yaml
+    - ./users/*.yml
