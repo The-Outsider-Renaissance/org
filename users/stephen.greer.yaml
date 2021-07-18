@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: stephen.greer
+  annotations:
+    github.com/user-login: stephenagreer
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/70999
+      title: Connect
+      icon: forum
+spec:
+  profile:
+    displayName: Stephen Greer
+    email: stephen.greer@powerhrg.com
+    title: Nitro Developer
+  memberOf:
+    - group:guardians-of-the-galaxy

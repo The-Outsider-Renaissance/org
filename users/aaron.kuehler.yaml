@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: aaron.kuehler
+  annotations:
+    github.com/user-login: indiebrain
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/49488
+      title: Connect
+      icon: forum
+spec:
+  profile:
+    displayName: Aaron Kuehler
+    email: aaron.kuehler@powerhrg.com
+    title: Nitro Sr. Developer
+  memberOf:
+    - group:guardians-of-the-galaxy
