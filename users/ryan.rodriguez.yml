@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ryan.rodriguez
+  annotations:
+    github.com/user-login: ryanmrodriguez
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/86425
+      title: Connect
+      icon: forum
+spec:
+  profile:
+    displayName: Ryan Rodriguez
+    email: ryan.rodriguez@powerhrg.com
+    title: Nitro Developer
+  memberOf:
+    - group:guardians-of-the-galaxy

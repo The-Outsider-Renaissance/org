@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: guardians-of-the-galaxy
+  description: Release Engineering
+  annotations:
+    github.com/team-slug: powerhome/guardians-of-the-galaxy
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/85/backlog/
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: Guardians of the Galaxy
+  children: []
+  parent: group:bt
