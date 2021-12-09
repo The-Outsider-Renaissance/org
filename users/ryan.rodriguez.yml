@@ -4,6 +4,7 @@ metadata:
   name: ryan.rodriguez
   annotations:
     github.com/user-login: ryanmrodriguez
+    backstage.io/edit-url: https://github.com/powerhome/org/edit/main/users/ryan.rodriguez.yml.yml
   links:
     - url: https://nitro.powerhrg.com/connect/#users/86425
       title: Connect
@@ -13,5 +14,6 @@ spec:
     displayName: Ryan Rodriguez
     email: ryan.rodriguez@powerhrg.com
     title: Nitro Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/86425/photo/badge
   memberOf:
     - group:guardians-of-the-galaxy
