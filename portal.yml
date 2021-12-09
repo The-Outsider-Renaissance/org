@@ -53,10 +53,10 @@ metadata:
   links:
     - url: https://milano.powerapp.cloud/
       title: Milano Production
-      icon: RocketLaunch
+      icon: CloudQueue
     - url: https://staging.milano.powerapp.cloud/
       title: Milano Staging
-      icon: construction
+      icon: Build
   annotations:
     github.com/project-slug: powerhome/milano
 spec:
