@@ -14,4 +14,4 @@ spec:
   profile:
     displayName: Guardians of the Galaxy
   children: []
-  parent: group:bt
+  parent: bt
