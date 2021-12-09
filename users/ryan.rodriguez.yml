@@ -4,7 +4,7 @@ metadata:
   name: ryan.rodriguez
   annotations:
     github.com/user-login: ryanmrodriguez
-    backstage.io/view-url: https://github.com/powerhome/org/edit/main/users/ryan.rodriguez.yml.yml
+    backstage.io/view-url: https://github.com/powerhome/org/blob/main/portal.yml
     backstage.io/edit-url: https://github.com/powerhome/org/edit/main/users/ryan.rodriguez.yml.yml
     backstage.io/source-location: url:https://github.com/powerhome/org/blob/main/users/ryan.rodriguez.yml
   links:
