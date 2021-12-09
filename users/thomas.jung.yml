@@ -13,5 +13,6 @@ spec:
     displayName: Thomas Jung
     email: thomas.jung@powerhrg.com
     title: Nitro Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/103802/photo/badge
   memberOf:
-    - group:guardians-of-the-galaxy
+    - guardians-of-the-galaxy

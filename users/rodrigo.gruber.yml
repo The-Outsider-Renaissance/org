@@ -13,5 +13,6 @@ spec:
     displayName: Rodrigo Gruber
     email: rodrigo.gruber@powerhrg.com
     title: Nitro Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/103752/photo/badge
   memberOf:
-    - group:guardians-of-the-galaxy
+    - guardians-of-the-galaxy

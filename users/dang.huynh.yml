@@ -13,5 +13,6 @@ spec:
     displayName: Dang Huynh
     email: dang.huynh@powerhrg.com
     title: Nitro Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/103182/photo/badge
   memberOf:
-    - group:guardians-of-the-galaxy
+    - guardians-of-the-galaxy

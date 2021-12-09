@@ -4,10 +4,6 @@ metadata:
   name: ryan.rodriguez
   annotations:
     github.com/user-login: ryanmrodriguez
-    github.com/team-slug: powerhome/guardians-of-the-galaxy
-    backstage.io/view-url: https://github.com/powerhome/org/blob/main/portal.yml
-    backstage.io/edit-url: https://github.com/powerhome/org/edit/main/users/ryan.rodriguez.yml.yml
-    backstage.io/source-location: url:https://github.com/powerhome/org/blob/main/users/ryan.rodriguez.yml
   links:
     - url: https://nitro.powerhrg.com/connect/#users/86425
       title: Connect
@@ -19,4 +15,4 @@ spec:
     title: Nitro Developer
     picture: https://nitro.powerhrg.com/api/v1/users/86425/photo/badge
   memberOf:
-    - group:guardians-of-the-galaxy
+    - guardians-of-the-galaxy
