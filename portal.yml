@@ -43,3 +43,23 @@ metadata:
 spec:
   targets:
     - ./users/*.yml
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: milano
+  title: Milano
+  description: Milano is the automated service for deployment of Power applications, including to APP.
+  links:
+    - url: https://milano.powerapp.cloud/
+      title: Milano Production
+      icon: RocketLaunch
+    - url: https://staging.milano.powerapp.cloud/
+      title: Milano Staging
+      icon: construction
+  annotations:
+    github.com/project-slug: powerhome/milano
+spec:
+  type: website
+  owner: guardians-of-the-galaxy
+  lifecycle: production
