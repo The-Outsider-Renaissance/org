@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: ryan.rodriguez
+  title: Ryan Rodriguez
   annotations:
     github.com/user-login: ryanmrodriguez
   links:
