@@ -2,12 +2,13 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: blangfeld
+  title: Ben Langfeld
   annotations:
     github.com/user-login: benlangfeld
   links:
     - url: https://nitro.powerhrg.com/connect/#users/10795
       title: Connect
-      icon: forum
+      icon: chat
 spec:
   profile:
     displayName: Ben Langfeld

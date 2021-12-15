@@ -2,10 +2,11 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: powerhome
-  description: Power Home Remodeling Group
+  title: Power Home Remodeling Group
   links:
     - url: http://www.powerhrg.com/
       title: Website
+      icon: public
 spec:
   type: organization
   profile:
@@ -17,7 +18,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: bt
-  description: Business Technology Department
+  title: Business Technology Department
 spec:
   type: department
   profile:

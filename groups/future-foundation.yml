@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: future-foundation
+  title: Future Foundation
   description: Tech Leadership
   links:
     - url: https://nitro.powerhrg.com/runway/teams/326/backlog/

@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: guardians-of-the-galaxy
+  title: Guardians of the Galaxy
   description: Release Engineering
   annotations:
     github.com/team-slug: powerhome/guardians-of-the-galaxy

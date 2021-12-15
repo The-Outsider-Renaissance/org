@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: x-men
+  title: X-Men
   description: Operations
   annotations:
     github.com/team-slug: powerhome/x-men

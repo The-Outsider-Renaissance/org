@@ -2,12 +2,13 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: dang.huynh
+  title: Dang Huynh
   annotations:
     github.com/user-login: dhhuynh2
   links:
     - url: https://nitro.powerhrg.com/connect/#users/103182
       title: Connect
-      icon: forum
+      icon: chat
 spec:
   profile:
     displayName: Dang Huynh
