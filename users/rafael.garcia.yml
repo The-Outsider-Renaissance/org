@@ -14,5 +14,5 @@ spec:
     displayName: Rafael Garcia
     email: rafael.garcia@powerhrg.com
     title: Nitro Developer
-  memberOf:
-    - group:guardians-of-the-galaxy
+    picture: https://nitro.powerhrg.com/api/v1/users/14497/photo/badge
+  memberOf: []

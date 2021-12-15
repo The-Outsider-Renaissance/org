@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: guardians-of-the-galaxy
-  description: Guardians of the Galaxy
+  description: Release Engineering
   annotations:
     github.com/team-slug: powerhome/guardians-of-the-galaxy
   links:
@@ -14,4 +14,4 @@ spec:
   profile:
     displayName: Guardians of the Galaxy
   children: []
-  parent: group:bt
+  parent: bt

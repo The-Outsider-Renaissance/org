@@ -24,7 +24,7 @@ spec:
     displayName: Business Technology Department
     email: bt@powerhrg.com
   children: []
-  parent: group:powerhome
+  parent: powerhome
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Location

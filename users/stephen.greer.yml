@@ -12,6 +12,7 @@ spec:
   profile:
     displayName: Stephen Greer
     email: stephen.greer@powerhrg.com
-    title: Nitro Developer
+    title: Nitro Sr. Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/70999/photo/badge
   memberOf:
-    - group:guardians-of-the-galaxy
+    - x-men

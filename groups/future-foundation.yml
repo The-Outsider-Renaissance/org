@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: future-foundation
-  description: Future Foundation
+  description: Tech Leadership
   links:
     - url: https://nitro.powerhrg.com/runway/teams/326/backlog/
       title: Runway
@@ -12,4 +12,4 @@ spec:
   profile:
     displayName: Future Foundation
   children: []
-  parent: group:bt
+  parent: bt

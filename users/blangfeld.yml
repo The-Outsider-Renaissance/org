@@ -13,6 +13,7 @@ spec:
     displayName: Ben Langfeld
     email: blangfeld@powerhrg.com
     title: Nitro Principal Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/10795/photo/badge
   memberOf:
-    - group:guardians-of-the-galaxy
-    - group:future-foundation
+    - guardians-of-the-galaxy
+    - future-foundation
