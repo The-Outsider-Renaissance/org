@@ -2,7 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: guardians-of-the-galaxy
-  description: Release Engineering
+  description: > 
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum egestas purus sit amet tellus imperdiet lobortis. Mauris pharetra, lorem sed gravida porttitor, quam diam dignissim tortor, ac ultrices magna neque id risus. Nunc faucibus eget neque vestibulum aliquam. Praesent rhoncus risus vel eros faucibus, in volutpat justo viverra. Integer rhoncus massa quis ligula porttitor dignissim. In hac habitasse platea dictumst. Aliquam risus lacus, malesuada sit amet magna in, sodales porttitor dolor.
+
+    Donec facilisis tristique commodo. Nunc tempus bibendum congue. Donec vel hendrerit neque. Vivamus a tellus sit amet nisl lobortis condimentum vitae sit amet quam. In ut lacus sit amet nisl pharetra volutpat. Maecenas non nisi sed erat elementum pharetra a consectetur ligula. Nam laoreet, purus sed posuere ultrices, sem erat finibus lorem, in lacinia est mi eget arcu. Maecenas at ex eu arcu tincidunt gravida. Aliquam gravida mattis mi. Morbi feugiat semper dignissim.
+
+    Donec eu lectus sed lorem scelerisque scelerisque. Quisque ut diam lorem. Etiam iaculis nisi sed risus interdum, id dapibus erat malesuada. Mauris vitae rhoncus enim. Pellentesque a urna placerat, pellentesque ligula tincidunt, sodales nunc. Integer eleifend sit amet odio at eleifend. Nullam eu urna neque.
   annotations:
     github.com/team-slug: powerhome/guardians-of-the-galaxy
   links:
