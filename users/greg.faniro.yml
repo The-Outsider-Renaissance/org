@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: greg.faniro
+  title: Greg Faniro
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/72474
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: gfaniro
+spec:
+  profile:
+    displayName: Greg Faniro
+    email: greg.faniro@powerhrg.com
+    title: Nitro Quality Ninja
+    picture: https://nitro.powerhrg.com/api/v1/users/72474/photo/badge
+  memberOf:
+    - titans
+    - x-men

@@ -1,0 +1,17 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: alicia.padron
+  title: Alicia Padron
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/42908
+      title: Connect
+      icon: chat
+spec:
+  profile:
+    displayName: Alicia Padron
+    email: alicia.padron@powerhrg.com
+    title: Business Technology Coordinator
+    picture: https://nitro.powerhrg.com/api/v1/users/42908/photo/badge
+  memberOf: []

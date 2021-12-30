@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: rameal.mitchell
+  title: Rameal Mitchell
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/14925
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: tub80728
+spec:
+  profile:
+    displayName: Rameal Mitchell
+    email: rameal.mitchell@powerhrg.com
+    title: Nitro Quality Ninja
+    picture: https://nitro.powerhrg.com/api/v1/users/14925/photo/badge
+  memberOf:
+    - fellowship-of-the-ring

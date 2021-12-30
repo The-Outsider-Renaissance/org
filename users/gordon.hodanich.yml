@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: gordon.hodanich
+  title: Gordon Hodanich
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/68284
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: GordonHodanich
+spec:
+  profile:
+    displayName: Gordon Hodanich
+    email: gordon.hodanich@powerhrg.com
+    title: Student Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/68284/photo/badge
+  memberOf: []

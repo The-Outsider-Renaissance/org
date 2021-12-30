@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: gabriel.pereira
+  title: Gabriel Pereira
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/24746
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: gmfvpereira
+spec:
+  profile:
+    displayName: Gabriel Pereira
+    email: gabriel.pereira@powerhrg.com
+    title: Nitro Sr. Developer - International
+    picture: https://nitro.powerhrg.com/api/v1/users/24746/photo/badge
+  memberOf:
+    - legion-academy

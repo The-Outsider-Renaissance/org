@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: rebel-alliance
+  title: Rebel Alliance
+  description: Connect development team
+  annotations:
+    github.com/team-slug: powerhome/rebel-alliance
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/115/backlog/
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: Rebel Alliance
+  children: []
+  parent: bt

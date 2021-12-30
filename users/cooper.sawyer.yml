@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: cooper.sawyer
+  title: Cooper Sawyer
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/9540
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: CooperSawyer1
+spec:
+  profile:
+    displayName: Cooper Sawyer
+    email: cooper.sawyer@powerhrg.com
+    title: Student Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/9540/photo/badge
+  memberOf: []

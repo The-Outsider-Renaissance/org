@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: wwinningham
+  title: Wade Winningham
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/1
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: wadewinningham
+spec:
+  profile:
+    displayName: Wade Winningham
+    email: wwinningham@powerhrg.com
+    title: Nitro Principal Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/1/photo/badge
+  memberOf:
+    - future-foundation
+    - heroes-for-hire

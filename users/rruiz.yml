@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: rruiz
+  title: Ramon Ruiz
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/2019
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: rruiz85
+spec:
+  profile:
+    displayName: Ramon Ruiz
+    email: rruiz@powerhrg.com
+    title: User Experience Designer
+    picture: https://nitro.powerhrg.com/api/v1/users/2019/photo/badge
+  memberOf:
+    - infinity-inc
+    - ux-team

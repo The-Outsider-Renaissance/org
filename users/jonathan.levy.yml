@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jonathan.levy
+  title: Jonathan Levy
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/36998
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: jonathan-levy17
+spec:
+  profile:
+    displayName: Jonathan Levy
+    email: jonathan.levy@powerhrg.com
+    title: Nitro Quality Ninja
+    picture: https://nitro.powerhrg.com/api/v1/users/36998/photo/badge
+  memberOf:
+    - rebel-alliance

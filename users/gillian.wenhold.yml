@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: gillian.wenhold
+  title: Gillian Wenhold
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/8316
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: gillianwenhold
+spec:
+  profile:
+    displayName: Gillian Wenhold
+    email: gillian.wenhold@powerhrg.com
+    title: Code Academy Instructor
+    picture: https://nitro.powerhrg.com/api/v1/users/8316/photo/badge
+  memberOf: []

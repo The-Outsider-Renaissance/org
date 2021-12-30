@@ -1,0 +1,17 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: macey.tanseco
+  title: Macey Tanseco
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/13079
+      title: Connect
+      icon: chat
+spec:
+  profile:
+    displayName: Macey Tanseco
+    email: macey.tanseco@powerhrg.com
+    title: Business Technology Coordinator
+    picture: https://nitro.powerhrg.com/api/v1/users/13079/photo/badge
+  memberOf: []

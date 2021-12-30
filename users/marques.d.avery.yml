@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: marques.d.avery
+  title: Marques Avery
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/87580
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: marquesavery
+spec:
+  profile:
+    displayName: Marques Avery
+    email: marques.d.avery@powerhrg.com
+    title: Scrum Master
+    picture: https://nitro.powerhrg.com/api/v1/users/87580/photo/badge
+  memberOf:
+    - eternals
+    - heroes-for-hire

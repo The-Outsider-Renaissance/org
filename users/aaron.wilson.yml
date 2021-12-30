@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: aaron.wilson
+  title: Aaron Wilson
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/9793
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: adub65
+spec:
+  profile:
+    displayName: Aaron Wilson
+    email: aaron.wilson@powerhrg.com
+    title: Associate Software Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/9793/photo/badge
+  memberOf:
+    - eternals

@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: x-factor
+  title: X-Factor
+  description: Customer portal
+  annotations:
+    github.com/team-slug: powerhome/x-factor
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/248/backlog/
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: X-Factor
+  children: []
+  parent: bt

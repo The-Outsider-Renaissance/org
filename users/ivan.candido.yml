@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ivan.candido
+  title: Ivan Candido
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/88400
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: Ivancandido11
+spec:
+  profile:
+    displayName: Ivan Candido
+    email: ivan.candido@powerhrg.com
+    title: Student Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/88400/photo/badge
+  memberOf: []

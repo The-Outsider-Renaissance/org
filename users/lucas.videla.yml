@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: lucas.videla
+  title: Lucas Videla
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/85230
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: delucas
+spec:
+  profile:
+    displayName: Lucas Videla
+    email: lucas.videla@powerhrg.com
+    title: Web Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/85230/photo/badge
+  memberOf:
+    - heroes-for-hire

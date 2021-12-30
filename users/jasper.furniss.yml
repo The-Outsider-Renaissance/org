@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jasper.furniss
+  title: Jasper Furniss
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/59346
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: jasperfurniss
+spec:
+  profile:
+    displayName: Jasper Furniss
+    email: jasper.furniss@powerhrg.com
+    title: Senior User Experience Engineer
+    picture: https://nitro.powerhrg.com/api/v1/users/59346/photo/badge
+  memberOf:
+    - ux-team

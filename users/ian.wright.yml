@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ian.wright
+  title: Ian Wright
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/105263
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: ns-ian
+spec:
+  profile:
+    displayName: Ian Wright
+    email: ian.wright@powerhrg.com
+    title: Nitro Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/105263/photo/badge
+  memberOf:
+    - fellowship-of-the-ring

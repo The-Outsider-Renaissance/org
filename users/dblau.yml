@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dblau
+  title: Dan Blau
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/546
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: danblau
+spec:
+  profile:
+    displayName: Dan Blau
+    email: dblau@powerhrg.com
+    title: Nitro Producteer
+    picture: https://nitro.powerhrg.com/api/v1/users/546/photo/badge
+  memberOf:
+    - the-incredibles
+    - x-factor

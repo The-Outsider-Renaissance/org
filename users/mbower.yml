@@ -1,0 +1,17 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mbower
+  title: Michelle Bower
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/1804
+      title: Connect
+      icon: chat
+spec:
+  profile:
+    displayName: Michelle Bower
+    email: mbower@powerhrg.com
+    title: Business Technology Coordinator
+    picture: https://nitro.powerhrg.com/api/v1/users/1804/photo/badge
+  memberOf: []

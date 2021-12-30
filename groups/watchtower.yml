@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: watchtower
+  title: Watchtower
+  description: APP development and support
+  annotations:
+    github.com/team-slug: powerhome/site-reliability-engineers
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/150/backlog/
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: Watchtower
+  children: []
+  parent: bt

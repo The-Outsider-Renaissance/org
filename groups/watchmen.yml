@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: watchmen
+  title: Watchmen
+  description: Networking and Security
+  annotations:
+    github.com/team-slug: powerhome/site-reliability-engineers
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/145/backlog/
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: Watchmen
+  children: []
+  parent: bt

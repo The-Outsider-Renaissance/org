@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: the-incredibles
+  title: The Incredibles
+  description: Sales and Marketing
+  annotations:
+    github.com/team-slug: powerhome/the-incredibles
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/90/backlog/
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: The Incredibles
+  children: []
+  parent: bt

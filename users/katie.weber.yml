@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: katie.weber
+  title: Katie Weber
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/40888
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: web-kat
+spec:
+  profile:
+    displayName: Katie Weber
+    email: katie.weber@powerhrg.com
+    title: Nitro Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/40888/photo/badge
+  memberOf: []

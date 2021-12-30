@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: oladipo.jibowu
+  title: Dipo Jibowu
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/40433
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: DipoJibowu
+spec:
+  profile:
+    displayName: Dipo Jibowu
+    email: oladipo.jibowu@powerhrg.com
+    title: Nitro Support Ninja
+    picture: https://nitro.powerhrg.com/api/v1/users/40433/photo/badge
+  memberOf: []

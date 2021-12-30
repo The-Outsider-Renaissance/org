@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bryan.reed
+  title: Bryan Reed
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/10688
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: bsreed
+spec:
+  profile:
+    displayName: Bryan Reed
+    email: bryan.reed@powerhrg.com
+    title: Assistant Director of Nitro Support Services
+    picture: https://nitro.powerhrg.com/api/v1/users/10688/photo/badge
+  memberOf:
+    - x-factor

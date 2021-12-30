@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: ninjas
+  title: Ninjas
+  description: Nitro testing and support
+  annotations:
+    github.com/team-slug: powerhome/ninjas
+spec:
+  type: team
+  profile:
+    displayName: Ninjas
+  children: []
+  parent: bt

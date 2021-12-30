@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: angelo.outlaw
+  title: Gelo Outlaw
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/75579
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: Jello521
+spec:
+  profile:
+    displayName: Gelo Outlaw
+    email: angelo.outlaw@powerhrg.com
+    title: Nitro Quality Ninja
+    picture: https://nitro.powerhrg.com/api/v1/users/75579/photo/badge
+  memberOf:
+    - legion-academy
+    - nova-corps

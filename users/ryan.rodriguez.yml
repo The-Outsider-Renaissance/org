@@ -1,14 +1,15 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: ryan.rodriguez
   title: Ryan Rodriguez
-  annotations:
-    github.com/user-login: ryanmrodriguez
   links:
     - url: https://nitro.powerhrg.com/connect/#users/86425
       title: Connect
       icon: chat
+  annotations:
+    github.com/user-login: ryanmrodriguez
 spec:
   profile:
     displayName: Ryan Rodriguez

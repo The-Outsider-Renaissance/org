@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: paige.bauer
+  title: Paige Bauer
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/103847
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: paigebauer
+spec:
+  profile:
+    displayName: Paige Bauer
+    email: paige.bauer@powerhrg.com
+    title: Nitro Support Ninja
+    picture: https://nitro.powerhrg.com/api/v1/users/103847/photo/badge
+  memberOf: []

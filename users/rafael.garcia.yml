@@ -1,19 +1,21 @@
-
+---
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: rafael.garcia
   title: Rafael Garcia
-  annotations:
-    github.com/user-login: rafbgarcia
   links:
     - url: https://nitro.powerhrg.com/connect/#users/14497
       title: Connect
       icon: chat
+  annotations:
+    github.com/user-login: rafbgarcia
 spec:
   profile:
     displayName: Rafael Garcia
     email: rafael.garcia@powerhrg.com
     title: Nitro Developer
     picture: https://nitro.powerhrg.com/api/v1/users/14497/photo/badge
-  memberOf: []
+  memberOf:
+    - batmans-oracle
+    - rebel-alliance

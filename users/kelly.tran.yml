@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kelly.tran
+  title: Kelly Tran
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/21076
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: ktran270
+spec:
+  profile:
+    displayName: Kelly Tran
+    email: kelly.tran@powerhrg.com
+    title: Nitro Support Mentor
+    picture: https://nitro.powerhrg.com/api/v1/users/21076/photo/badge
+  memberOf:
+    - heroes-for-hire
+    - titans
+    - x-men

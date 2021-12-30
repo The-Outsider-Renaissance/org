@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: greg.blake
+  title: Greg Blake
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/31995
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: gregblake
+spec:
+  profile:
+    displayName: Greg Blake
+    email: greg.blake@powerhrg.com
+    title: Nitro Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/31995/photo/badge
+  memberOf:
+    - rebel-alliance

@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: michael.e.jones
+  title: Michael Jones
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/103827
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: michaelejones
+spec:
+  profile:
+    displayName: Michael Jones
+    email: michael.e.jones@powerhrg.com
+    title: Nitro Support Ninja
+    picture: https://nitro.powerhrg.com/api/v1/users/103827/photo/badge
+  memberOf: []

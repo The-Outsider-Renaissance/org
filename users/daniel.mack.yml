@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: daniel.mack
+  title: Daniel Mack
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/20801
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: danielmmack
+spec:
+  profile:
+    displayName: Daniel Mack
+    email: daniel.mack@powerhrg.com
+    title: Nitro Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/20801/photo/badge
+  memberOf:
+    - fellowship-of-the-ring

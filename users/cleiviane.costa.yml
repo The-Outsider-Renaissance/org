@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: cleiviane.costa
+  title: Cleiviane Costa
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/68324
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: cleicar
+spec:
+  profile:
+    displayName: Cleiviane Costa
+    email: cleiviane.costa@powerhrg.com
+    title: Web Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/68324/photo/badge
+  memberOf:
+    - heroes-for-hire

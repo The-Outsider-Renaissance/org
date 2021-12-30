@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: nova-corps
+  title: Nova Corps
+  description: Human Resources and Talent Acquisition
+  annotations:
+    github.com/team-slug: powerhome/nova-corps
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/80/backlog/
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: Nova Corps
+  children: []
+  parent: bt

@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: adam.liss
+  title: Adam Liss
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/72454
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: amliss05
+spec:
+  profile:
+    displayName: Adam Liss
+    email: adam.liss@powerhrg.com
+    title: Sr. Nitro Quality Ninja
+    picture: https://nitro.powerhrg.com/api/v1/users/72454/photo/badge
+  memberOf:
+    - birds-of-prey
+    - the-incredibles

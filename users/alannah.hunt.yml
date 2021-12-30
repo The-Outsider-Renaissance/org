@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: alannah.hunt
+  title: Alannah Hunt
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/34313
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: AlannahHunt
+spec:
+  profile:
+    displayName: Alannah Hunt
+    email: alannah.hunt@powerhrg.com
+    title: Nitro Support Ninja
+    picture: https://nitro.powerhrg.com/api/v1/users/34313/photo/badge
+  memberOf: []

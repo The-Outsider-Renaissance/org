@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: achristy
+  title: Anthony Christy
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/581
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: imsoninjayoucantseeme
+spec:
+  profile:
+    displayName: Anthony Christy
+    email: achristy@powerhrg.com
+    title: Senior Nitro Producteer
+    picture: https://nitro.powerhrg.com/api/v1/users/581/photo/badge
+  memberOf:
+    - titans
+    - x-men

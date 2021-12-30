@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kevin.skilton
+  title: Kevin Skilton
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/14704
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: kskilt
+spec:
+  profile:
+    displayName: Kevin Skilton
+    email: kevin.skilton@powerhrg.com
+    title: Nitro Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/14704/photo/badge
+  memberOf:
+    - the-incredibles

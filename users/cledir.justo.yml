@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: cledir.justo
+  title: Cledir Justo
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/98759
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: cledirjusto
+spec:
+  profile:
+    displayName: Cledir Justo
+    email: cledir.justo@powerhrg.com
+    title: Site Reliability Engineer - International
+    picture: https://nitro.powerhrg.com/api/v1/users/98759/photo/badge
+  memberOf:
+    - watchmen

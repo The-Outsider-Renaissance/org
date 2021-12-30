@@ -1,0 +1,17 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: haley.taylor
+  title: Haley Taylor
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/73614
+      title: Connect
+      icon: chat
+spec:
+  profile:
+    displayName: Haley Taylor
+    email: haley.taylor@powerhrg.com
+    title: Business Technology Coordinator
+    picture: https://nitro.powerhrg.com/api/v1/users/73614/photo/badge
+  memberOf: []

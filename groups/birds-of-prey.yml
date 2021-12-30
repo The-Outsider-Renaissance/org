@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: birds-of-prey
+  title: Birds of Prey
+  description: Scrum tools
+  annotations:
+    github.com/team-slug: powerhome/birds-of-prey
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/54/backlog/
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: Birds of Prey
+  children: []
+  parent: bt

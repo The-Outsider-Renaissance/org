@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ezzeldin.abousaif
+  title: Ezz Abousaif
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/33125
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: eabousaif
+spec:
+  profile:
+    displayName: Ezz Abousaif
+    email: ezzeldin.abousaif@powerhrg.com
+    title: Nitro Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/33125/photo/badge
+  memberOf:
+    - x-men

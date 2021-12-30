@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ashlee.maxson
+  title: Ashlee Maxson
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/98249
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: Amax1296
+spec:
+  profile:
+    displayName: Ashlee Maxson
+    email: ashlee.maxson@powerhrg.com
+    title: Nitro Quality Ninja
+    picture: https://nitro.powerhrg.com/api/v1/users/98249/photo/badge
+  memberOf:
+    - legion-academy
+    - nova-corps

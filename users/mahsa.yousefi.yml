@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mahsa.yousefi
+  title: Mahsa Yousefi
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/98779
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: mahsa-ysf
+spec:
+  profile:
+    displayName: Mahsa Yousefi
+    email: mahsa.yousefi@powerhrg.com
+    title: Scrum Master
+    picture: https://nitro.powerhrg.com/api/v1/users/98779/photo/badge
+  memberOf:
+    - legion-academy
+    - nova-corps

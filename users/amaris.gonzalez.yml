@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: amaris.gonzalez
+  title: Amaris Gonzalez
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/92338
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: amarisgonzalez
+spec:
+  profile:
+    displayName: Amaris Gonzalez
+    email: amaris.gonzalez@powerhrg.com
+    title: Nitro Support Ninja
+    picture: https://nitro.powerhrg.com/api/v1/users/92338/photo/badge
+  memberOf: []

@@ -1,0 +1,17 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: donald.scalessa
+  title: Donnie Scalessa
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/69199
+      title: Connect
+      icon: chat
+spec:
+  profile:
+    displayName: Donnie Scalessa
+    email: donald.scalessa@powerhrg.com
+    title: Technology Support Samurai
+    picture: https://nitro.powerhrg.com/api/v1/users/69199/photo/badge
+  memberOf: []

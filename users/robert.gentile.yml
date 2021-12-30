@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: robert.gentile
+  title: Robert Gentile
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/76819
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: RobGentile17
+spec:
+  profile:
+    displayName: Robert Gentile
+    email: robert.gentile@powerhrg.com
+    title: Student Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/76819/photo/badge
+  memberOf: []

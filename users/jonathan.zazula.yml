@@ -1,0 +1,23 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jonathan.zazula
+  title: Jon Zazula
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/55553
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: kre8sions
+spec:
+  profile:
+    displayName: Jon Zazula
+    email: jonathan.zazula@powerhrg.com
+    title: Senior User Experience Designer
+    picture: https://nitro.powerhrg.com/api/v1/users/55553/photo/badge
+  memberOf:
+    - fellowship-of-the-ring
+    - ux-team
+    - titans
+    - x-factor

@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: evan.cagwin
+  title: Evan Cagwin
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/69739
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: ecagwin
+spec:
+  profile:
+    displayName: Evan Cagwin
+    email: evan.cagwin@powerhrg.com
+    title: Nitro Quality Ninja
+    picture: https://nitro.powerhrg.com/api/v1/users/69739/photo/badge
+  memberOf: []

@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: david.j.taylor
+  title: David Taylor
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/15700
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: djtaylor
+spec:
+  profile:
+    displayName: David Taylor
+    email: david.j.taylor@powerhrg.com
+    title: Sr. Site Reliability Engineer
+    picture: https://nitro.powerhrg.com/api/v1/users/15700/photo/badge
+  memberOf:
+    - watchtower

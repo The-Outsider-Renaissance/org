@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: tsmith
+  title: Tyler Smith
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/99909
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: tsmith0692
+spec:
+  profile:
+    displayName: Tyler Smith
+    email: tsmith@powerhrg.com
+    title: Nitro Producteer
+    picture: https://nitro.powerhrg.com/api/v1/users/99909/photo/badge
+  memberOf: []

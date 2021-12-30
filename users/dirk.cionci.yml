@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dirk.cionci
+  title: Dirk Cionci
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/36343
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: DirkCionci
+spec:
+  profile:
+    displayName: Dirk Cionci
+    email: dirk.cionci@powerhrg.com
+    title: Nitro Producteer
+    picture: https://nitro.powerhrg.com/api/v1/users/36343/photo/badge
+  memberOf:
+    - fellowship-of-the-ring
+    - infinity-inc

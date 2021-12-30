@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hayden.rouille
+  title: Hayden Rouille
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/88290
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: haydenrou
+spec:
+  profile:
+    displayName: Hayden Rouille
+    email: hayden.rouille@powerhrg.com
+    title: Nitro Developer - International
+    picture: https://nitro.powerhrg.com/api/v1/users/88290/photo/badge
+  memberOf:
+    - birds-of-prey
+    - x-factor

@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: stephen.crane
+  title: Stephen Crane
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/11992
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: RudeChowder
+spec:
+  profile:
+    displayName: Stephen Crane
+    email: stephen.crane@powerhrg.com
+    title: Student Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/11992/photo/badge
+  memberOf:
+    - infinity-inc

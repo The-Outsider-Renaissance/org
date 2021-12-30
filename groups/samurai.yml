@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: samurai
+  title: Samurai
+  description: Hardware support
+  annotations:
+    github.com/team-slug: powerhome/samurai
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/125/backlog/
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: Samurai
+  children: []
+  parent: bt

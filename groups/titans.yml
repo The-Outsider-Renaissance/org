@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: titans
+  title: Titans
+  description: Operations and Outside Vendors
+  annotations:
+    github.com/team-slug: powerhome/titans
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/110/backlog/
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: Titans
+  children: []
+  parent: bt

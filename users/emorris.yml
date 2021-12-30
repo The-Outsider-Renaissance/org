@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: emorris
+  title: Erik Morris
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/103142
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: emorrism3
+spec:
+  profile:
+    displayName: Erik Morris
+    email: emorris@powerhrg.com
+    title: Information Security Manager
+    picture: https://nitro.powerhrg.com/api/v1/users/103142/photo/badge
+  memberOf: []
