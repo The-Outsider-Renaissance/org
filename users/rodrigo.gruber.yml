@@ -1,17 +1,20 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: rodrigo.gruber
-  annotations:
-    github.com/user-login: gruberdev
+  title: Rodrigo Gruber
   links:
     - url: https://nitro.powerhrg.com/connect/#users/103752
       title: Connect
-      icon: forum
+      icon: chat
+  annotations:
+    github.com/user-login: gruberdev
 spec:
   profile:
     displayName: Rodrigo Gruber
     email: rodrigo.gruber@powerhrg.com
-    title: Nitro Developer
+    title: Nitro Developer - International
+    picture: https://nitro.powerhrg.com/api/v1/users/103752/photo/badge
   memberOf:
-    - group:guardians-of-the-galaxy
+    - guardians-of-the-galaxy

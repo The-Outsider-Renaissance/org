@@ -1,18 +1,20 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: blangfeld
-  annotations:
-    github.com/user-login: benlangfeld
+  title: Ben Langfeld
   links:
     - url: https://nitro.powerhrg.com/connect/#users/10795
       title: Connect
-      icon: forum
+      icon: chat
+  annotations:
+    github.com/user-login: benlangfeld
 spec:
   profile:
     displayName: Ben Langfeld
     email: blangfeld@powerhrg.com
-    title: Nitro Principal Developer
+    title: Nitro Principal Developer - International
+    picture: https://nitro.powerhrg.com/api/v1/users/10795/photo/badge
   memberOf:
-    - group:guardians-of-the-galaxy
-    - group:future-foundation
+    - guardians-of-the-galaxy
