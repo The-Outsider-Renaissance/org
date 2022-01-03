@@ -1,17 +1,20 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: thomas.jung
-  annotations:
-    github.com/user-login: TeamTeaTime
+  title: Thomas Jung
   links:
     - url: https://nitro.powerhrg.com/connect/#users/103802
       title: Connect
-      icon: forum
+      icon: chat
+  annotations:
+    github.com/user-login: TeamTeaTime
 spec:
   profile:
     displayName: Thomas Jung
     email: thomas.jung@powerhrg.com
     title: Nitro Developer
+    picture: https://nitro.powerhrg.com/api/v1/users/103802/photo/badge
   memberOf:
-    - group:guardians-of-the-galaxy
+    - guardians-of-the-galaxy
