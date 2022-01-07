@@ -15,7 +15,6 @@ spec:
   profile:
     displayName: Ryan Rodriguez
     email: ryan.rodriguez@powerhrg.com
-    title: Nitro Developer
     picture: https://nitro.powerhrg.com/api/v1/users/86425/photo/badge
   memberOf:
     - guardians-of-the-galaxy
