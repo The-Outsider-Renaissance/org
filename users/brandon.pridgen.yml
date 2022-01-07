@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: bpridgen91
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
 spec:
   profile:
     displayName: Brandon Pridgen
     email: brandon.pridgen@powerhrg.com
-    title: Nitro Quality Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/73164/photo/badge
   memberOf:
     - heroes-for-hire

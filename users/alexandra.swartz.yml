@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: fivegoblins
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
 spec:
   profile:
     displayName: Alexandra Swartz
     email: alexandra.swartz@powerhrg.com
-    title: Nitro Quality Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/92068/photo/badge
   memberOf:
     - titans

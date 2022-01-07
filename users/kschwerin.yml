@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: thisisntkraig
+    portal.powerapp.cloud/job-title: Director of Nitro Support Services
 spec:
   profile:
     displayName: Kraig Schwerin
     email: kschwerin@powerhrg.com
-    title: Director of Nitro Support Services
     picture: https://nitro.powerhrg.com/api/v1/users/1674/photo/badge
   memberOf: []

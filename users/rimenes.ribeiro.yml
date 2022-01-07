@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: rimenes
+    portal.powerapp.cloud/job-title: Nitro Developer - International
 spec:
   profile:
     displayName: Rimenes Ribeiro
     email: rimenes.ribeiro@powerhrg.com
-    title: Nitro Developer - International
     picture: https://nitro.powerhrg.com/api/v1/users/98769/photo/badge
   memberOf:
     - x-men

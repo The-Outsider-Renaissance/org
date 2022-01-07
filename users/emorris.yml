@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: emorrism3
+    portal.powerapp.cloud/job-title: Information Security Manager
 spec:
   profile:
     displayName: Erik Morris
     email: emorris@powerhrg.com
-    title: Information Security Manager
     picture: https://nitro.powerhrg.com/api/v1/users/103142/photo/badge
   memberOf: []

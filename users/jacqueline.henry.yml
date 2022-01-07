@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: jackiehpowerhrg
+    portal.powerapp.cloud/job-title: Site Reliability Engineer
 spec:
   profile:
     displayName: Jacqueline Henry
     email: jacqueline.henry@powerhrg.com
-    title: Site Reliability Engineer
     picture: https://nitro.powerhrg.com/api/v1/users/72459/photo/badge
   memberOf:
     - stormwatch

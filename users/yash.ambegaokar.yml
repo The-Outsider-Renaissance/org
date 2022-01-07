@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: Yash-Ambegaokar
+    portal.powerapp.cloud/job-title: Data Analyst
 spec:
   profile:
     displayName: Yash Ambegaokar
     email: yash.ambegaokar@powerhrg.com
-    title: Data Analyst
     picture: https://nitro.powerhrg.com/api/v1/users/52273/photo/badge
   memberOf:
     - batmans-oracle

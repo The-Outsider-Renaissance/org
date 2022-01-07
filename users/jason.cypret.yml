@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: jasoncypret
+    portal.powerapp.cloud/job-title: Director of User Experience Design
 spec:
   profile:
     displayName: Jason Cypret
     email: jason.cypret@powerhrg.com
-    title: Director of User Experience Design
     picture: https://nitro.powerhrg.com/api/v1/users/32825/photo/badge
   memberOf:
     - ux-team

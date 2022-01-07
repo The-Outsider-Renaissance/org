@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: JelenaD1
+    portal.powerapp.cloud/job-title: Student Developer
 spec:
   profile:
     displayName: Jelena Durovic
     email: jelena.durovic@powerhrg.com
-    title: Student Developer
     picture: https://nitro.powerhrg.com/api/v1/users/82215/photo/badge
   memberOf: []

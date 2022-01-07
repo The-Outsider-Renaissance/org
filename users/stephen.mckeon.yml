@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: stephenmckeon
+    portal.powerapp.cloud/job-title: Associate Software Developer
 spec:
   profile:
     displayName: Steve McKeon
     email: stephen.mckeon@powerhrg.com
-    title: Associate Software Developer
     picture: https://nitro.powerhrg.com/api/v1/users/52973/photo/badge
   memberOf:
     - infinity-inc

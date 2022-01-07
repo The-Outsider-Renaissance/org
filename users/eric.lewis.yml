@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: EricPowerLewis
+    portal.powerapp.cloud/job-title: Engineer of Things
 spec:
   profile:
     displayName: Eric Lewis
     email: eric.lewis@powerhrg.com
-    title: Engineer of Things
     picture: https://nitro.powerhrg.com/api/v1/users/35733/photo/badge
   memberOf:
     - watchmen

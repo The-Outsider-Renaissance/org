@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: bengoa
+    portal.powerapp.cloud/job-title: Site Reliability Engineer - International
 spec:
   profile:
     displayName: Alberto Bengoa
     email: alberto.bengoa@powerhrg.com
-    title: Site Reliability Engineer - International
     picture: https://nitro.powerhrg.com/api/v1/users/98764/photo/badge
   memberOf:
     - stormwatch

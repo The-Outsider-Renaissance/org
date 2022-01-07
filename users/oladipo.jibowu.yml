@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: DipoJibowu
+    portal.powerapp.cloud/job-title: Nitro Support Ninja
 spec:
   profile:
     displayName: Dipo Jibowu
     email: oladipo.jibowu@powerhrg.com
-    title: Nitro Support Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/40433/photo/badge
   memberOf: []

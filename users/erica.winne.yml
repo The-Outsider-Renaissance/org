@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: ericawinne
+    portal.powerapp.cloud/job-title: Student Developer
 spec:
   profile:
     displayName: Erica Winne
     email: erica.winne@powerhrg.com
-    title: Student Developer
     picture: https://nitro.powerhrg.com/api/v1/users/77314/photo/badge
   memberOf: []

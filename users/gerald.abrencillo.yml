@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: gerald
+    portal.powerapp.cloud/job-title: Nitro Developer - International
 spec:
   profile:
     displayName: Gerald Abrencillo
     email: gerald.abrencillo@powerhrg.com
-    title: Nitro Developer - International
     picture: https://nitro.powerhrg.com/api/v1/users/422/photo/badge
   memberOf:
     - titans

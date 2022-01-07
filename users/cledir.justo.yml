@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: cledirjusto
+    portal.powerapp.cloud/job-title: Site Reliability Engineer - International
 spec:
   profile:
     displayName: Cledir Justo
     email: cledir.justo@powerhrg.com
-    title: Site Reliability Engineer - International
     picture: https://nitro.powerhrg.com/api/v1/users/98759/photo/badge
   memberOf:
     - watchmen

@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: RobGentile17
+    portal.powerapp.cloud/job-title: Student Developer
 spec:
   profile:
     displayName: Robert Gentile
     email: robert.gentile@powerhrg.com
-    title: Student Developer
     picture: https://nitro.powerhrg.com/api/v1/users/76819/photo/badge
   memberOf: []

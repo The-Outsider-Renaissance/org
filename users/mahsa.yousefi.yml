@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: mahsa-ysf
+    portal.powerapp.cloud/job-title: Scrum Master
 spec:
   profile:
     displayName: Mahsa Yousefi
     email: mahsa.yousefi@powerhrg.com
-    title: Scrum Master
     picture: https://nitro.powerhrg.com/api/v1/users/98779/photo/badge
   memberOf:
     - legion-academy

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: matthewreyesphrg
+    portal.powerapp.cloud/job-title: Nitro Test Automation Engineer
 spec:
   profile:
     displayName: Matthew Reyes
     email: matthew.reyes@powerhrg.com
-    title: Nitro Test Automation Engineer
     picture: https://nitro.powerhrg.com/api/v1/users/94382/photo/badge
   memberOf:
     - rebel-alliance

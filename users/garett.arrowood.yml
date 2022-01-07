@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: garettarrowood
+    portal.powerapp.cloud/job-title: Nitro Sr. Developer
 spec:
   profile:
     displayName: Garett Arrowood
     email: garett.arrowood@powerhrg.com
-    title: Nitro Sr. Developer
     picture: https://nitro.powerhrg.com/api/v1/users/25331/photo/badge
   memberOf:
     - infinity-inc

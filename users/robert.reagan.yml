@@ -8,11 +8,12 @@ metadata:
     - url: https://nitro.powerhrg.com/connect/#users/10633
       title: Connect
       icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: A/V Support Manager
 spec:
   profile:
     displayName: Robert Reagan
     email: robert.reagan@powerhrg.com
-    title: A/V Support Manager
     picture: https://nitro.powerhrg.com/api/v1/users/10633/photo/badge
   memberOf:
     - samurai

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: xjunior
+    portal.powerapp.cloud/job-title: Nitro Sr. Developer - International
 spec:
   profile:
     displayName: Carlos Palhares
     email: carlos.palhares@powerhrg.com
-    title: Nitro Sr. Developer - International
     picture: https://nitro.powerhrg.com/api/v1/users/19596/photo/badge
   memberOf:
     - heroes-for-hire

@@ -10,11 +10,12 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: codemonium
+    portal.powerapp.cloud/job-title: Nitro Developer - International
 spec:
   profile:
     displayName: Igor Artemenko
     email: igor.artemenko@powerhrg.com
-    title: Nitro Developer - International
     picture: https://nitro.powerhrg.com/api/v1/users/99899/photo/badge
   memberOf:
     - rebel-alliance
+    - rogue-one

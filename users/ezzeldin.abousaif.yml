@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: eabousaif
+    portal.powerapp.cloud/job-title: Nitro Developer
 spec:
   profile:
     displayName: Ezz Abousaif
     email: ezzeldin.abousaif@powerhrg.com
-    title: Nitro Developer
     picture: https://nitro.powerhrg.com/api/v1/users/33125/photo/badge
   memberOf:
     - x-men

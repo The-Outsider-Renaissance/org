@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: maricris-sn
+    portal.powerapp.cloud/job-title: Nitro Developer - International
 spec:
   profile:
     displayName: Maricris Nonato
     email: Maricris.nonato@powerhrg.com
-    title: Nitro Developer - International
     picture: https://nitro.powerhrg.com/api/v1/users/92678/photo/badge
   memberOf:
     - titans

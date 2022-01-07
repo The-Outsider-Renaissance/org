@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: wadewinningham
+    portal.powerapp.cloud/job-title: Nitro Principal Developer
 spec:
   profile:
     displayName: Wade Winningham
     email: wwinningham@powerhrg.com
-    title: Nitro Principal Developer
     picture: https://nitro.powerhrg.com/api/v1/users/1/photo/badge
   memberOf:
     - future-foundation

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: nickamantia
+    portal.powerapp.cloud/job-title: Associate User Experience Engineer
 spec:
   profile:
     displayName: Nick Amantia
     email: nick.amantia@powerhrg.com
-    title: Associate User Experience Engineer
     picture: https://nitro.powerhrg.com/api/v1/users/103402/photo/badge
   memberOf:
     - ux-team

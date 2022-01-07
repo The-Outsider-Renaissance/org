@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: evalouderback
+    portal.powerapp.cloud/job-title: User Experience Designer
 spec:
   profile:
     displayName: Eva Louderback
     email: eva.louderback@powerhrg.com
-    title: User Experience Designer
     picture: https://nitro.powerhrg.com/api/v1/users/69019/photo/badge
   memberOf:
     - birds-of-prey

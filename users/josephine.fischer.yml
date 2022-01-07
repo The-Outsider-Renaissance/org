@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: josephinef9
+    portal.powerapp.cloud/job-title: Associate Software Developer
 spec:
   profile:
     displayName: Jo Fischer
     email: josephine.fischer@powerhrg.com
-    title: Associate Software Developer
     picture: https://nitro.powerhrg.com/api/v1/users/53823/photo/badge
   memberOf:
     - x-factor

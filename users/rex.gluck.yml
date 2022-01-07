@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: RexGluck
+    portal.powerapp.cloud/job-title: Associate User Experience Designer
 spec:
   profile:
     displayName: Rex Gluck
     email: rex.gluck@powerhrg.com
-    title: Associate User Experience Designer
     picture: https://nitro.powerhrg.com/api/v1/users/102367/photo/badge
   memberOf:
     - ux-team

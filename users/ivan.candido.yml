@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: Ivancandido11
+    portal.powerapp.cloud/job-title: Student Developer
 spec:
   profile:
     displayName: Ivan Candido
     email: ivan.candido@powerhrg.com
-    title: Student Developer
     picture: https://nitro.powerhrg.com/api/v1/users/88400/photo/badge
   memberOf: []

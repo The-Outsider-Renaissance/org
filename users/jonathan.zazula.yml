@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: kre8sions
+    portal.powerapp.cloud/job-title: Senior User Experience Designer
 spec:
   profile:
     displayName: Jon Zazula
     email: jonathan.zazula@powerhrg.com
-    title: Senior User Experience Designer
     picture: https://nitro.powerhrg.com/api/v1/users/55553/photo/badge
   memberOf:
     - fellowship-of-the-ring

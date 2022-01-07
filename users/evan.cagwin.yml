@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: ecagwin
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
 spec:
   profile:
     displayName: Evan Cagwin
     email: evan.cagwin@powerhrg.com
-    title: Nitro Quality Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/69739/photo/badge
   memberOf:
     - rebel-alliance

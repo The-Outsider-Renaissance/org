@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: casadei
+    portal.powerapp.cloud/job-title: Nitro Developer - International
 spec:
   profile:
     displayName: Felipe Casadei
     email: Felipe.Casadei@powerhrg.com
-    title: Nitro Developer - International
     picture: https://nitro.powerhrg.com/api/v1/users/85900/photo/badge
   memberOf:
     - nova-corps

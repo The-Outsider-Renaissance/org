@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: bklang
+    portal.powerapp.cloud/job-title: Vice President of Business Technology
 spec:
   profile:
     displayName: Ben Klang
     email: bklang@powerhrg.com
-    title: Vice President of Business Technology
     picture: https://nitro.powerhrg.com/api/v1/users/745/photo/badge
   memberOf: []

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: JaysonMandani
+    portal.powerapp.cloud/job-title: Nitro Developer - International
 spec:
   profile:
     displayName: Jayson Mandani
     email: jayson.mandani@powerhrg.com
-    title: Nitro Developer - International
     picture: https://nitro.powerhrg.com/api/v1/users/90371/photo/badge
   memberOf:
     - titans

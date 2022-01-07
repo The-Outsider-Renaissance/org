@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: paigebauer
+    portal.powerapp.cloud/job-title: Nitro Support Ninja
 spec:
   profile:
     displayName: Paige Bauer
     email: paige.bauer@powerhrg.com
-    title: Nitro Support Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/103847/photo/badge
   memberOf: []

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: idanzonshein
+    portal.powerapp.cloud/job-title: Associate Software Developer
 spec:
   profile:
     displayName: Idan Zonshein
     email: idan.zonshein@powerhrg.com
-    title: Associate Software Developer
     picture: https://nitro.powerhrg.com/api/v1/users/47228/photo/badge
   memberOf:
     - birds-of-prey

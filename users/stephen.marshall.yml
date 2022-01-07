@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: thestephenmarshall
+    portal.powerapp.cloud/job-title: Senior User Experience Engineer
 spec:
   profile:
     displayName: Stephen Marshall
     email: stephen.marshall@powerhrg.com
-    title: Senior User Experience Engineer
     picture: https://nitro.powerhrg.com/api/v1/users/33155/photo/badge
   memberOf:
     - ux-team

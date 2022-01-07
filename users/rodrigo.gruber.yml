@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: gruberdev
+    portal.powerapp.cloud/job-title: Nitro Developer - International
 spec:
   profile:
     displayName: Rodrigo Gruber
     email: rodrigo.gruber@powerhrg.com
-    title: Nitro Developer - International
     picture: https://nitro.powerhrg.com/api/v1/users/103752/photo/badge
   memberOf:
     - guardians-of-the-galaxy

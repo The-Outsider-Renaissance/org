@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: rruiz85
+    portal.powerapp.cloud/job-title: User Experience Designer
 spec:
   profile:
     displayName: Ramon Ruiz
     email: rruiz@powerhrg.com
-    title: User Experience Designer
     picture: https://nitro.powerhrg.com/api/v1/users/2019/photo/badge
   memberOf:
     - infinity-inc

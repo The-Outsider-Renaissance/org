@@ -8,10 +8,11 @@ metadata:
     - url: https://nitro.powerhrg.com/connect/#users/13079
       title: Connect
       icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: Business Technology Coordinator
 spec:
   profile:
     displayName: Macey Tanseco
     email: macey.tanseco@powerhrg.com
-    title: Business Technology Coordinator
     picture: https://nitro.powerhrg.com/api/v1/users/13079/photo/badge
   memberOf: []

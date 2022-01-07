@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: jon1735
+    portal.powerapp.cloud/job-title: Student Developer
 spec:
   profile:
     displayName: Jonathan Gonzalez
     email: jonathan.gonzalez@powerhrg.com
-    title: Student Developer
     picture: https://nitro.powerhrg.com/api/v1/users/75159/photo/badge
   memberOf: []

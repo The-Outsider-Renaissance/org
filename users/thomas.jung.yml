@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: TeamTeaTime
+    portal.powerapp.cloud/job-title: Nitro Developer
 spec:
   profile:
     displayName: Thomas Jung
     email: thomas.jung@powerhrg.com
-    title: Nitro Developer
     picture: https://nitro.powerhrg.com/api/v1/users/103802/photo/badge
   memberOf:
     - guardians-of-the-galaxy

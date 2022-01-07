@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: lucasfeijo
+    portal.powerapp.cloud/job-title: Nitro Mobile Application Developer
 spec:
   profile:
     displayName: Lucas Feijo
     email: lucas.feijo@powerhrg.com
-    title: Nitro Mobile Application Developer
     picture: https://nitro.powerhrg.com/api/v1/users/33868/photo/badge
   memberOf:
     - rebel-alliance

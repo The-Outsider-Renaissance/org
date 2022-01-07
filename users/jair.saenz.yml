@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: jairsaenz
+    portal.powerapp.cloud/job-title: Data Analyst
 spec:
   profile:
     displayName: Jair Saenz
     email: jair.saenz@powerhrg.com
-    title: Data Analyst
     picture: https://nitro.powerhrg.com/api/v1/users/61041/photo/badge
   memberOf:
     - batmans-oracle

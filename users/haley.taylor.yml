@@ -8,10 +8,11 @@ metadata:
     - url: https://nitro.powerhrg.com/connect/#users/73614
       title: Connect
       icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: Business Technology Coordinator
 spec:
   profile:
     displayName: Haley Taylor
     email: haley.taylor@powerhrg.com
-    title: Business Technology Coordinator
     picture: https://nitro.powerhrg.com/api/v1/users/73614/photo/badge
   memberOf: []

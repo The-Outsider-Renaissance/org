@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: pauljpark
+    portal.powerapp.cloud/job-title: Associate User Experience Engineer
 spec:
   profile:
     displayName: Paul Park
     email: paul.park@powerhrg.com
-    title: Associate User Experience Engineer
     picture: https://nitro.powerhrg.com/api/v1/users/102412/photo/badge
   memberOf:
     - ux-team

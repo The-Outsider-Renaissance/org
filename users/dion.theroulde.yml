@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: diontheroulde
+    portal.powerapp.cloud/job-title: Student Developer
 spec:
   profile:
     displayName: Dion Theroulde
     email: dion.theroulde@powerhrg.com
-    title: Student Developer
     picture: https://nitro.powerhrg.com/api/v1/users/83620/photo/badge
   memberOf: []

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: batistaDev1113
+    portal.powerapp.cloud/job-title: User Experience Engineer
 spec:
   profile:
     displayName: Yunior Batista
     email: yunior.batista@powerhrg.com
-    title: User Experience Engineer
     picture: https://nitro.powerhrg.com/api/v1/users/99269/photo/badge
   memberOf:
     - ux-team

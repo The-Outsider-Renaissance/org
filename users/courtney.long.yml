@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: courtneylong
+    portal.powerapp.cloud/job-title: Associate User Experience Designer
 spec:
   profile:
     displayName: Courtney Long
     email: courtney.long@powerhrg.com
-    title: Associate User Experience Designer
     picture: https://nitro.powerhrg.com/api/v1/users/95751/photo/badge
   memberOf:
     - ux-team

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: amliss05
+    portal.powerapp.cloud/job-title: Sr. Nitro Quality Ninja
 spec:
   profile:
     displayName: Adam Liss
     email: adam.liss@powerhrg.com
-    title: Sr. Nitro Quality Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/72454/photo/badge
   memberOf:
     - birds-of-prey

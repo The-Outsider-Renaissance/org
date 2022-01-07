@@ -8,10 +8,11 @@ metadata:
     - url: https://nitro.powerhrg.com/connect/#users/69199
       title: Connect
       icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: Technology Support Samurai
 spec:
   profile:
     displayName: Donnie Scalessa
     email: donald.scalessa@powerhrg.com
-    title: Technology Support Samurai
     picture: https://nitro.powerhrg.com/api/v1/users/69199/photo/badge
   memberOf: []

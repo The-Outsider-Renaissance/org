@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: jillianamoroso
+    portal.powerapp.cloud/job-title: Scrum Master
 spec:
   profile:
     displayName: Jillian Amoroso
     email: jillian.amoroso@powerhrg.com
-    title: Scrum Master
     picture: https://nitro.powerhrg.com/api/v1/users/74934/photo/badge
   memberOf:
     - the-incredibles

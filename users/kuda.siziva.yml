@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: kaysiz
+    portal.powerapp.cloud/job-title: Developer Contractor
 spec:
   profile:
     displayName: Kuda Siziva
     email: kudakwashe@ombulabs.com
-    title: Developer Contractor
     picture: https://nitro.powerhrg.com/api/v1/users/104273/photo/badge
   memberOf:
     - heroes-for-hire

@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: kyleschechter
+    portal.powerapp.cloud/job-title: Student Developer
 spec:
   profile:
     displayName: Kyle Schechter
     email: kyle.schechter@powerhrg.com
-    title: Student Developer
     picture: https://nitro.powerhrg.com/api/v1/users/50433/photo/badge
   memberOf: []

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: neildecapia
+    portal.powerapp.cloud/job-title: Nitro Developer
 spec:
   profile:
     displayName: Neil Decapia
     email: neil.decapia@powerhrg.com
-    title: Nitro Developer
     picture: https://nitro.powerhrg.com/api/v1/users/13964/photo/badge
   memberOf:
     - titans

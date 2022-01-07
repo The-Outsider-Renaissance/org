@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: ABizzinotto
+    portal.powerapp.cloud/job-title: Web Developer
 spec:
   profile:
     displayName: Amanda Bizzinotto
     email: amanda@ombulabs.com
-    title: Web Developer
     picture: https://nitro.powerhrg.com/api/v1/users/90434/photo/badge
   memberOf:
     - heroes-for-hire

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: Amax1296
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
 spec:
   profile:
     displayName: Ashlee Maxson
     email: ashlee.maxson@powerhrg.com
-    title: Nitro Quality Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/98249/photo/badge
   memberOf:
     - legion-academy

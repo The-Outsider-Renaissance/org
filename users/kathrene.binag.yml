@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: kathrenepowerhrg
+    portal.powerapp.cloud/job-title: Associate User Experience Designer
 spec:
   profile:
     displayName: Kathrene Binag
     email: kathrene.binag@powerhrg.com
-    title: Associate User Experience Designer
     picture: https://nitro.powerhrg.com/api/v1/users/95421/photo/badge
   memberOf:
     - legion-academy

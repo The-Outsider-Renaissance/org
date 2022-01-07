@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: haydenrou
+    portal.powerapp.cloud/job-title: Nitro Developer - International
 spec:
   profile:
     displayName: Hayden Rouille
     email: hayden.rouille@powerhrg.com
-    title: Nitro Developer - International
     picture: https://nitro.powerhrg.com/api/v1/users/88290/photo/badge
   memberOf:
     - birds-of-prey

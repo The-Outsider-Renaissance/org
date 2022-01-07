@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: datnghiem13
+    portal.powerapp.cloud/job-title: Associate User Experience Designer
 spec:
   profile:
     displayName: Dat Nghiem
     email: dat.nghiem@powerhrg.com
-    title: Associate User Experience Designer
     picture: https://nitro.powerhrg.com/api/v1/users/99384/photo/badge
   memberOf:
     - ux-team

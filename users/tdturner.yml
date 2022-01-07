@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: Talia-TurnerBT
+    portal.powerapp.cloud/job-title: Associate Scrum Master
 spec:
   profile:
     displayName: Talia Turner
     email: tdturner@powerhrg.com
-    title: Associate Scrum Master
     picture: https://nitro.powerhrg.com/api/v1/users/630/photo/badge
   memberOf:
     - birds-of-prey

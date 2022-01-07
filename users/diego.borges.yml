@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: drborges
+    portal.powerapp.cloud/job-title: Nitro Sr. Developer - International
 spec:
   profile:
     displayName: Diego Borges
     email: diego.borges@powerhrg.com
-    title: Nitro Sr. Developer - International
     picture: https://nitro.powerhrg.com/api/v1/users/19591/photo/badge
   memberOf:
     - the-incredibles

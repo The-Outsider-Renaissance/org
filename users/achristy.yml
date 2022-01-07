@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: imsoninjayoucantseeme
+    portal.powerapp.cloud/job-title: Senior Nitro Producteer
 spec:
   profile:
     displayName: Anthony Christy
     email: achristy@powerhrg.com
-    title: Senior Nitro Producteer
     picture: https://nitro.powerhrg.com/api/v1/users/581/photo/badge
   memberOf:
     - titans

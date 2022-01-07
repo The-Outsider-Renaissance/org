@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: tub80728
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
 spec:
   profile:
     displayName: Rameal Mitchell
     email: rameal.mitchell@powerhrg.com
-    title: Nitro Quality Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/14925/photo/badge
   memberOf:
     - fellowship-of-the-ring

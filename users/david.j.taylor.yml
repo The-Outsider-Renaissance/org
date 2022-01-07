@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: djtaylor
+    portal.powerapp.cloud/job-title: Sr. Site Reliability Engineer
 spec:
   profile:
     displayName: David Taylor
     email: david.j.taylor@powerhrg.com
-    title: Sr. Site Reliability Engineer
     picture: https://nitro.powerhrg.com/api/v1/users/15700/photo/badge
   memberOf:
     - watchtower

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: evanagood
+    portal.powerapp.cloud/job-title: Director of Business Technology
 spec:
   profile:
     displayName: Evan Good
     email: evan.good@powerhrg.com
-    title: Director of Business Technology
     picture: https://nitro.powerhrg.com/api/v1/users/70389/photo/badge
   memberOf:
     - future-foundation

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: etagwerker
+    portal.powerapp.cloud/job-title: Web Developer
 spec:
   profile:
     displayName: Ernesto Tagwerker
     email: ernesto@ombulabs.com
-    title: Web Developer
     picture: https://nitro.powerhrg.com/api/v1/users/36403/photo/badge
   memberOf:
     - heroes-for-hire

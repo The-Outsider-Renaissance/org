@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: terryfinn
+    portal.powerapp.cloud/job-title: Nitro Sr. Developer
 spec:
   profile:
     displayName: Terry Finn
     email: terry.finn@powerhrg.com
-    title: Nitro Sr. Developer
     picture: https://nitro.powerhrg.com/api/v1/users/29367/photo/badge
   memberOf:
     - fellowship-of-the-ring

@@ -8,11 +8,12 @@ metadata:
     - url: https://nitro.powerhrg.com/connect/#users/40283
       title: Connect
       icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: Technology Support Samurai
 spec:
   profile:
     displayName: Nick Leone
     email: nicholas.leone@powerhrg.com
-    title: Technology Support Samurai
     picture: https://nitro.powerhrg.com/api/v1/users/40283/photo/badge
   memberOf:
     - samurai

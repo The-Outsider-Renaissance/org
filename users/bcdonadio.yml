@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: bcdonadio
+    portal.powerapp.cloud/job-title: Site Reliability Engineer - International
 spec:
   profile:
     displayName: Bernardo Donadio
     email: bcdonadio@powerhrg.com
-    title: Site Reliability Engineer - International
     picture: https://nitro.powerhrg.com/api/v1/users/58886/photo/badge
   memberOf:
     - watchtower

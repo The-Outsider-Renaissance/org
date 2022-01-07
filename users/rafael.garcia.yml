@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: rafbgarcia
+    portal.powerapp.cloud/job-title: Nitro Developer
 spec:
   profile:
     displayName: Rafael Garcia
     email: rafael.garcia@powerhrg.com
-    title: Nitro Developer
     picture: https://nitro.powerhrg.com/api/v1/users/14497/photo/badge
   memberOf:
     - batmans-oracle

@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: sholanda
+    portal.powerapp.cloud/job-title: Apprentice Site Reliability Engineer
 spec:
   profile:
     displayName: Sholanda Hayslett
     email: sholanda.hayslett@powerhrg.com
-    title: Apprentice Site Reliability Engineer
     picture: https://nitro.powerhrg.com/api/v1/users/87610/photo/badge
   memberOf: []

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: franciosi
+    portal.powerapp.cloud/job-title: Site Reliability Engineer - International
 spec:
   profile:
     displayName: André Franciosi
     email: andre.franciosi@powerhrg.com
-    title: Site Reliability Engineer - International
     picture: https://nitro.powerhrg.com/api/v1/users/97214/photo/badge
   memberOf:
     - stormwatch

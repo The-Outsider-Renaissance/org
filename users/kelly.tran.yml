@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: ktran270
+    portal.powerapp.cloud/job-title: Nitro Support Mentor
 spec:
   profile:
     displayName: Kelly Tran
     email: kelly.tran@powerhrg.com
-    title: Nitro Support Mentor
     picture: https://nitro.powerhrg.com/api/v1/users/21076/photo/badge
   memberOf:
     - heroes-for-hire

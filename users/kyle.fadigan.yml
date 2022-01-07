@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: KFad11
+    portal.powerapp.cloud/job-title: Nitro Developer
 spec:
   profile:
     displayName: Kyle Fadigan
     email: kyle.fadigan@powerhrg.com
-    title: Nitro Developer
     picture: https://nitro.powerhrg.com/api/v1/users/7735/photo/badge
   memberOf:
     - infinity-inc

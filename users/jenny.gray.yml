@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: average-jen
+    portal.powerapp.cloud/job-title: Vice President of Application Development and Infrastructure
 spec:
   profile:
     displayName: Jenny Gray
     email: jenny.gray@powerhrg.com
-    title: Vice President of Application Development and Infrastructure
     picture: https://nitro.powerhrg.com/api/v1/users/79745/photo/badge
   memberOf:
     - future-foundation

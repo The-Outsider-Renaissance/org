@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: btanseco
+    portal.powerapp.cloud/job-title: Director of Technology Support Services
 spec:
   profile:
     displayName: Butch Tanseco
     email: btanseco@powerhrg.com
-    title: Director of Technology Support Services
     picture: https://nitro.powerhrg.com/api/v1/users/232/photo/badge
   memberOf:
     - samurai

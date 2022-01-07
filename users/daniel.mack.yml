@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: danielmmack
+    portal.powerapp.cloud/job-title: Nitro Developer
 spec:
   profile:
     displayName: Daniel Mack
     email: daniel.mack@powerhrg.com
-    title: Nitro Developer
     picture: https://nitro.powerhrg.com/api/v1/users/20801/photo/badge
   memberOf:
     - fellowship-of-the-ring

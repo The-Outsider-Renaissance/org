@@ -10,11 +10,12 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: andrew-k9
+    portal.powerapp.cloud/job-title: Associate Software Developer
 spec:
   profile:
     displayName: Andrew Kloecker
     email: andrew.kloecker@powerhrg.com
-    title: Associate Software Developer
     picture: https://nitro.powerhrg.com/api/v1/users/40263/photo/badge
   memberOf:
     - rebel-alliance
+    - rogue-one

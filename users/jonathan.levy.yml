@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: jonathan-levy17
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
 spec:
   profile:
     displayName: Jonathan Levy
     email: jonathan.levy@powerhrg.com
-    title: Nitro Quality Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/36998/photo/badge
   memberOf:
     - rebel-alliance

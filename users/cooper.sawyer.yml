@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: CooperSawyer1
+    portal.powerapp.cloud/job-title: Student Developer
 spec:
   profile:
     displayName: Cooper Sawyer
     email: cooper.sawyer@powerhrg.com
-    title: Student Developer
     picture: https://nitro.powerhrg.com/api/v1/users/9540/photo/badge
   memberOf: []

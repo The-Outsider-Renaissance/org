@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: KatherineMuedas
+    portal.powerapp.cloud/job-title: Nitro Developer
 spec:
   profile:
     displayName: Katherine Muedas
     email: katherine.muedas@powerhrg.com
-    title: Nitro Developer
     picture: https://nitro.powerhrg.com/api/v1/users/86880/photo/badge
   memberOf:
     - legion-academy

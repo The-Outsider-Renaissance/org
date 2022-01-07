@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: kellyeryan
+    portal.powerapp.cloud/job-title: Associate Software Developer
 spec:
   profile:
     displayName: Kelly Ryan
     email: kelly.ryan@powerhrg.com
-    title: Associate Software Developer
     picture: https://nitro.powerhrg.com/api/v1/users/90739/photo/badge
   memberOf:
     - legion-academy

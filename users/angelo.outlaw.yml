@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: Jello521
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
 spec:
   profile:
     displayName: Gelo Outlaw
     email: angelo.outlaw@powerhrg.com
-    title: Nitro Quality Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/75579/photo/badge
   memberOf:
     - legion-academy

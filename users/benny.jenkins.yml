@@ -8,10 +8,11 @@ metadata:
     - url: https://nitro.powerhrg.com/connect/#users/91408
       title: Connect
       icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: Nitro Support Ninja
 spec:
   profile:
     displayName: Benny Jenkins
     email: benny.jenkins@powerhrg.com
-    title: Nitro Support Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/91408/photo/badge
   memberOf: []

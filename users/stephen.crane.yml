@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: RudeChowder
+    portal.powerapp.cloud/job-title: Student Developer
 spec:
   profile:
     displayName: Stephen Crane
     email: stephen.crane@powerhrg.com
-    title: Student Developer
     picture: https://nitro.powerhrg.com/api/v1/users/11992/photo/badge
   memberOf:
     - infinity-inc

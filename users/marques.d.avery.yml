@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: marquesavery
+    portal.powerapp.cloud/job-title: Scrum Master
 spec:
   profile:
     displayName: Marques Avery
     email: marques.d.avery@powerhrg.com
-    title: Scrum Master
     picture: https://nitro.powerhrg.com/api/v1/users/87580/photo/badge
   memberOf:
     - eternals

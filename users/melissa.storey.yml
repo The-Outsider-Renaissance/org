@@ -8,10 +8,11 @@ metadata:
     - url: https://nitro.powerhrg.com/connect/#users/42383
       title: Connect
       icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: Administrative Coordinator
 spec:
   profile:
     displayName: Melissa Storey
     email: melissa.storey@powerhrg.com
-    title: Administrative Coordinator
     picture: https://nitro.powerhrg.com/api/v1/users/42383/photo/badge
   memberOf: []

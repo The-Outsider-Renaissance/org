@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: ljtinney
+    portal.powerapp.cloud/job-title: Associate Software Developer
 spec:
   profile:
     displayName: Liam Tinney
     email: ltinney@powerhrg.com
-    title: Associate Software Developer
     picture: https://nitro.powerhrg.com/api/v1/users/902/photo/badge
   memberOf:
     - heroes-for-hire

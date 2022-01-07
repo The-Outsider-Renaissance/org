@@ -8,10 +8,11 @@ metadata:
     - url: https://nitro.powerhrg.com/connect/#users/1804
       title: Connect
       icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: Business Technology Coordinator
 spec:
   profile:
     displayName: Michelle Bower
     email: mbower@powerhrg.com
-    title: Business Technology Coordinator
     picture: https://nitro.powerhrg.com/api/v1/users/1804/photo/badge
   memberOf: []

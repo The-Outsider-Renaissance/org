@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: patmccler
+    portal.powerapp.cloud/job-title: Associate Software Developer
 spec:
   profile:
     displayName: Pat McClernan
     email: patrick.mcclernan@powerhrg.com
-    title: Associate Software Developer
     picture: https://nitro.powerhrg.com/api/v1/users/39973/photo/badge
   memberOf:
     - x-men

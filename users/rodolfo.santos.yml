@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: rodolfoasantos
+    portal.powerapp.cloud/job-title: Nitro Developer - International
 spec:
   profile:
     displayName: Rodolfo Santos
     email: rodolfo.santos@powerhrg.com
-    title: Nitro Developer - International
     picture: https://nitro.powerhrg.com/api/v1/users/92653/photo/badge
   memberOf:
     - legion-academy

@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: gmfvpereira
+    portal.powerapp.cloud/job-title: Nitro Sr. Developer - International
 spec:
   profile:
     displayName: Gabriel Pereira
     email: gabriel.pereira@powerhrg.com
-    title: Nitro Sr. Developer - International
     picture: https://nitro.powerhrg.com/api/v1/users/24746/photo/badge
   memberOf:
     - legion-academy

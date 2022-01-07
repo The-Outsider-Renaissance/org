@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: cvargaspower
+    portal.powerapp.cloud/job-title: Associate User Experience Designer
 spec:
   profile:
     displayName: Caitlin Vargas
     email: caitlin.vargas@powerhrg.com
-    title: Associate User Experience Designer
     picture: https://nitro.powerhrg.com/api/v1/users/102307/photo/badge
   memberOf:
     - ux-team

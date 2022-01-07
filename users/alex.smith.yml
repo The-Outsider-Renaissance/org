@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: Csmitty03
+    portal.powerapp.cloud/job-title: Nitro Support Ninja
 spec:
   profile:
     displayName: Alex Smith
     email: alex.smith@powerhrg.com
-    title: Nitro Support Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/105368/photo/badge
   memberOf: []

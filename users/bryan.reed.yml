@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: bsreed
+    portal.powerapp.cloud/job-title: Assistant Director of Nitro Support Services
 spec:
   profile:
     displayName: Bryan Reed
     email: bryan.reed@powerhrg.com
-    title: Assistant Director of Nitro Support Services
     picture: https://nitro.powerhrg.com/api/v1/users/10688/photo/badge
   memberOf:
     - x-factor

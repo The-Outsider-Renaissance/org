@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: samanthar8
+    portal.powerapp.cloud/job-title: Scrum Master
 spec:
   profile:
     displayName: Samantha Rogers
     email: samantha.rogers@powerhrg.com
-    title: Scrum Master
     picture: https://nitro.powerhrg.com/api/v1/users/75589/photo/badge
   memberOf: []

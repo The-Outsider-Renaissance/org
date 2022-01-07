@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: maddiemc01
+    portal.powerapp.cloud/job-title: Associate Software Developer
 spec:
   profile:
     displayName: Maddie McCardle
     email: madison.mccardle@powerhrg.com
-    title: Associate Software Developer
     picture: https://nitro.powerhrg.com/api/v1/users/56538/photo/badge
   memberOf:
     - nova-corps

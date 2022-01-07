@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: dmcindoe
+    portal.powerapp.cloud/job-title: Student Developer
 spec:
   profile:
     displayName: Andrew McIndoe
     email: amcindoe@powerhrg.com
-    title: Student Developer
     picture: https://nitro.powerhrg.com/api/v1/users/1681/photo/badge
   memberOf: []

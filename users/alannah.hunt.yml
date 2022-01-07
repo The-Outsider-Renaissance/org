@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: AlannahHunt
+    portal.powerapp.cloud/job-title: Nitro Support Ninja
 spec:
   profile:
     displayName: Alannah Hunt
     email: alannah.hunt@powerhrg.com
-    title: Nitro Support Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/34313/photo/badge
   memberOf: []

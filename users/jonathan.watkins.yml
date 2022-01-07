@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: Jonwatkins2010
+    portal.powerapp.cloud/job-title: Sr. Nitro Quality Ninja
 spec:
   profile:
     displayName: Jonathan Watkins
     email: jonathan.watkins@powerhrg.com
-    title: Sr. Nitro Quality Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/24146/photo/badge
   memberOf:
     - fellowship-of-the-ring

@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: gillianwenhold
+    portal.powerapp.cloud/job-title: Code Academy Instructor
 spec:
   profile:
     displayName: Gillian Wenhold
     email: gillian.wenhold@powerhrg.com
-    title: Code Academy Instructor
     picture: https://nitro.powerhrg.com/api/v1/users/8316/photo/badge
   memberOf: []

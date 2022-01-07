@@ -10,10 +10,10 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: michaelejones
+    portal.powerapp.cloud/job-title: Nitro Support Ninja
 spec:
   profile:
     displayName: Michael Jones
     email: michael.e.jones@powerhrg.com
-    title: Nitro Support Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/103827/photo/badge
   memberOf: []

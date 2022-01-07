@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: smkopp92
+    portal.powerapp.cloud/job-title: Code Academy Instructor
 spec:
   profile:
     displayName: Sebastian Kopp
     email: sebastian.kopp@powerhrg.com
-    title: Code Academy Instructor
     picture: https://nitro.powerhrg.com/api/v1/users/65164/photo/badge
   memberOf:
     - fellowship-of-the-ring

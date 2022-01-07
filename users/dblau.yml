@@ -10,11 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: danblau
+    portal.powerapp.cloud/job-title: Nitro Producteer
 spec:
   profile:
     displayName: Dan Blau
     email: dblau@powerhrg.com
-    title: Nitro Producteer
     picture: https://nitro.powerhrg.com/api/v1/users/546/photo/badge
   memberOf:
     - the-incredibles
