@@ -10,6 +10,7 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: benlangfeld
+    portal.powerapp.cloud/job-title: Nitro Principal Developer - International
 spec:
   profile:
     displayName: Ben Langfeld
