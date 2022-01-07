@@ -1,0 +1,17 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: rogue-one
+  title: Rogue One
+  description: Mobile development team
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/396/backlog
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: Rogue One
+  children: []
+  parent: bt

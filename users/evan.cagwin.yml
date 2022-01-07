@@ -16,4 +16,6 @@ spec:
     email: evan.cagwin@powerhrg.com
     title: Nitro Quality Ninja
     picture: https://nitro.powerhrg.com/api/v1/users/69739/photo/badge
-  memberOf: []
+  memberOf:
+    - rebel-alliance
+    - rogue-one
