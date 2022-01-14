@@ -14,4 +14,4 @@ spec:
   profile:
     displayName: Rogue One
   children: []
-  parent: bt
+  parent: collaboration

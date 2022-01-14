@@ -16,4 +16,4 @@ spec:
   profile:
     displayName: Guardians of the Galaxy
   children: []
-  parent: bt
+  parent: technology-foundations-and-tools

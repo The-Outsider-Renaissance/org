@@ -10,7 +10,8 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: bsreed
-    portal.powerapp.cloud/job-title: Assistant Director of Nitro Support Services
+    portal.powerapp.cloud/job-title: >
+      Assistant Director of Nitro Support Services
 spec:
   profile:
     displayName: Bryan Reed

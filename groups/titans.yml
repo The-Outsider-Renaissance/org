@@ -16,4 +16,4 @@ spec:
   profile:
     displayName: Titans
   children: []
-  parent: bt
+  parent: project-and-installation-services

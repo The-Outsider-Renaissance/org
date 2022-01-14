@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: stream
+  title: Stream
+  description: Teams supporting the Stream domain.
+spec:
+  type: domain
+  profile:
+    displayName: Stream
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: stream
+  title: Stream
+  description: Stream Financial lending systems.
+spec:
+  owner: stream

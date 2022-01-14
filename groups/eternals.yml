@@ -16,4 +16,4 @@ spec:
   profile:
     displayName: Eternals
   children: []
-  parent: bt
+  parent: stream

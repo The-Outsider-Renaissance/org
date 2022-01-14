@@ -16,4 +16,4 @@ spec:
   profile:
     displayName: Heroes for Hire
   children: []
-  parent: bt
+  parent: technology-foundations-and-tools

@@ -16,4 +16,4 @@ spec:
   profile:
     displayName: Watchmen
   children: []
-  parent: bt
+  parent: technology-foundations-and-tools

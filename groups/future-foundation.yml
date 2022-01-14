@@ -14,4 +14,4 @@ spec:
   profile:
     displayName: Future Foundation
   children: []
-  parent: bt
+  parent: technology-foundations-and-tools

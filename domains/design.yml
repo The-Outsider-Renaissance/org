@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: design
+  title: Design
+  description: Teams supporting the Design domain.
+spec:
+  type: domain
+  profile:
+    displayName: Design
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: design
+  title: Design
+  description: TBD
+spec:
+  owner: design

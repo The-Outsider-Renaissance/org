@@ -16,4 +16,4 @@ spec:
   profile:
     displayName: Fellowship of the Ring
   children: []
-  parent: bt
+  parent: acquisition

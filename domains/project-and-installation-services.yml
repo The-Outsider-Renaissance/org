@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: project-and-installation-services
+  title: Project & Installation Services
+  description: Teams supporting the Project & Installation Services domain.
+spec:
+  type: domain
+  profile:
+    displayName: Project & Installation Services
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: project-and-installation-services
+  title: Project & Installation Services
+  description: Systems to support delivering sold projects to customers.
+spec:
+  owner: project-and-installation-services

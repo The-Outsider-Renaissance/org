@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: in-home
+  title: In Home
+  description: Teams supporting the In Home domain.
+spec:
+  type: domain
+  profile:
+    displayName: In Home
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: in-home
+  title: In Home
+  description: TBD
+spec:
+  owner: in-home

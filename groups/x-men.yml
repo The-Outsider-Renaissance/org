@@ -16,4 +16,4 @@ spec:
   profile:
     displayName: X-Men
   children: []
-  parent: bt
+  parent: project-and-installation-services

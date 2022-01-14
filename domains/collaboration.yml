@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: collaboration
+  title: Collaboration
+  description: Teams supporting the Collaboration domain.
+spec:
+  type: domain
+  profile:
+    displayName: Collaboration
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: collaboration
+  title: Collaboration
+  description: Tools for collaboration between employees.
+spec:
+  owner: collaboration

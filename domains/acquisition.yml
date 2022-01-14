@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: acquisition
+  title: Acquisition
+  description: Teams supporting the Acquisition domain.
+spec:
+  type: domain
+  profile:
+    displayName: Acquisition
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: acquisition
+  title: Acquisition
+  description: Tools related to acquiring customers.
+spec:
+  owner: acquisition

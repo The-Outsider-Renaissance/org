@@ -16,4 +16,4 @@ spec:
   profile:
     displayName: Watchtower
   children: []
-  parent: bt
+  parent: technology-foundations-and-tools

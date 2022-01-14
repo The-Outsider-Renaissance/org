@@ -16,4 +16,4 @@ spec:
   profile:
     displayName: UX Team
   children: []
-  parent: bt
+  parent: design

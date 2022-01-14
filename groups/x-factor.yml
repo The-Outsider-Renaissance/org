@@ -16,4 +16,4 @@ spec:
   profile:
     displayName: X-Factor
   children: []
-  parent: bt
+  parent: in-home

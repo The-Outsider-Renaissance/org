@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: corporate-systems
+  title: Corporate Systems
+  description: Teams supporting the Corporate Systems domain.
+spec:
+  type: domain
+  profile:
+    displayName: Corporate Systems
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: corporate-systems
+  title: Corporate Systems
+  description: TBD
+spec:
+  owner: corporate-systems

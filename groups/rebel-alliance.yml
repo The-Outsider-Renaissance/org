@@ -16,4 +16,4 @@ spec:
   profile:
     displayName: Rebel Alliance
   children: []
-  parent: bt
+  parent: collaboration
