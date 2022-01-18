@@ -11,6 +11,9 @@ metadata:
     - url: https://nitro.powerhrg.com/runway/teams/80/backlog/
       title: Runway
       icon: list
+    - url: https://zoom.us/j/8386783816
+      title: Zoom
+      icon: videocall
 spec:
   type: team
   profile:

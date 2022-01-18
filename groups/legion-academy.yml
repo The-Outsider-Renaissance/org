@@ -11,6 +11,9 @@ metadata:
     - url: https://nitro.powerhrg.com/runway/teams/140/backlog/
       title: Runway
       icon: list
+    - url: https://powerhrg.zoom.us/my/legionacademy
+      title: Zoom
+      icon: videocall
 spec:
   type: team
   profile:

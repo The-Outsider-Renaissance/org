@@ -11,6 +11,9 @@ metadata:
     - url: https://nitro.powerhrg.com/runway/teams/74/backlog/
       title: UX Design Runway
       icon: list
+    - url: https://powerhrg.zoom.us/my/nitroux
+      title: Zoom
+      icon: videocall
 spec:
   type: team
   profile:

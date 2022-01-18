@@ -7,6 +7,10 @@ metadata:
   description: Nitro testing and support
   annotations:
     github.com/team-slug: powerhome/ninjas
+  links:
+    - url: https://powerhrg.zoom.us/my/ninjas
+      title: Zoom
+      icon: videocall
 spec:
   type: team
   profile:
