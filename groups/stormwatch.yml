@@ -4,7 +4,7 @@ kind: Group
 metadata:
   name: stormwatch
   title: Stormwatch
-  description: Server and storage
+  description: Compute, Storage and Overall Core Infrastructure
   annotations:
     github.com/team-slug: powerhome/site-reliability-engineers
   links:
