@@ -17,5 +17,4 @@ spec:
     email: eric.lewis@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/35733/photo/badge
   memberOf:
-    - watchmen
-    - shield
+    - sword

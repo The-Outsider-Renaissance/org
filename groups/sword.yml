@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: sword
+  title: S.W.O.R.D.
+  description: Information & Network Security
+  annotations:
+    github.com/team-slug: powerhome/s-w-o-r-d
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/299/backlog
+      title: Runway
+      icon: list
+    - url: https://nitro.powerhrg.com/connect/#rooms/62114
+      title: Connect
+      icon: chat
+spec:
+  type: team
+  profile:
+    displayName: S.W.O.R.D.
+  children: []
+  parent: technology-foundations-and-tools

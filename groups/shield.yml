@@ -4,7 +4,7 @@ kind: Group
 metadata:
   name: shield
   title: S.H.I.E.L.D.
-  description: IAM & Security
+  description: IAM & Application Security
   annotations:
     github.com/team-slug: powerhome/s-h-i-e-l-d
   links:
