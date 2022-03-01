@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: eternals
+  title: Eternals
+  description: Stream Finance / Tempo development team
+  annotations:
+    github.com/team-slug: powerhome/eternals
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/284/backlog/
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: Eternals
+  children: []
+  parent: bt
