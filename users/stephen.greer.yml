@@ -17,4 +17,4 @@ spec:
     email: stephen.greer@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/70999/photo/badge
   memberOf:
-    - x-men
+    - shield
