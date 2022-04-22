@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: francisco.fialho
+  title: Francisco Fialho
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/112825
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: fffialho
+    portal.powerapp.cloud/job-title: Site Reliability Engineer - International
+spec:
+  profile:
+    displayName: Francisco Fialho
+    email: francisco.fialho@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/112825/photo/badge
+  memberOf:
+    - stormwatch
