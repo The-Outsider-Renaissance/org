@@ -10,7 +10,7 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: gmfvpereira
-    portal.powerapp.cloud/job-title: Nitro Sr. Developer - International
+    portal.powerapp.cloud/job-title: Nitro Lead Developer - International
 spec:
   profile:
     displayName: Gabriel Pereira

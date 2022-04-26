@@ -18,4 +18,5 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/24146/photo/badge
   memberOf:
     - fellowship-of-the-ring
+    - green-lantern-corps
     - infinity-inc
