@@ -16,4 +16,5 @@ spec:
     displayName: Neha Abraham
     email: neha.abraham@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/103032/photo/badge
-  memberOf: []
+  memberOf: 
+    - fellowship-of-the-ring
