@@ -10,7 +10,7 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: that-jill
-    portal.powerapp.cloud/job-title: Nitro Developer
+    portal.powerapp.cloud/job-title: Nitro Sr. Developer
 spec:
   profile:
     displayName: Jill Klang

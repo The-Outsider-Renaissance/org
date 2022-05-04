@@ -10,7 +10,7 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: terryfinn
-    portal.powerapp.cloud/job-title: Nitro Sr. Developer
+    portal.powerapp.cloud/job-title: Lead Nitro Developer
 spec:
   profile:
     displayName: Terry Finn

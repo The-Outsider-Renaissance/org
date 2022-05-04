@@ -10,7 +10,7 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: patmccler
-    portal.powerapp.cloud/job-title: Associate Software Developer
+    portal.powerapp.cloud/job-title: Nitro Developer
 spec:
   profile:
     displayName: Pat McClernan
