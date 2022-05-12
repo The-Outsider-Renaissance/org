@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Group
+kind: Group2
 metadata:
   name: guardians-of-the-galaxy
   description: >
