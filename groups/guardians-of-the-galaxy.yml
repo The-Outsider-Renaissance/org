@@ -23,3 +23,12 @@ spec:
     displayName: Guardians of the Galaxy
   children: []
   parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: test-location
+  description: Test location
+spec:
+  targets:
+    - ./*/*.yml
