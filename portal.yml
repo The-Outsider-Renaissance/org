@@ -25,3 +25,39 @@ spec:
     email: bt@powerhrg.com
   children: []
   parent: group:powerhome
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: all-groups
+  description: A collection of all Groups
+spec:
+  targets:
+    - ./groups/*.yml
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: all-users
+  description: A collection of all Users
+spec:
+  targets:
+    - ./users/*.yml
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: all-domains
+  description: A collection of all Domains
+spec:
+  targets:
+    - ./domains/*.yml
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: all-domains
+  description: A collection of all Domains
+spec:
+  targets:
+    - ./**/*.yml
