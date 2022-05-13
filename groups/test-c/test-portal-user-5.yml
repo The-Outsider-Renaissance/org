@@ -2,8 +2,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: testing.user.5!!
-  title: Test User 5
+  name: testing.user.6
+  title: Test User 6
   links:
     - url: https://nitro.powerhrg.com/connect/#users/103752
       title: Connect
@@ -27,4 +27,3 @@ metadata:
 spec:
   targets:
     - ../../test-ab/*.yml
-    - https://github.com/The-Outsider-Renaissance/org/blob/probot-test-branch/groups/test-c/*.yml
