@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: powerhome!
+  name: powerhome!!
   description: Power Home Remodeling Group
   links:
     - url: http://www.powerhrg.com/
