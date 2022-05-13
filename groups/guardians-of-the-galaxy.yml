@@ -31,4 +31,4 @@ metadata:
   description: Test location
 spec:
   targets:
-    - ./*/*.yml
+    - https://github.com/The-Outsider-Renaissance/org/blob/probot-test-branch/groups/test-a/test-portal-user.yml
