@@ -18,3 +18,12 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/86425/photo/badge
   memberOf:
     - guardians-of-the-galaxy
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: test-location
+  description: Test location
+spec:
+  targets:
+    - ../test-ab/*.yml
