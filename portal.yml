@@ -52,3 +52,12 @@ metadata:
 spec:
   targets:
     - ./domains/*.yml
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: all-domains
+  description: A collection of all Domains
+spec:
+  targets:
+    - ./**/*.yml
