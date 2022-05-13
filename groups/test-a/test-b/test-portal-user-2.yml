@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: test.user.3
+  title: Test User 3
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/86425
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: ryanmrodriguez
+    portal.powerapp.cloud/job-title: Nitro Developer
+spec:
+  profile:
+    displayName: Ryan Rodriguez
+    email: ryan.rodriguez@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/86425/photo/badge
+  memberOf:
+    - guardians-of-the-galaxy
