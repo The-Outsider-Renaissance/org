@@ -26,4 +26,4 @@ metadata:
   description: Test location
 spec:
   targets:
-    - ./test-ab/*.yml
+    - ./test-d/*.yml
