@@ -19,7 +19,6 @@ spec:
   memberOf:
     - guardians-of-the-galaxy
 ---
----
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
