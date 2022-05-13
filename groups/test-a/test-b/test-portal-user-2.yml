@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: test.user.3!
+  name: test.user.3!!
   title: Test User 3
   links:
     - url: https://nitro.powerhrg.com/connect/#users/86425
