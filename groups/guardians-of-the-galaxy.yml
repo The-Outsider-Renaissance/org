@@ -32,3 +32,4 @@ metadata:
 spec:
   targets:
     - ./*/*.yml
+    - https://github.com/The-Outsider-Renaissance/org/blob/main/groups/eternals.yml
