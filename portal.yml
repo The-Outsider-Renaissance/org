@@ -54,3 +54,12 @@ metadata:
 spec:
   targets:
     - ./users/*.yml
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: power-systems
+  description: A collection of Power Systems
+spec:
+  targets:
+    - ./systems/*.yml
