@@ -9,7 +9,7 @@ metadata:
 spec:
   type: organization
   profile:
-    displayName: Power Home Remodeling Group!
+    displayName: Power Home Remodeling Group
     email: info@powerhrg.com
   children: []
 ---
