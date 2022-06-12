@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: create-2022-06
+  title: Create 2022.06
+  description: Teams working at Create 2022.06.
+spec:
+  type: domain
+  profile:
+    displayName: Create 2022.06
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: create-2022-06
+  title: Create 2022.06
+  description: Applications built for the Create 2022.06 exercise.
+spec:
+  owner: create-2022-06
