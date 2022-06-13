@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: flash
+  title: Flash
+  description: Team for Create 2022.6
+  annotations:
+    github.com/team-slug: powerhome/flash
+spec:
+  type: team
+  profile:
+    displayName: Flash
+  children: []
+  parent: create-2022-6

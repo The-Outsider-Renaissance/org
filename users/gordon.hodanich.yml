@@ -16,4 +16,5 @@ spec:
     displayName: Gordon Hodanich
     email: gordon.hodanich@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/68284/photo/badge
-  memberOf: []
+  memberOf:
+    - flash

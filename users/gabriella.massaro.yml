@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: gabriella.massaro
+  title: Gabriella Massaro
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/111295
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: gabbymassaro
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
+spec:
+  profile:
+    displayName: Gabriella Massaro
+    email: gabriella.massaro@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/111295/photo/badge
+  memberOf:
+    - flash
