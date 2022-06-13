@@ -18,3 +18,4 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/33125/photo/badge
   memberOf:
     - x-men
+    - power-slide

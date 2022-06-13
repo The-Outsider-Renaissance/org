@@ -16,4 +16,6 @@ spec:
     displayName: Jelena Durovic
     email: jelena.durovic@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/82215/photo/badge
-  memberOf: []
+  memberOf:
+  - x-men
+  - power-slide

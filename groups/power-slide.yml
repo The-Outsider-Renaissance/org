@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: power-slide
+  title: Power Slide
+  description: Team 2 for Create 2022.6
+  annotations:
+    github.com/team-slug: powerhome/power-slide
+spec:
+  type: team
+  profile:
+    displayName: Power Slide
+  children: []
+  parent: create-2022-6
