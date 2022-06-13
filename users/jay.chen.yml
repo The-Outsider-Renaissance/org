@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jay.chen
+  title: Jay Chen
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/110230
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: mchen1989
+    portal.powerapp.cloud/job-title: Producteer
+spec:
+  profile:
+    displayName: Jay Chen
+    email: jay.chen@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/110230/photo/badge
+  memberOf:
+    - tres-leches

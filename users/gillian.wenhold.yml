@@ -16,4 +16,5 @@ spec:
     displayName: Gillian Wenhold
     email: gillian.wenhold@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/8316/photo/badge
-  memberOf: []
+  memberOf: 
+    - tres-leches
