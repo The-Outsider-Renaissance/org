@@ -18,3 +18,4 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/53823/photo/badge
   memberOf:
     - x-factor
+    - pbay
