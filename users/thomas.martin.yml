@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: thomas.j.martin
+  title: TJ Martin
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/106876
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: Tomm1128
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
+spec:
+  profile:
+    displayName: TJ Martin
+    email: thomas.j.martin@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/106876/photo/badge
+  memberOf:
+    - eternals
+    - gambit

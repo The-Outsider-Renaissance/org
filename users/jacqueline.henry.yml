@@ -18,3 +18,4 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/72459/photo/badge
   memberOf:
     - stormwatch
+    - gambit
