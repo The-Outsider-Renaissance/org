@@ -1,0 +1,15 @@
+---
+ apiVersion: backstage.io/v1alpha1
+ kind: Group
+ metadata:
+   name: 10dollars-per-gallon
+   title: 10dollars-per-gallon
+   description: Team 10 for Create 2022.6
+   annotations:
+     github.com/team-slug: powerhome/10dollars-per-gallon
+ spec:
+   type: team
+   profile:
+     displayName: 10dollars-per-gallon
+   children: []
+   parent: create-2022-6

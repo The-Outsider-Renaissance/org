@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: malek.saadeh
+  title: Malek Saadeh
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/112375
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: malekphrg
+    portal.powerapp.cloud/job-title: UX Engineer
+spec:
+  profile:
+    displayName: Malek 
+    email: malek.saadeh@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/112375/photo/badge
+  memberOf:
+    - 10dollars-per-gallon

@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: khidr.brinkley
+  title: Khidr Brinkley
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/111375
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: kbrinkley31
+    portal.powerapp.cloud/job-title: Nitro Mobile Developer
+spec:
+  profile:
+    displayName: Khidr Brinkley
+    email: khidr.brinkley@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/111375/photo/badge
+  memberOf:
+    - 10dollars-per-gallon
+    - rebel-alliance
+    - rogue-one

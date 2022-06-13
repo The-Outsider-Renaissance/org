@@ -17,6 +17,7 @@ spec:
     email: jonathan.zazula@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/55553/photo/badge
   memberOf:
+    - 10dollars-per-gallon
     - fellowship-of-the-ring
     - ux-team
     - titans

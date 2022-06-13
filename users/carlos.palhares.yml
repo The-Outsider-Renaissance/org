@@ -17,4 +17,5 @@ spec:
     email: carlos.palhares@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/19596/photo/badge
   memberOf:
+    - 10dollars-per-gallon
     - heroes-for-hire

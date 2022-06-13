@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: fellipe.desouza
+  title: Fellipe de Souza
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/106926
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: FellipeSouzaDEV
+    portal.powerapp.cloud/job-title: Nitro Developer - International
+spec:
+  profile:
+    displayName: Fellipe de Souza
+    email: fellipe.desouza@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/106926/photo/badge
+  memberOf:
+    - 10dollars-per-gallon
+    - rebel-alliance
+    - rogue-one
