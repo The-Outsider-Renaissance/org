@@ -16,4 +16,5 @@ spec:
     displayName: Kyle Schechter
     email: kyle.schechter@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/50433/photo/badge
-  memberOf: []
+  memberOf:
+    - kudo-chop

@@ -16,4 +16,5 @@ spec:
     displayName: Andrew McIndoe
     email: amcindoe@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/1681/photo/badge
-  memberOf: []
+  memberOf: 
+    - kudo-chop

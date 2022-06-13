@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: kudo-chop
+  title: Kudo Chop
+  description: Team 7 for Create 2022.6
+  annotations:
+    github.com/team-slug: powerhome/kudo-chop
+spec:
+  type: team
+  profile:
+    displayName: Kudo Chop
+  children: []
+  parent: create-2022-6

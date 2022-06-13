@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: prince.lang
+  title: Prince Lang
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/113090
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: princelang
+    portal.powerapp.cloud/job-title: Associate User Experience Designer
+spec:
+  profile:
+    displayName: Prince Lang
+    email: prince.lang@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/113090/photo/badge
+  memberOf:
+    - kudo-chop
+    - ux-team
