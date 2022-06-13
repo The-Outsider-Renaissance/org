@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sergio.araujo
+  title: Sergio Vilar
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/113780
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: sergiopvilar
+    portal.powerapp.cloud/job-title: Nitro Engineer
+spec:
+  profile:
+    displayName: Sergio Vilar
+    email: sergio.araujo@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/113780/photo/badge
+  memberOf:
+    - nova-corps
+    - ctrl-alt-elite
