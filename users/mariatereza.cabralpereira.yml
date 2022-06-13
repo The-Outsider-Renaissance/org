@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mariatereza.cabralpereira
+  title: MT Pereira
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/113885
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: mterezac
+    portal.powerapp.cloud/job-title: Nitro Developer - International
+spec:
+  profile:
+    displayName: MT Pereira
+    email: mariatereza.cabralpereira@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/113885/photo/badge
+  memberOf:
+    - invigor8
+    - x-factor

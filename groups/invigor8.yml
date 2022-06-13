@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: invigor8
+  title: inVIGOR8
+  description: Team 8 for Create 2022.6
+  annotations:
+    github.com/team-slug: powerhome/invigor8
+spec:
+  type: team
+  profile:
+    displayName: inVIGOR8
+  children: []
+  parent: create-2022-6

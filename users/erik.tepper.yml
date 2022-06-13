@@ -17,4 +17,5 @@ spec:
     email: erik.tepper@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/18816/photo/badge
   memberOf:
+    - invigor8
     - watchmen

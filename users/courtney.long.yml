@@ -17,5 +17,6 @@ spec:
     email: courtney.long@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/95751/photo/badge
   memberOf:
+    - invigor8
     - ux-team
     - x-factor

@@ -17,4 +17,5 @@ spec:
     email: patrick.mcclernan@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/39973/photo/badge
   memberOf:
+    - invigor8
     - x-men
