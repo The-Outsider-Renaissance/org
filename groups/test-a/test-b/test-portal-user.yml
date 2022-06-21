@@ -13,8 +13,9 @@ metadata:
     portal.powerapp.cloud/job-title: Nitro Developer
 spec:
   profile:
-    displayName: Dang Huynh
-    email: dang.huynh@powerhrg.com
+    displayName: Test User
+    email: test123@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/103182/photo/badge
   memberOf:
     - guardians-of-the-galaxy
+    
