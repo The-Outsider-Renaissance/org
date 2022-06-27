@@ -16,5 +16,4 @@ spec:
     displayName: Gabriella Massaro
     email: gabriella.massaro@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/111295/photo/badge
-  memberOf:
-    - flash
+  memberOf: []

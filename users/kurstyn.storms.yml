@@ -16,5 +16,4 @@ spec:
     displayName: Kurstyn Storms
     email: kurstyn.storms@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/23666/photo/badge
-  memberOf:
-    - flash
+  memberOf: []

@@ -17,5 +17,4 @@ spec:
     email: brandon.pridgen@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/73164/photo/badge
   memberOf:
-    - 10dollars-per-gallon
     - heroes-for-hire

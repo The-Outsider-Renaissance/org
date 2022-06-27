@@ -16,5 +16,4 @@ spec:
     displayName: Tyler Smith
     email: tsmith@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/99909/photo/badge
-  memberOf:
-    - kudo-chop
+  memberOf: []

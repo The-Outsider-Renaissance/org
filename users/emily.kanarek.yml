@@ -15,5 +15,4 @@ spec:
     displayName: Emily Kanarek
     email: emily.kanarek@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/102602/photo/badge
-  memberOf: 
-    - 10dollars-per-gallon
+  memberOf: []

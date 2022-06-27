@@ -16,5 +16,4 @@ spec:
     displayName: Ben Klang
     email: bklang@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/745/photo/badge
-  memberOf:
-    - create-example-team
+  memberOf: []

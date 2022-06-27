@@ -15,5 +15,4 @@ spec:
     displayName: Melissa Storey
     email: melissa.storey@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/42383/photo/badge
-  memberOf:
-    - best-create-team-of-all-time
+  memberOf: []

@@ -15,5 +15,4 @@ spec:
     displayName: Jay Chen
     email: jay.chen@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/110230/photo/badge
-  memberOf:
-    - tres-leches
+  memberOf: []

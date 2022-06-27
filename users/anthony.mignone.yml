@@ -16,5 +16,4 @@ spec:
     displayName: Anthony Mignone
     email: anthony.mignone@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/114735/photo/badge
-  memberOf:
-    - ctrl-alt-elite
+  memberOf: []

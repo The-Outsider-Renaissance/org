@@ -16,5 +16,4 @@ spec:
     displayName: Malek 
     email: malek.saadeh@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/112375/photo/badge
-  memberOf:
-    - 10dollars-per-gallon
+  memberOf: []

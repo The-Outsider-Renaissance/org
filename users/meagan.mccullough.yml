@@ -17,5 +17,4 @@ spec:
     email: meagan.mccullough@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/105443/photo/badge
   memberOf:
-    - invigor8
     - x-factor

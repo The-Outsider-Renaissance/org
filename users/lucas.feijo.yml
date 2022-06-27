@@ -17,6 +17,5 @@ spec:
     email: lucas.feijo@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/33868/photo/badge
   memberOf:
-    - 10dollars-per-gallon
     - rebel-alliance
     - rogue-one

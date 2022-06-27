@@ -16,5 +16,4 @@ spec:
     displayName: Sholanda Hayslett
     email: sholanda.hayslett@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/87610/photo/badge
-  memberOf:
-    - kudo-chop
+  memberOf: []

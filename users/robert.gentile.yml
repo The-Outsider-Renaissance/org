@@ -16,5 +16,4 @@ spec:
     displayName: Robert Gentile
     email: robert.gentile@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/76819/photo/badge
-  memberOf: 
-    - tres-leches
+  memberOf: []

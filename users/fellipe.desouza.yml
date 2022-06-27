@@ -17,6 +17,5 @@ spec:
     email: fellipe.desouza@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/106926/photo/badge
   memberOf:
-    - 10dollars-per-gallon
     - rebel-alliance
     - rogue-one

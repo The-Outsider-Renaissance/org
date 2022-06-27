@@ -17,6 +17,5 @@ spec:
     email: everton.cunha@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/86035/photo/badge
   memberOf:
-    - 10dollars-per-gallon
     - rebel-alliance
     - rogue-one

@@ -17,5 +17,4 @@ spec:
     email: smith.ascari@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/113790/photo/badge
   memberOf:
-    - gambit
     - x-men

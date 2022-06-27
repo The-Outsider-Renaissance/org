@@ -17,7 +17,6 @@ spec:
     email: eva.louderback@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/69019/photo/badge
   memberOf:
-    - 10dollars-per-gallon
     - birds-of-prey
     - ux-team
     - nova-corps

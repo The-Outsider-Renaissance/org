@@ -16,5 +16,4 @@ spec:
     displayName: Samantha Rogers
     email: samantha.rogers@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/75589/photo/badge
-  memberOf:
-    - kudo-chop
+  memberOf: []

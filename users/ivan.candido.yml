@@ -16,5 +16,4 @@ spec:
     displayName: Ivan Candido
     email: ivan.candido@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/88400/photo/badge
-  memberOf:
-    - best-create-team-of-all-time
+  memberOf: []

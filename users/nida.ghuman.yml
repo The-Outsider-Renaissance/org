@@ -16,5 +16,4 @@ spec:
     email: nida.ghuman@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/108830/photo/badge
   memberOf:
-    - kudo-chop
     - ux-team
