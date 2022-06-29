@@ -11,10 +11,10 @@ metadata:
     - url: https://nitro.powerhrg.com/runway/teams/520/backlog
       title: Runway
       icon: list
-    - url: https://powerhrg.zoom.us/j/3619029045
+    - url: https://powerhrg.zoom.us/j/4761804560
       title: Zoom
       icon: videocall
-    - url: https://nitro.powerhrg.com/connect/#rooms/90100
+    - url: https://nitro.powerhrg.com/connect#rooms/90100
       title: Connect
       icon: chat
 spec:
