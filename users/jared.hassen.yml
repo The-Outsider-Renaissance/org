@@ -17,5 +17,5 @@ spec:
     email: jared.hassen@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/12063/photo/badge
   memberOf:
-    - rebel-alliance
-    - rogue-one
+    - titans
+    - x-men

@@ -16,6 +16,4 @@ spec:
     displayName: Marques Avery
     email: marques.d.avery@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/87580/photo/badge
-  memberOf:
-    - rogue-one
-    - rebel-alliance
+  memberOf: []
