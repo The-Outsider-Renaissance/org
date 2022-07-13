@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: israel.molestina
+  title: Israel Molestina
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/116415
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: Israel-Molestina
+    portal.powerapp.cloud/job-title: Associate User Experience Engineer
+spec:
+  profile:
+    displayName: Israel Molestina
+    email: israel.molestina@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/116415/photo/badge
+  memberOf:
+    - ux-team
