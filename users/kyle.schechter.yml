@@ -10,10 +10,11 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: kyleschechter
-    portal.powerapp.cloud/job-title: Student Developer
+    portal.powerapp.cloud/job-title: Associate Developer
 spec:
   profile:
     displayName: Kyle Schechter
     email: kyle.schechter@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/50433/photo/badge
-  memberOf: []
+  memberOf:
+    - nova-corps
