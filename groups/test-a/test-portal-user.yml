@@ -27,3 +27,20 @@ metadata:
 spec:
   targets:
     - ./test-b/*.yml
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: nitro-sterling
+  title: Nitro Sterling
+  description: Sterling (a third-party screening service) API integration
+spec:
+  type: library
+  owner: ""
+  system: nitro
+  lifecycle: production
+  subcomponentOf: nitro-web
+  dependsOn:
+    - component:nitro-linting
+    - component:nitro-mysql
+    - component:nitro-ruby-test-helpers
