@@ -1,16 +1,61 @@
----
+# ---
+# apiVersion: backstage.io/v1alpha1
+# kind: Domain
+# metadata:
+#   name: testing-domain!
+#   description: A testing domain
+# spec:
+#   owner: guardians-of-the-galaxy
+# ---
+# apiVersion: backstage.io/v1alpha1
+# kind: Domain
+# metadata:
+#   name: testing-domain-2
+#   description: A testing domain
+# spec:
+#   owner: guardians-of-the-galaxy
+
 apiVersion: backstage.io/v1alpha1
-kind: Domain
+kind: Resource
 metadata:
-  name: testing-domain!
-  description: A testing domain
+  name: devtb-talkbox-confirmation
+  title: DevTB Talkbox Confirmation
+  description: Talkbox service for the confirmation queue
+  tags:
+    - nitro
+    - talkbox
+    - confirmation
+  links:
+    - url: https://netbox.powerinfra.io/ipam/ip-addresses/?tag=devtb&tag=talkbox&q=confirmation
+      title: DevTB Talkbox Confirmation IP Addresses
+      icon: public
 spec:
-  owner: guardians-of-the-galaxy
+  type: server
+  owner: stormwatch
+  system: core-infrastructure
+  dependsOn:
+    - system:puppet-legacy
 ---
+#
+# DevTB Talkbox Dialer
+#
 apiVersion: backstage.io/v1alpha1
-kind: Domain
+kind: Resource
 metadata:
-  name: testing-domain-2
-  description: A testing domain
+  name: devtb-talkbox-dialer
+  title: DevTB Talkbox Dialer
+  description: Talkbox service for the dialer queue
+  tags:
+    - nitro
+    - talkbox
+    - dialer
+  links:
+    - url: https://netbox.powerinfra.io/ipam/ip-addresses/?tag=devtb&tag=talkbox&q=dialer
+      title: DevTB Talkbox Dialer IP Addresses
+      icon: public
 spec:
-  owner: guardians-of-the-galaxy
+  type: server
+  owner: stormwatch
+  system: core-infrastructure
+  dependsOn:
+    - system:puppet-legacy
