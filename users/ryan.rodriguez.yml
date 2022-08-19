@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: ryan.rodriguez!!
+  name: ryan.rodriguez
   title: Ryan Rodriguez
   links:
     - url: https://nitro.powerhrg.com/connect/#users/86425
