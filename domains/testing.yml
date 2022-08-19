@@ -6,3 +6,11 @@ metadata:
   description: A testing domain
 spec:
   owner: guardians-of-the-galaxy
+###Testing
+apiVersion: backstage.io/v1alpha1
+kind: Domain2
+metadata:
+  name: testing-domain-2
+  description: A testing domain
+spec:
+  owner: guardians-of-the-galaxy
