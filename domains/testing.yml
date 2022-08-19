@@ -2,7 +2,15 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: testing-domain
+  name: testing-domain!
+  description: A testing domain
+spec:
+  owner: guardians-of-the-galaxy
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain2
+metadata:
+  name: testing-domain-2
   description: A testing domain
 spec:
   owner: guardians-of-the-galaxy
