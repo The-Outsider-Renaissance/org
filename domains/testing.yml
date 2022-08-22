@@ -4,6 +4,5 @@ kind: Resource
 metadata:
   name: testing-domain
   description: A testing domain!!
-spec:
   owner: guardians-of-the-galaxy
   type: database
