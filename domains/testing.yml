@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
-  name: testing-domain!
+  name: testing-domain
   nonsense: test
   description: A testing domain
 spec:
