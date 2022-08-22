@@ -3,6 +3,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
   name: testing-domain
-  description: A testing domain!!
+  description: A testing domain!
   owner: guardians-of-the-galaxy
   type: database
