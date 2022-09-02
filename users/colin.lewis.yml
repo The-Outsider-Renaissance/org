@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: colin.lewis
+  title: Colin Lewis
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/115020
+      title: Connect
+      icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: Nitro Producteer
+spec:
+  profile:
+    displayName: Colin Lewis
+    email: colin.lewis@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/115020/photo/badge
+  memberOf:
+    - ux-team
