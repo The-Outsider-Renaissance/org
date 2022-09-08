@@ -1,0 +1,18 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: caitie.rosenberg
+  title: Caitie Rosenberg
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/116730
+      title: Connect
+      icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: Manager of Application Development
+spec:
+  profile:
+    displayName: Caitie Rosenberg
+    email: caitie.rosenberg@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/116730/photo/badge
+  memberOf: []
