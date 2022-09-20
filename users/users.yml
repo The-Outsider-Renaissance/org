@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: doug.smith
+  title: Doug Smith
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/123
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: doug3
+    portal.powerapp.cloud/job-title: Nitro Developer
+spec:
+  profile:
+    displayName: Doug
+    email: doug.smith@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/123/photo/badge
+  memberOf:
+    - guardians-of-the-galaxy
+    - bt
