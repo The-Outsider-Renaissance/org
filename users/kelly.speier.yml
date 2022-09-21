@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kelly.speier
+  title: Kelly Speier
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/117450
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: k-speier
+    portal.powerapp.cloud/job-title: Senior User Experience Designer
+spec:
+  profile:
+    displayName: Kelly Speier
+    email: kelly.speier@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/117450/photo/badge
+  memberOf:
+    - the-incredibles
