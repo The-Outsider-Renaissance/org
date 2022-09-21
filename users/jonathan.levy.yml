@@ -17,5 +17,6 @@ spec:
     email: jonathan.levy@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/36998/photo/badge
   memberOf:
+    - power-rangers
     - rebel-alliance
     - rogue-one
