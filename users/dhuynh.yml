@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dhuynh
+  title: dhuynh
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/1234
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: dhuynh3
+    portal.powerapp.cloud/job-title: Developer
+spec:
+  profile:
+    displayName: Dang
+    email: dhuynh@gmail.com
+    picture: https://nitro.powerhrg.com/api/v1/users/1234/photo/badge
+  memberOf:
+    - guardians-of-the-galaxy
