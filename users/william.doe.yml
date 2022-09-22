@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: william.doe
+  title: Bill Doe
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/1234
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: coolguy
+    portal.powerapp.cloud/job-title: Nitro Developer
+spec:
+  profile:
+    displayName: Bill Doe
+    email: william.doe@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/1234/photo/badge
+    memberOf: []
+  
