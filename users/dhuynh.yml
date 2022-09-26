@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dhuynh
+  title: Ding Huynh
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/12345
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: dhuynh123
+    portal.powerapp.cloud/job-title: Developer
+spec:
+  profile:
+    displayName: Ding Huynh
+    email: dhuynh@gmail.com
+    picture: https://nitro.powerhrg.com/api/v1/users/12345/photo/badge
+    memberOf: []
