@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: alex.murphy
+  title: Alex Murphy
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/111995
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: moumoutaru
+    portal.powerapp.cloud/job-title: Site Reliability Engineer
+spec:
+  profile:
+    displayName: Alex Murphy
+    email: alex.murphy@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/111995/photo/badge
+  memberOf:
+    - watchtower
