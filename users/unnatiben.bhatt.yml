@@ -16,4 +16,5 @@ spec:
     displayName: Unnatiben Bhatt
     email: unnatiben.bhatt@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/113025/photo/badge
-  memberOf: []
+  memberOf:
+    - web-warriors
