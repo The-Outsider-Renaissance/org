@@ -11,6 +11,9 @@ metadata:
     - url: https://nitro.powerhrg.com/runway/teams/555/backlog/sprints/active
       title: Runway
       icon: list
+    - url: https://nitro.powerhrg.com/connect/#rooms/117041
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:
