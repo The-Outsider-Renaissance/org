@@ -34,6 +34,7 @@ metadata:
 spec:
   targets:
     - ./groups/*.yml
+    - ./groups/*/*.yml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Location

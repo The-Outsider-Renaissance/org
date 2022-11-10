@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: test-team-2
+  description: New description
+  annotations:
+    github.com/team-slug: powerhome/test-team
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/85/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/guardians
+      title: Zoom
+      icon: videocall
+spec:
+  type: team
+  profile:
+    displayName: Test Team 2
+  children: []
+  parent: bt
