@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: oliver.lin
+  title: Oliver Lin
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/121656
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: PowerOliver
+    portal.powerapp.cloud/job-title: Director of Application Development
+spec:
+  profile:
+    displayName: Oliver Lin
+    email: oliver.lin@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/121656/photo/badge
+  memberOf: []
