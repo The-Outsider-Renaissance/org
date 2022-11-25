@@ -16,4 +16,6 @@ spec:
     displayName: Devan Russo
     email: devan.russo@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/46368/photo/badge
-  memberOf: []
+  memberOf:
+    - unbreakable
+    - first-contact
