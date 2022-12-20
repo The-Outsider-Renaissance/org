@@ -1,0 +1,28 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: forever-people
+  title: Forever People
+  description: Application operations
+  annotations:
+    github.com/team-slug: powerhome/forever-people
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/591/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/guardians
+      title: Zoom
+      icon: videocall
+    - url: https://nitro.powerhrg.com/connect/#rooms/121286
+      title: Connect
+      icon: chat
+    - url: https://github.com/powerhome/rfcs/blob/main/0076-datastores-team.md
+      title: Constituting RFC
+      icon: docs
+spec:
+  type: team
+  profile:
+    displayName: Forever People
+  children: []
+  parent: technology-foundations-and-tools
