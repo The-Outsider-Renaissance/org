@@ -17,7 +17,7 @@ metadata:
     - url: https://nitro.powerhrg.com/connect/#rooms/121286
       title: Connect
       icon: chat
-    - url: https://github.com/powerhome/rfcs/blob/main/0076-datastores-team.md
+    - url: https://github.com/powerhome/rfcs/blob/main/0076-forever-people-new-team.md
       title: Constituting RFC
       icon: docs
 spec:
