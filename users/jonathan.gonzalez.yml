@@ -16,4 +16,5 @@ spec:
     displayName: Jonathan Gonzalez
     email: jonathan.gonzalez@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/75159/photo/badge
-  memberOf: []
+  memberOf:
+    - umbrella-academy

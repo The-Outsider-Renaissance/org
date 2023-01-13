@@ -16,4 +16,5 @@ spec:
     displayName: Cooper Sawyer
     email: cooper.sawyer@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/9540/photo/badge
-  memberOf: []
+  memberOf: 
+    - heart-of-gold

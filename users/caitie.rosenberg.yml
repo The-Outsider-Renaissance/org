@@ -15,4 +15,5 @@ spec:
     displayName: Caitie Rosenberg
     email: caitie.rosenberg@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/116730/photo/badge
-  memberOf: []
+  memberOf:
+    - heart-of-gold

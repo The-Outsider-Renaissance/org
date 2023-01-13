@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: code-academy
+  title: Code Academy
+  description: Power's Code Academy graduates that work on various projects.
+spec:
+  type: domain
+  profile:
+    displayName: Code Academy
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: code-academy
+  title: Code Academy
+  description: Power's Code Academy graduates that work on various projects.
+spec:
+  owner: code-academy

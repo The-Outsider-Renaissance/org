@@ -1,0 +1,25 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: umbrella-academy
+  title: Umbrella Academy
+  description: Code Academy Team
+  annotations:
+    github.com/team-slug: powerhome/umbrella-academy
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/481/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/powercode
+      title: Zoom
+      icon: videocall
+    - url: https://nitro.powerhrg.com/connect/#rooms/86786
+      title: Connect
+      icon: chat
+spec:
+  type: team
+  profile:
+    displayName: Umbrella Academy
+  children: []
+  parent: code-academy
