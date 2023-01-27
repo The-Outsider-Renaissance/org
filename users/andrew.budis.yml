@@ -18,3 +18,4 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/20611/photo/badge
   memberOf:
     - samurai
+    - voltron
