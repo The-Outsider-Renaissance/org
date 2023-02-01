@@ -5,6 +5,8 @@ metadata:
   name: future-foundation
   title: Future Foundation
   description: Tech Leadership
+  annotations:
+    github.com/team-slug: powerhome/future-foundation
   links:
     - url: https://nitro.powerhrg.com/runway/teams/326/backlog/
       title: Runway

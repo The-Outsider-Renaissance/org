@@ -5,6 +5,8 @@ metadata:
   name: rogue-one
   title: Rogue One
   description: Mobile development team
+  annotations:
+    github.com/team-slug: powerhome/rogue-one
   links:
     - url: https://nitro.powerhrg.com/runway/teams/396/backlog
       title: Runway
