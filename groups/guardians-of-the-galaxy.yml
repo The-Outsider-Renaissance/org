@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: guardians-of-the-galaxy
+  name: guardians-of-the-galaxy-new
   description: >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum egestas purus sit amet tellus imperdiet lobortis. Mauris pharetra, lorem sed gravida porttitor, quam diam dignissim tortor, ac ultrices magna neque id risus. Nunc faucibus eget neque vestibulum aliquam. Praesent rhoncus risus vel eros faucibus, in volutpat justo viverra. Integer rhoncus massa quis ligula porttitor dignissim. In hac habitasse platea dictumst. Aliquam risus lacus, malesuada sit amet magna in, sodales porttitor dolor.
 
