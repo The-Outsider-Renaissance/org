@@ -26,4 +26,4 @@ metadata:
   description: Nested location
 spec:
   targets:
-    - ./domains/test-groups-2/*.yml
+    - ./test-groups-2/*.yml
