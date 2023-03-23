@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: daniel.bournival
+  title: Dan Bournival
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/25506
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: danielbournival
+    portal.powerapp.cloud/job-title: Apprentice Site Reliability Engineer
+spec:
+  profile:
+    displayName: Dan Bournival
+    email: daniel.bournival@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/25506/photo/badge
+  memberOf: []

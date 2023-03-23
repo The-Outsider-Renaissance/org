@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: technology-foundations-and-tools
+  title: Technology Foundations & Tools
+  description: Teams supporting the Technology Foundations & Tools domain.
+spec:
+  type: domain
+  profile:
+    displayName: Technology Foundations & Tools
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: technology-foundations-and-tools
+  title: Technology Foundations & Tools
+  description: Baseline technology platforms and tools to support other teams in BT.
+spec:
+  owner: technology-foundations-and-tools

@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ashley.hooker
+  title: Ashley Hooker
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/118905
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: ash-hooker
+    portal.powerapp.cloud/job-title: Senior User Experience Designer
+spec:
+  profile:
+    displayName: Ashley Hooker
+    email: ashley.hooker@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/118905/photo/badge
+  memberOf:
+    - titans

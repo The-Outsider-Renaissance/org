@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: steve.landwehr
+  title: Steve Landwehr
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/90076
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: stevelandwehr
+    portal.powerapp.cloud/job-title: Nitro Developer
+spec:
+  profile:
+    displayName: Steve Landwehr
+    email: steve.landwehr@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/90076/photo/badge
+  memberOf:
+    - birds-of-prey

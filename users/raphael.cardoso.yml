@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: raphael.cardoso
+  title: Raphael Cardoso
+  links:
+    - url: https://nitro.powerhrg.com/connect#users/125496
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: raphaelcardoso
+    portal.powerapp.cloud/job-title: Site Reliability Engineer - International
+spec:
+  profile:
+    displayName: Raphael Cardoso
+    email: raphael.cardoso@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/125496/photo/badge
+  memberOf:
+    - voltron

@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: heroes-for-hire
+  title: Heroes for Hire
+  description: Nitro upgrades and refactoring
+  annotations:
+    github.com/team-slug: powerhome/heroes-for-hire
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/199/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/heroesforhire
+      title: Zoom
+      icon: videocall
+spec:
+  type: team
+  profile:
+    displayName: Heroes for Hire
+  children: []
+  parent: technology-foundations-and-tools

@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: lucas.feijo
+  title: Lucas Feijo
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/33868
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: lucasfeijo
+    portal.powerapp.cloud/job-title: Nitro Mobile Application Developer
+spec:
+  profile:
+    displayName: Lucas Feijo
+    email: lucas.feijo@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/33868/photo/badge
+  memberOf:
+    - rebel-alliance
+    - rogue-one

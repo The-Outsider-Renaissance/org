@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: felipe.casadei
+  title: Felipe Casadei
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/85900
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: casadei
+    portal.powerapp.cloud/job-title: Nitro Developer - International
+spec:
+  profile:
+    displayName: Felipe Casadei
+    email: Felipe.Casadei@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/85900/photo/badge
+  memberOf:
+    - first-contact

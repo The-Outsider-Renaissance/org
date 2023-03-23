@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: gavin.huang
+  title: Gavin Huang
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/107895
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: gavhuang
+    portal.powerapp.cloud/job-title: Associate User Experience Engineer
+spec:
+  profile:
+    displayName: Gavin Huang
+    email: gavin.huang@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/107895/photo/badge
+  memberOf:
+    - ux-team

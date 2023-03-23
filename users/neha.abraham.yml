@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: neha.abraham
+  title: Neha Abraham
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/103032
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: nehaabraham
+    portal.powerapp.cloud/job-title: Nitro Developer
+spec:
+  profile:
+    displayName: Neha Abraham
+    email: neha.abraham@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/103032/photo/badge
+  memberOf:
+    - batmans-oracle

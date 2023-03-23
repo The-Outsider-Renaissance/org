@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: stephen.marshall
+  title: Stephen Marshall
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/33155
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: thestephenmarshall
+    portal.powerapp.cloud/job-title: Senior User Experience Engineer
+spec:
+  profile:
+    displayName: Stephen Marshall
+    email: stephen.marshall@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/33155/photo/badge
+  memberOf:
+    - ux-team

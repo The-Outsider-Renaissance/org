@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: btanseco
+  title: Butch Tanseco
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/232
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: btanseco
+    portal.powerapp.cloud/job-title: Director of Technology Support Services
+spec:
+  profile:
+    displayName: Butch Tanseco
+    email: btanseco@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/232/photo/badge
+  memberOf:
+    - samurai

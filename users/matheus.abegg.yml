@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: matheus.abegg
+  title: Matheus Abegg
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/25641
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: mpabegg
+    portal.powerapp.cloud/job-title: Nitro Developer - International
+spec:
+  profile:
+    displayName: Matheus Abegg
+    email: matheus.abegg@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/25641/photo/badge
+  memberOf:
+    - eternals

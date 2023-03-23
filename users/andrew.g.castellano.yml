@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: andrew.g.castellano
+  title: Drew Castellano
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/111260
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: JrooNature
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
+spec:
+  profile:
+    displayName: Drew Castellano
+    email: andrew.g.castellano@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/111260/photo/badge
+  memberOf:
+    - legion-academy
+    - nova-corps

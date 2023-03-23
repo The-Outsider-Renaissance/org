@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: erik.tepper
+  title: Erik Tepper
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/18816
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: eriktepper
+    portal.powerapp.cloud/job-title: Site Reliability Engineer
+spec:
+  profile:
+    displayName: Erik Tepper
+    email: erik.tepper@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/18816/photo/badge
+  memberOf:
+    - watchmen

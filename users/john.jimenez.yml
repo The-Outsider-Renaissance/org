@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: john.jimenez
+  title: John Jimenez
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/106781
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: Llama-Ranger
+    portal.powerapp.cloud/job-title: Site Reliability Engineer Fellow
+spec:
+  profile:
+    displayName: John Jimenez
+    email: john.jimenez@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/106781/photo/badge
+  memberOf:
+    - watchmen

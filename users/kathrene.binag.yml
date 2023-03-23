@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kathrene.binag
+  title: Kathrene Binag
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/95421
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: kathrenepowerhrg
+    portal.powerapp.cloud/job-title: Associate User Experience Designer
+spec:
+  profile:
+    displayName: Kathrene Binag
+    email: kathrene.binag@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/95421/photo/badge
+  memberOf:
+    - legion-academy
+    - ux-team

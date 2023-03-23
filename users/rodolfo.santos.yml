@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: rodolfo.santos
+  title: Rodolfo Santos
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/92653
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: rodolfoasantos
+    portal.powerapp.cloud/job-title: Nitro Developer - International
+spec:
+  profile:
+    displayName: Rodolfo Santos
+    email: rodolfo.santos@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/92653/photo/badge
+  memberOf:
+    - legion-academy

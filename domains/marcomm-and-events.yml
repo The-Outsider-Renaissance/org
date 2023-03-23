@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: marcomm-and-events
+  title: MarComm & Events
+  description: Teams supporting the MarComm & Events domain.
+spec:
+  type: domain
+  profile:
+    displayName: MarComm & Events
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: marcomm-and-events
+  title: MarComm & Events
+  description: Publicity, events management and employee engagement.
+spec:
+  owner: marcomm-and-events

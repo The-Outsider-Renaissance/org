@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: michelle.hey
+  title: Michelle Hey
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/91003
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: michellemhey
+    portal.powerapp.cloud/job-title: Nitro Developer
+spec:
+  profile:
+    displayName: Michelle Hey
+    email: michelle.hey@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/91003/photo/badge
+  memberOf:
+    - super-friends

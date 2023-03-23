@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: christopher.wilson
+  title: Chris Wilson
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/821
+      title: Connect
+      icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: Special Projects Manager
+spec:
+  profile:
+    displayName: Chris Wilson
+    email: cwilson@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/821/photo/badge
+  memberOf:
+    - green-lantern-corps
+    - infinity-inc
+    - heart-of-gold

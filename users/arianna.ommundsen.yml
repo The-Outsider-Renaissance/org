@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: arianna.ommundsen
+  title: Arianna Ommundsen
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/104338
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: arianna-ommundsen
+    portal.powerapp.cloud/job-title: Nitro Support Ninja
+spec:
+  profile:
+    displayName: Arianna Ommundsen
+    email: arianna.ommundsen@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/104338/photo/badge
+  memberOf: []

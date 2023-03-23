@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: workforce-enablement
+  title: Workforce Enablement
+  description: Teams supporting the Workforce Enablement domain.
+spec:
+  type: domain
+  profile:
+    displayName: Workforce Enablement
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: workforce-enablement
+  title: Workforce Enablement
+  description: Tools for enabling greater employee productivity cross-department.
+spec:
+  owner: workforce-enablement

@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: charles.odonnell
+  title: Charlie Odonnell
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/114095
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: charlie-power
+    portal.powerapp.cloud/job-title: User Experience Designer
+spec:
+  profile:
+    displayName: Charlie Odonnell
+    email: charles.odonnell@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/114095/photo/badge
+  memberOf:
+    - ux-team

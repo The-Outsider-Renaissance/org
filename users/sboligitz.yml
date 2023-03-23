@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sboligitz
+  title: Steve Boligitz
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/663
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: sboligitz
+    portal.powerapp.cloud/job-title: Nitro Producteer
+spec:
+  profile:
+    displayName: Steve Boligitz
+    email: sboligitz@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/663/photo/badge
+  memberOf:
+    - legion-academy
+    - nova-corps

@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: corporate-finance
+  title: Corporate Finance
+  description: Teams supporting the Corporate Finance domain.
+spec:
+  type: domain
+  profile:
+    displayName: Corporate Finance
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: corporate-finance
+  title: Corporate Finance
+  description: Corporate finance / accounting tools.
+spec:
+  owner: corporate-finance

@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kschwerin
+  title: Kraig Schwerin
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/1674
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: thisisntkraig
+    portal.powerapp.cloud/job-title: Director of Nitro Support Services
+spec:
+  profile:
+    displayName: Kraig Schwerin
+    email: kschwerin@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/1674/photo/badge
+  memberOf: []

@@ -1,0 +1,11 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: power-application-framework
+  title: Power Application Framework
+  description: Tools used to build applications at Power
+spec:
+  owner: heroes-for-hire
+  domain: technology-foundations-and-tools
+  lifecycle: production

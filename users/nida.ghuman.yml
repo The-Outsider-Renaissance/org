@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: nida.ghuman
+  title: Nida Ghuman
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/108830
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: nidaqg
+    portal.powerapp.cloud/job-title: Associate User Experience Engineer
+spec:
+  profile:
+    displayName: Nida Ghuman
+    email: nida.ghuman@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/108830/photo/badge
+  memberOf:
+    - ux-team

@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: brandon.pridgen
+  title: Brandon Pridgen
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/73164
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: bpridgen91
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
+spec:
+  profile:
+    displayName: Brandon Pridgen
+    email: brandon.pridgen@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/73164/photo/badge
+  memberOf:
+    - heroes-for-hire

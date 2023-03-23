@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: carlos.lima
+  title: Carlos Lima
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/122776
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: carloslimasd
+    portal.powerapp.cloud/job-title: User Experience Engineer - International
+spec:
+  profile:
+    displayName: Carlos Lima
+    email: carlos.lima@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/122776/photo/badge
+  memberOf:
+    - ux-team

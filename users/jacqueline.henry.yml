@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jacqueline.henry
+  title: Jacqueline Henry
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/72459
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: jackiehpowerhrg
+    portal.powerapp.cloud/job-title: Site Reliability Engineer
+spec:
+  profile:
+    displayName: Jacqueline Henry
+    email: jacqueline.henry@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/72459/photo/badge
+  memberOf:
+    - stormwatch

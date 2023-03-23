@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: andrew.budis
+  title: Andrew Budis
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/20611
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: ajbudis
+    portal.powerapp.cloud/job-title: Lead Technology Support Specialist
+spec:
+  profile:
+    displayName: Andrew Budis
+    email: andrew.budis@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/20611/photo/badge
+  memberOf:
+    - samurai
+    - voltron

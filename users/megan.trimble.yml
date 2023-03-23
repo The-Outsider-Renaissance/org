@@ -1,0 +1,23 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: megan.trimble
+  title: Megan Trimble
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/73384
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: megantrimble
+    portal.powerapp.cloud/job-title: User Experience Designer
+spec:
+  profile:
+    displayName: Megan Trimble
+    email: megan.trimble@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/73384/photo/badge
+  memberOf:
+    - rebel-alliance
+    - rogue-one
+    - the-incredibles
+    - ux-team

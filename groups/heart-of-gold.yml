@@ -1,0 +1,25 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: heart-of-gold
+  title: Heart of Gold
+  description: Code Academy Team
+  annotations:
+    github.com/team-slug: powerhome/heart-of-gold
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/486/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/j/8384427179
+      title: Zoom
+      icon: videocall
+    - url: https://nitro.powerhrg.com/connect/#rooms/122951
+      title: Connect
+      icon: chat
+spec:
+  type: team
+  profile:
+    displayName: Heart of Gold
+  children: []
+  parent: code-academy

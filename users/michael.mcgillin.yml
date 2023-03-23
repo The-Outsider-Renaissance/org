@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: michael.mcgillin
+  title: Mike McGillin
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/7594
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: Cutty1324
+    portal.powerapp.cloud/job-title: Associate Scrum Master
+spec:
+  profile:
+    displayName: Mike McGillin
+    email: michael.mcgillin@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/7594/photo/badge
+  memberOf:
+    - super-friends

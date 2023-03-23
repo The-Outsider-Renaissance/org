@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: michael.shiffer
+  title: Mike Shiffer
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/32520
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: mikeshiffer
+    portal.powerapp.cloud/job-title: Technology Support Samurai
+spec:
+  profile:
+    displayName: Mike Shiffer
+    email: michael.shiffer@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/32520/photo/badge
+  memberOf:
+    - samurai

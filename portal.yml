@@ -1,11 +1,13 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: powerhome
-  description: Power Home Remodeling Group!
+  title: Power Home Remodeling Group
   links:
     - url: http://www.powerhrg.com/
       title: Website
+      icon: public
 spec:
   type: organization
   profile:
@@ -17,14 +19,23 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: bt
-  description: Business Technology Department
+  title: Business Technology Department
 spec:
   type: department
   profile:
     displayName: Business Technology Department
     email: bt@powerhrg.com
   children: []
-  parent: group:powerhome
+  parent: powerhome
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: all-domains
+  description: A collection of all Domains
+spec:
+  targets:
+    - ./domains/*.yml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Location
@@ -34,7 +45,6 @@ metadata:
 spec:
   targets:
     - ./groups/*.yml
-    - ./groups/*/*.yml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Location
@@ -48,8 +58,8 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: all-domains
-  description: A collection of all Domains
+  name: power-systems
+  description: A collection of Power Systems
 spec:
   targets:
-    - ./domains/*.yml
+    - ./systems/*.yml

@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: batmans-oracle
+  title: Batman's Oracle
+  description: Business Intelligence and Analytics
+  annotations:
+    github.com/team-slug: powerhome/oracle
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/79/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/j/2547419171
+      title: Zoom
+      icon: videocall
+spec:
+  type: team
+  profile:
+    displayName: Batman's Oracle
+  children: []
+  parent: technology-foundations-and-tools

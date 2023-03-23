@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: emilia.delpino
+  title: Emilia Del Pino
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/125591
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: edelpino
+    portal.powerapp.cloud/job-title: Nitro Developer
+spec:
+  profile:
+    displayName: Emilia Del Pino
+    email: emilia.delpino@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/125591/photo/badge
+  memberOf:
+    - super-friends

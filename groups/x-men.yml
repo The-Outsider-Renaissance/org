@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: x-men
+  title: X-Men
+  description: Operations
+  annotations:
+    github.com/team-slug: powerhome/x-men
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/437/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/btxmen
+      title: Zoom
+      icon: videocall
+spec:
+  type: team
+  profile:
+    displayName: X-Men
+  children: []
+  parent: project-and-installation-services

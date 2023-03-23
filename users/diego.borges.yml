@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: diego.borges
+  title: Diego Borges
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/19591
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: drborges
+    portal.powerapp.cloud/job-title: Nitro Lead Developer - International
+spec:
+  profile:
+    displayName: Diego Borges
+    email: diego.borges@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/19591/photo/badge
+  memberOf:
+    - the-incredibles
+    - x-factor

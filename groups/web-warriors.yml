@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: web-warriors
+  title: Web Warriors
+  description: Public Websites
+  annotations:
+    github.com/team-slug: powerhome/web-warriors
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/555/backlog/sprints/active
+      title: Runway
+      icon: list
+    - url: https://nitro.powerhrg.com/connect/#rooms/117041
+      title: Connect
+      icon: chat
+spec:
+  type: team
+  profile:
+    displayName: Web Warriors
+  children: []
+  parent: marcomm-and-events
