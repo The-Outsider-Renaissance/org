@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: courtney.long
+  title: Courtney Long
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/95751
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: courtneylong
+    portal.powerapp.cloud/job-title: Associate User Experience Designer
+spec:
+  profile:
+    displayName: Courtney Long
+    email: courtney.long@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/95751/photo/badge
+  memberOf:
+    - ux-team
+    - x-factor
+    - shield

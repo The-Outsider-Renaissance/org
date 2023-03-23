@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: patrick.mcclernan
+  title: Pat McClernan
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/39973
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: patmccler
+    portal.powerapp.cloud/job-title: Nitro Developer
+spec:
+  profile:
+    displayName: Pat McClernan
+    email: patrick.mcclernan@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/39973/photo/badge
+  memberOf:
+    - x-men

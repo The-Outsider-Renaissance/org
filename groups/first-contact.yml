@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: first-contact
+  title: First Contact
+  description: Powers the contact center
+  annotations:
+    github.com/team-slug: powerhome/first-contact
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/540/backlog
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/fellowship
+      title: Zoom
+      icon: videocall
+spec:
+  type: team
+  profile:
+    displayName: First Contact
+  children: []
+  parent: acquisition

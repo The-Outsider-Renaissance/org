@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jason.cypret
+  title: Jason Cypret
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/32825
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: jasoncypret
+    portal.powerapp.cloud/job-title: Vice President of User Experience
+spec:
+  profile:
+    displayName: Jason Cypret
+    email: jason.cypret@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/32825/photo/badge
+  memberOf:
+    - ux-team

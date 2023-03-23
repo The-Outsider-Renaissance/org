@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: garett.arrowood
+  title: Garett Arrowood
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/25331
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: garettarrowood
+    portal.powerapp.cloud/job-title: Nitro Lead Developer
+spec:
+  profile:
+    displayName: Garett Arrowood
+    email: garett.arrowood@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/25331/photo/badge
+  memberOf:
+    - infinity-inc
+    - green-lantern-corps

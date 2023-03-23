@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dan.wood
+  title: Dan Wood
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/117340
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: DanWoodPower
+    portal.powerapp.cloud/job-title: Nitro Mobile Application Developer
+spec:
+  profile:
+    displayName: Dan Wood
+    email: dan.wood@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/117340/photo/badge
+  memberOf:
+    - power-rangers

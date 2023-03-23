@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: green-lantern-corps
+  title: Green Lantern Corps
+  description: Accounting
+  annotations:
+    github.com/team-slug: powerhome/green-lantern-corps
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/530/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/glcorps
+      title: Zoom
+      icon: videocall
+spec:
+  type: team
+  profile:
+    displayName: Green Lantern Corps
+  children: []
+  parent: corporate-finance

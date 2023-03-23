@@ -1,0 +1,18 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: melissa.storey
+  title: Melissa Storey
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/42383
+      title: Connect
+      icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: Administrative Coordinator
+spec:
+  profile:
+    displayName: Melissa Storey
+    email: melissa.storey@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/42383/photo/badge
+  memberOf: []

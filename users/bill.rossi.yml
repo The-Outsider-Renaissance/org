@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bill.Rossi
+  title: Bill Rossi
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/111615
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: bassguitarbill
+    portal.powerapp.cloud/job-title: Nitro Developer
+spec:
+  profile:
+    displayName: Bill Rossi
+    email: bill.rossi@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/111615/photo/badge
+  memberOf:
+    - first-contact

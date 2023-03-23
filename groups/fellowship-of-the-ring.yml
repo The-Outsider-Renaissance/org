@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: fellowship-of-the-ring
+  title: Fellowship of the Ring
+  description: Powers the contact center
+  annotations:
+    github.com/team-slug: powerhome/fellowship-of-the-ring
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/95/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/fellowship
+      title: Zoom
+      icon: videocall
+spec:
+  type: team
+  profile:
+    displayName: Fellowship of the Ring
+  children: []
+  parent: acquisition

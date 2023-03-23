@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bklang
+  title: Ben Klang
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/745
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: bklang
+    portal.powerapp.cloud/job-title: Vice President of Business Technology
+spec:
+  profile:
+    displayName: Ben Klang
+    email: bklang@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/745/photo/badge
+  memberOf: []

@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: isis.silva
+  title: Isis Silva
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/126141
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: isismsilva
+    portal.powerapp.cloud/job-title: Mobile User Experience Engineer - International
+spec:
+  profile:
+    displayName: Isis Silva
+    email: isis.silva@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/126141/photo/badge
+  memberOf:
+    - ux-team

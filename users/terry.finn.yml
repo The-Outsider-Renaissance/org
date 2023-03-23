@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: terry.finn
+  title: Terry Finn
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/29367
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: terryfinn
+    portal.powerapp.cloud/job-title: Lead Nitro Developer
+spec:
+  profile:
+    displayName: Terry Finn
+    email: terry.finn@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/29367/photo/badge
+  memberOf:
+    - unbreakable
+    - first-contact

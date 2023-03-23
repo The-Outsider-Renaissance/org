@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: people
+  title: People
+  description: Teams supporting the People domain.
+spec:
+  type: domain
+  profile:
+    displayName: People
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: people
+  title: People
+  description: Human resources, recruiting and career path tools.
+spec:
+  owner: people

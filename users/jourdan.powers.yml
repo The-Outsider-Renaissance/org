@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jourdan.powers
+  title: Jourdan Powers
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/74154
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: jourdanpowers
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
+spec:
+  profile:
+    displayName: Jourdan Powers
+    email: jourdan.powers@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/74154/photo/badge
+  memberOf:
+    - the-incredibles

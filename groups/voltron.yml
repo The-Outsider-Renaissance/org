@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: voltron
+  title: Voltron
+  description: Enterprise Business Systems - email, PowerCloud, Great Plains, JAMF, Security Badging
+  annotations:
+    github.com/team-slug: powerhome/site-reliability-engineers
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/606/backlog
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/voltron
+      title: Zoom
+      icon: videocall
+spec:
+  type: team
+  profile:
+    displayName: Voltron
+  children: []
+  parent: technology-foundations-and-tools

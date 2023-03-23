@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: marques.d.avery
+  title: Marques Avery
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/87580
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: marquesavery
+    portal.powerapp.cloud/job-title: Scrum Master
+spec:
+  profile:
+    displayName: Marques Avery
+    email: marques.d.avery@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/87580/photo/badge
+  memberOf: []

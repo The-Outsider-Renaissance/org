@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dion.theroulde
+  title: Dion Theroulde
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/83620
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: diontheroulde
+    portal.powerapp.cloud/job-title: Student Developer
+spec:
+  profile:
+    displayName: Dion Theroulde
+    email: dion.theroulde@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/83620/photo/badge
+  memberOf: []

@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: matthew.reyes
+  title: Matthew Reyes
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/94382
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: matthewreyesphrg
+    portal.powerapp.cloud/job-title: Nitro Test Automation Engineer
+spec:
+  profile:
+    displayName: Matthew Reyes
+    email: matthew.reyes@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/94382/photo/badge
+  memberOf:
+    - rebel-alliance
+    - watchmen

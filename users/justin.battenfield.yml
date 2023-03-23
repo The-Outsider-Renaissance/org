@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: justin.battenfield
+  title: Justin Battenfield
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/118780
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: jbatphoto
+    portal.powerapp.cloud/job-title: Director of User Experience Design
+spec:
+  profile:
+    displayName: Justin Battenfield
+    email: justin.battenfield@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/118780/photo/badge
+  memberOf:
+    - ux-team

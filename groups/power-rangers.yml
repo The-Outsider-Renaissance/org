@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: power-rangers
+  title: Power Rangers
+  description: Nitro Mobile Platform Team
+  annotations:
+    github.com/team-slug: powerhome/power-rangers
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/570/backlog
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/powerrangers
+      title: Zoom
+      icon: videocall
+spec:
+  type: team
+  profile:
+    displayName: Power Rangers
+  children: []
+  parent: technology-foundations-and-tools

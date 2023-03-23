@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: edward.saleeby
+  title: Edward Saleeby
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/122816
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: edwardsaleeby
+    portal.powerapp.cloud/job-title: Associate User Experience Designer
+spec:
+  profile:
+    displayName: Edward Saleeby
+    email: edward.saleeby@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/122816/photo/badge
+  memberOf:
+    - ux-team

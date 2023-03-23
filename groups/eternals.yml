@@ -11,9 +11,12 @@ metadata:
     - url: https://nitro.powerhrg.com/runway/teams/284/backlog/
       title: Runway
       icon: list
+    - url: https://powerhrg.zoom.us/my/eternals
+      title: Zoom
+      icon: videocall
 spec:
   type: team
   profile:
     displayName: Eternals
   children: []
-  parent: bt
+  parent: stream

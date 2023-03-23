@@ -1,0 +1,25 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: super-friends
+  title: Super Friends
+  description: Team supporting Brand and The Bugle
+  annotations:
+    github.com/team-slug: powerhome/super-friends
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/611/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/superfriends
+      title: Zoom
+      icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/124211
+      title: Connect
+      icon: chat
+spec:
+  type: team
+  profile:
+    displayName: Super Friends
+  children: []
+  parent: marcomm-and-events

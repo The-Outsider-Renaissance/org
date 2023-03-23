@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: alexandra.swartz
+  title: Alexandra Swartz
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/92068
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: fivegoblins
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
+spec:
+  profile:
+    displayName: Alexandra Swartz
+    email: alexandra.swartz@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/92068/photo/badge
+  memberOf:
+    - titans
+    - x-men

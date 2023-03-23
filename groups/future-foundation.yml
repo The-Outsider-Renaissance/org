@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: future-foundation
+  title: Future Foundation
+  description: Tech Leadership
+  annotations:
+    github.com/team-slug: powerhome/future-foundation
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/326/backlog/
+      title: Runway
+      icon: list
+spec:
+  type: team
+  profile:
+    displayName: Future Foundation
+  children: []
+  parent: technology-foundations-and-tools

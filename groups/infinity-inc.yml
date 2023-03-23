@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: infinity-inc
+  title: Infinity Inc
+  description: Corporate Finance
+  annotations:
+    github.com/team-slug: powerhome/infinity-inc
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/130/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/infinity
+      title: Zoom
+      icon: videocall
+spec:
+  type: team
+  profile:
+    displayName: Infinity Inc
+  children: []
+  parent: corporate-finance

@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: stephen.mckeon
+  title: Steve McKeon
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/52973
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: stephenmckeon
+    portal.powerapp.cloud/job-title: Nitro Developer
+spec:
+  profile:
+    displayName: Steve McKeon
+    email: stephen.mckeon@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/52973/photo/badge
+  memberOf:
+    - infinity-inc
+    - heart-of-gold

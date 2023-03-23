@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: anthony.mignone
+  title: Anthony Mignone
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/114735
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: lilantman
+    portal.powerapp.cloud/job-title: BT Intern
+spec:
+  profile:
+    displayName: Anthony Mignone
+    email: anthony.mignone@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/114735/photo/badge
+  memberOf: []

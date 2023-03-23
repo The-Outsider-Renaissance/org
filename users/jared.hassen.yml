@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jared.hassen
+  title: Jared Hassen
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/12063
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: Jaredism
+    portal.powerapp.cloud/job-title: Associate Scrum Master
+spec:
+  profile:
+    displayName: Jared Hassen
+    email: jared.hassen@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/12063/photo/badge
+  memberOf:
+    - titans
+    - x-men

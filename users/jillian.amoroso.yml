@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jillian.amoroso
+  title: Jillian Amoroso
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/74934
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: jillianamoroso
+    portal.powerapp.cloud/job-title: Scrum Master
+spec:
+  profile:
+    displayName: Jillian Amoroso
+    email: jillian.amoroso@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/74934/photo/badge
+  memberOf:
+    - the-incredibles
+    - x-factor

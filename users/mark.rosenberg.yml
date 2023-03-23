@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mark.rosenberg
+  title: Mark Rosenberg
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/105153
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: markdoeswork
+    portal.powerapp.cloud/job-title: Nitro Developer
+spec:
+  profile:
+    displayName: Mark Rosenberg
+    email: mark.rosenberg@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/105153/photo/badge
+  memberOf:
+    - green-lantern-corps

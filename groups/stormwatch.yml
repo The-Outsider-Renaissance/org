@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: stormwatch
+  title: Stormwatch
+  description: Compute, Storage and Overall Core Infrastructure
+  annotations:
+    github.com/team-slug: powerhome/site-reliability-engineers
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/120/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/stormwatch
+      title: Zoom
+      icon: videocall
+spec:
+  type: team
+  profile:
+    displayName: Stormwatch
+  children: []
+  parent: technology-foundations-and-tools

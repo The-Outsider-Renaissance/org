@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: idan.zonshein
+  title: Idan Zonshein
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/47228
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: idanzonshein
+    portal.powerapp.cloud/job-title: Nitro Developer
+spec:
+  profile:
+    displayName: Idan Zonshein
+    email: idan.zonshein@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/47228/photo/badge
+  memberOf:
+    - birds-of-prey
+    - x-factor

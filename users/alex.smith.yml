@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: alex.smith
+  title: Alex Smith
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/105368
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: Csmitty03
+    portal.powerapp.cloud/job-title: Nitro Support Ninja
+spec:
+  profile:
+    displayName: Alex Smith
+    email: alex.smith@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/105368/photo/badge
+  memberOf: []

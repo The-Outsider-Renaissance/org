@@ -1,0 +1,19 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: nicholas.leone
+  title: Nick Leone
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/40283
+      title: Connect
+      icon: chat
+  annotations:
+    portal.powerapp.cloud/job-title: Technology Support Samurai
+spec:
+  profile:
+    displayName: Nick Leone
+    email: nicholas.leone@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/40283/photo/badge
+  memberOf:
+    - samurai

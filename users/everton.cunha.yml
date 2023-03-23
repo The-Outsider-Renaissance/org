@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: everton.cunha
+  title: Everton Cunha
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/86035
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: evertoncunha
+    portal.powerapp.cloud/job-title: Nitro Developer - International
+spec:
+  profile:
+    displayName: Everton Cunha
+    email: everton.cunha@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/86035/photo/badge
+  memberOf:
+    - rebel-alliance
+    - rogue-one

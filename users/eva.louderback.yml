@@ -1,0 +1,23 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: eva.louderback
+  title: Eva Louderback
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/69019
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: evalouderback
+    portal.powerapp.cloud/job-title: User Experience Designer
+spec:
+  profile:
+    displayName: Eva Louderback
+    email: eva.louderback@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/69019/photo/badge
+  memberOf:
+    - birds-of-prey
+    - ux-team
+    - nova-corps
+    - umbrella-academy
