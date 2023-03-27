@@ -10,7 +10,7 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: jon1735
-    portal.powerapp.cloud/job-title: Student Developer
+    portal.powerapp.cloud/job-title: Associate Software Developer
 spec:
   profile:
     displayName: Jonathan Gonzalez

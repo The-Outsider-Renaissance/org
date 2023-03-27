@@ -10,7 +10,7 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: Jaredism
-    portal.powerapp.cloud/job-title: Associate Scrum Master
+    portal.powerapp.cloud/job-title: Scrum Master
 spec:
   profile:
     displayName: Jared Hassen

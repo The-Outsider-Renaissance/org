@@ -16,4 +16,5 @@ spec:
     email: michael.mcgillin@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/7594/photo/badge
   memberOf:
+    - rebel-alliance
     - super-friends

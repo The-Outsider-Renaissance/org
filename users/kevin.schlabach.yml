@@ -10,7 +10,7 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: kevinschlabach
-    portal.powerapp.cloud/job-title: Nitro Producteer
+    portal.powerapp.cloud/job-title: Senior Nitro Producteer
 spec:
   profile:
     displayName: Kevin Schlabach

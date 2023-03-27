@@ -17,4 +17,6 @@ spec:
     email: prince.lang@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/113090/photo/badge
   memberOf:
+    - green-latern-corps
+    - infinity-inc
     - ux-team

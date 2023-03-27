@@ -16,4 +16,5 @@ spec:
     displayName: Dion Theroulde
     email: dion.theroulde@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/83620/photo/badge
-  memberOf: []
+  memberOf:
+    - x-factor

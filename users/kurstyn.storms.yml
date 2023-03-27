@@ -10,7 +10,7 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: KurstynStorms
-    portal.powerapp.cloud/job-title: Student Developer
+    portal.powerapp.cloud/job-title: Associate Software Developer
 spec:
   profile:
     displayName: Kurstyn Storms
