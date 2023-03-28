@@ -17,5 +17,4 @@ spec:
     email: gabriel.pereira@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/24746/photo/badge
   memberOf:
-    - legion-academy
-    - nova-corps
+    - outsiders
