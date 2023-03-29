@@ -33,6 +33,7 @@ kind: Location
 metadata:
   name: all-domains
   description: A collection of all Domains
+  namespace: domain-namespace
 spec:
   targets:
     - ./domains/*.yml
