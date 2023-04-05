@@ -6,7 +6,7 @@ metadata:
   title: Voltron
   description: Enterprise Business Systems - email, PowerCloud, Great Plains, JAMF, Security Badging
   annotations:
-    github.com/team-slug: powerhome/site-reliability-engineers
+    github.com/team-slug: powerhome/voltron
   links:
     - url: https://nitro.powerhrg.com/runway/teams/606/backlog
       title: Runway
