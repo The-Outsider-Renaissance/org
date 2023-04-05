@@ -17,7 +17,6 @@ spec:
     email: evan.cagwin@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/69739/photo/badge
   memberOf:
-    - power-rangers
     - rebel-alliance
     - rogue-one
     - unbreakable

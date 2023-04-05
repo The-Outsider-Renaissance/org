@@ -17,6 +17,7 @@ spec:
     email: megan.trimble@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/73384/photo/badge
   memberOf:
+    - power-rangers
     - rebel-alliance
     - rogue-one
     - the-incredibles
