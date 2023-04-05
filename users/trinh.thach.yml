@@ -9,11 +9,12 @@ metadata:
       title: Connect
       icon: chat
   annotations:
-    github.com/user-login: ""
+    github.com/user-login: "trinhderella"
     portal.powerapp.cloud/job-title: Nitro Producteer
 spec:
   profile:
     displayName: Trinh Thach
-    email: musa.saleh@powerhrg.com
+    email: trinh.thach@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/18606/photo/badge
-  memberOf: []
+  memberOf:
+    - web-warriors
