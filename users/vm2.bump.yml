@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: vm2.bump
+  title: VM2 Bump
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/12345
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: vm2bump
+    portal.powerapp.cloud/job-title: Test User
+spec:
+  profile:
+    displayName: VM2 Bump
+    email: vm2.bump@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/12345/photo/badge
+  memberOf:
+    - guardians-of-the-galaxy
