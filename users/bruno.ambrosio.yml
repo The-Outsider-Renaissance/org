@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bruno.ambrosio
+  title: Bruno Ambrosio
+  links:
+    - url: https://nitro.powerhrg.com/connect#users/129568
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: broambrosio
+    portal.powerapp.cloud/job-title: Site Reliability Engineer - International
+spec:
+  profile:
+    displayName: Bruno Ambrosio
+    email: bruno.ambrosio@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/129568/photo/badge
+  memberOf:
+    - stormwatch
