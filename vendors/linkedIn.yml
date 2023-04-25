@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: linkedin
+  title: Linkedin
+  description: LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps
+  links:
+    - url: https://www.linkedin.com/
+      title: Linkedin
+spec:
+  type: organization
+  profile:
+    displayName: Linkedin
+  children: []

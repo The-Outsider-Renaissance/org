@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: career-builder
+  title: Career Builder
+  description: CareerBuilder is an employment website founded in 1995 with offices in the United States, Canada, Europe, and Asia
+  links:
+    - url: https://hiring.careerbuilder.com/
+      title: Career Builder
+spec:
+  type: organization
+  profile:
+    displayName: Career Builder
+  children: []

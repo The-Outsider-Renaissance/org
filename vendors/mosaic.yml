@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: mosaic
+  title: Mosaic
+  description: Mosaic is a clean energy fin-tech company based in Oakland, California
+  links:
+    - url: https://joinmosaic.com/
+      title: Mosaic
+spec:
+  type: organization
+  profile:
+    displayName: Mosaic
+  children: []

@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: apple-gsx
+  title: Apple GSX
+  description: A client library to the Apple GSX web service
+  links:
+    - url: https://gsx2.apple.com/
+      title: Apple GSX
+spec:
+  type: organization
+  profile:
+    displayName: Apple GSX
+  children: []

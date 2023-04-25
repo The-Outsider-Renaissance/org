@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: nbp-northeast-bp
+  title: Nbp Northeast BP
+  description: Northeast Building Products, an American manufacturer of energy-efficient vinyl replacement windows, doors, and other products
+  links:
+    - url: https://www.nbpwindows.com/
+      title: Nbp Northeast BP
+spec:
+  type: organization
+  profile:
+    displayName: Nbp Northeast BP
+  children: []

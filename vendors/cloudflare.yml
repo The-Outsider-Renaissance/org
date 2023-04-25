@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: cloudflare
+  title: Cloudflare
+  description: Integrated security and performance for websites, apps, and SaaS services
+  links:
+    - url: https://www.cloudflare.com/
+      title: Cloudflare
+spec:
+  type: organization
+  profile:
+    displayName: Cloudflare
+  children: []

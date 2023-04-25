@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: google-static-maps
+  title: Google Static Maps
+  description: The Maps Static API service creates your map based on URL parameters sent through a standard HTTP request and returns the map as an image you can display on your web page
+  links:
+    - url: https://developers.google.com/maps/documentation/maps-static
+      title: Google Static Maps
+spec:
+  type: organization
+  profile:
+    displayName: Google Static Maps
+  children: []

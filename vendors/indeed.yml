@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: indeed
+  title: Indeed
+  description: Tools for job search, resumes, company reviews and more
+  links:
+    - url: https://www.indeed.com/
+      title: Indeed
+spec:
+  type: organization
+  profile:
+    displayName: Indeed
+  children: []

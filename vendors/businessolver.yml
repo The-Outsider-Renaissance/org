@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: businessolver
+  title: BusinessSolver
+  description: BusinessSolver provides benefits management solutions
+  links:
+    - url: https://www.businessolver.com/
+      title: BusinessSolver
+spec:
+  type: organization
+  profile:
+    displayName: BusinessSolver
+  children: []

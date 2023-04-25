@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: first-consumer-credit
+  title: First Consumer Credit
+  description: First Consumer Credit provides home improvement loans all over the country
+  links:
+    - url: https://fccfinance.com/
+      title: First Consumer Credit
+spec:
+  type: organization
+  profile:
+    displayName: First Consumer Credit
+  children: []

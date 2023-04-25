@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: aurora
+  title: Aurora
+  description: Aurora Solar is a solar PV design and sales software
+  links:
+    - url: https://aurorasolar.com/
+      title: Aurora
+spec:
+  type: organization
+  profile:
+    displayName: Aurora
+  children: []

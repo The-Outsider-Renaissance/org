@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: foundation-finance
+  title: Foundation Finance
+  description: Foundation Finance Company offers consumer financing for home improvement contractors
+  links:
+    - url: https://foundationfinance.com/
+      title: Foundation Finance
+spec:
+  type: organization
+  profile:
+    displayName: Foundation Finance
+  children: []

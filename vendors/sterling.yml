@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: sterling
+  title: Sterling
+  description: Sterling is an external partner that we use to make background screenings in Power employees
+  links:
+    - url: https://www.sterlingcheck.com/
+      title: Sterling
+spec:
+  type: organization
+  profile:
+    displayName: Sterling
+  children: []

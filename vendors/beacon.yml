@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: beacon
+  title: Beacon
+  description: Beacon is one of our suppliers for siding and roofing
+  links:
+    - url: https://www.becn.com/
+      title: Beacon
+spec:
+  type: organization
+  profile:
+    displayName: Beacon
+  children: []
