@@ -16,4 +16,5 @@ spec:
     displayName: Dannie Magalhães
     email: danielle.magalhaes@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/130188/photo/badge
-  memberOf: []
+  memberOf:
+    - rebel-alliance
