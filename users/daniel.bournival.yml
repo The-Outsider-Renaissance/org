@@ -16,4 +16,5 @@ spec:
     displayName: Dan Bournival
     email: daniel.bournival@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/25506/photo/badge
-  memberOf: []
+  memberOf:
+    - sword

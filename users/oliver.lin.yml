@@ -15,4 +15,5 @@ spec:
     displayName: Oliver Lin
     email: oliver.lin@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/121656/photo/badge
-  memberOf: []
+  memberOf: 
+    - sword
