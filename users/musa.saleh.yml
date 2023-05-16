@@ -9,11 +9,13 @@ metadata:
       title: Connect
       icon: chat
   annotations:
-    github.com/user-login: ""
+    github.com/user-login: "msaleh716"
     portal.powerapp.cloud/job-title: Nitro Producteer
 spec:
   profile:
     displayName: Musa Saleh
     email: musa.saleh@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/124176/photo/badge
-  memberOf: []
+  memberOf:
+    - titans
+    - x-men
