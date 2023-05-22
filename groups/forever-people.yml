@@ -7,6 +7,7 @@ metadata:
   description: Application operations
   annotations:
     github.com/team-slug: powerhome/forever-people
+    nitro.powerhrg.com/deployment-connect-room: "121286"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/591/backlog/
       title: Runway

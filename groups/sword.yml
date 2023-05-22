@@ -7,6 +7,7 @@ metadata:
   description: Information & Network Security
   annotations:
     github.com/team-slug: powerhome/sword
+    nitro.powerhrg.com/deployment-connect-room: "62114"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/299/backlog
       title: Runway

@@ -7,10 +7,14 @@ metadata:
   description: Customer Communication tools
   annotations:
     github.com/team-slug: powerhome/outsiders
+    nitro.powerhrg.com/deployment-connect-room: "132683"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/623/backlog
       title: Runway
       icon: list
+    - url: https://nitro.powerhrg.com/connect/#rooms/132683
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

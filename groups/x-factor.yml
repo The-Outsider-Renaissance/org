@@ -7,6 +7,7 @@ metadata:
   description: Customer portal
   annotations:
     github.com/team-slug: powerhome/x-factor
+    nitro.powerhrg.com/deployment-connect-room: "48318"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/248/backlog/
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/j/9151285347
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/48318
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

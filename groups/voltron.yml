@@ -7,6 +7,7 @@ metadata:
   description: Enterprise Business Systems - email, PowerCloud, Great Plains, JAMF, Security Badging
   annotations:
     github.com/team-slug: powerhome/voltron
+    nitro.powerhrg.com/deployment-connect-room: "124341"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/606/backlog
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/voltron
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect/#rooms/124341
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

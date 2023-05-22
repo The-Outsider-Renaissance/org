@@ -7,6 +7,7 @@ metadata:
   description: Stream Finance / Tempo development team
   annotations:
     github.com/team-slug: powerhome/eternals
+    nitro.powerhrg.com/deployment-connect-room: "57771"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/284/backlog/
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/eternals
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/57771
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

@@ -7,6 +7,7 @@ metadata:
   description: Business Intelligence and Analytics
   annotations:
     github.com/team-slug: powerhome/oracle
+    nitro.powerhrg.com/deployment-connect-room: "53242"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/79/backlog/
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/j/2547419171
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/53242
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:
