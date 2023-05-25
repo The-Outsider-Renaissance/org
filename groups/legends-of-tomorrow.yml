@@ -1,0 +1,26 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: legends-of-tomorrow
+  title: Legends of Tomorrow
+  description: Customer Development Compensation
+  annotations:
+    github.com/team-slug: powerhome/legends-of-tomorrow
+    nitro.powerhrg.com/deployment-connect-room: "139668"
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/658/backlog
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/legendsoftomorrow
+      title: Zoom
+      icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/139668
+      title: Connect
+      icon: chat
+spec:
+  type: team
+  profile:
+    displayName: Legends of Tomorrow
+  children: []
+  parent: corporate-finance
