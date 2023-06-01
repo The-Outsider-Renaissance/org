@@ -1,0 +1,26 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: playbook-admins
+  title: Playbook Team Admins
+  description: Playbook Web Administrators
+  annotations:
+    github.com/team-slug: powerhome/playbook-web
+    nitro.powerhrg.com/deployment-connect-room: "108730"
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/432/backlog
+      title: Playbook
+      icon: list
+    - url: https://powerhrg.zoom.us/my/nitroux
+      title: Zoom
+      icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/108730
+      title: Connect
+      icon: chat
+spec:
+  type: team
+  profile:
+    displayName: Playbook Team Admins
+  children: []
+  parent: design

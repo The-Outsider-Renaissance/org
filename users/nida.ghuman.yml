@@ -17,3 +17,5 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/108830/photo/badge
   memberOf:
     - ux-team
+    - ux-tooling
+    - playbook-web
