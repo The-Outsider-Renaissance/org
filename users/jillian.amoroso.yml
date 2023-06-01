@@ -17,5 +17,6 @@ spec:
     email: jillian.amoroso@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/74934/photo/badge
   memberOf:
+    - heroes-for-hire
     - the-incredibles
     - x-factor
