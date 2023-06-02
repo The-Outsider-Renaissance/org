@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: thestephenmarshall
     portal.powerapp.cloud/job-title: Senior User Experience Engineer
+    nitro.powerhrg.com/user-id: "33155"
 spec:
   profile:
     displayName: Stephen Marshall

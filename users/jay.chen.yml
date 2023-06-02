@@ -1,3 +1,4 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
@@ -10,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: mchen1989
     portal.powerapp.cloud/job-title: Producteer
+    nitro.powerhrg.com/user-id: "110230"
 spec:
   profile:
     displayName: Jay Chen

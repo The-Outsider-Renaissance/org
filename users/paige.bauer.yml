@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: paigebauer
     portal.powerapp.cloud/job-title: Nitro Support Ninja
+    nitro.powerhrg.com/user-id: "103847"
 spec:
   profile:
     displayName: Paige Bauer

@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: broambrosio
     portal.powerapp.cloud/job-title: Site Reliability Engineer - International
+    nitro.powerhrg.com/user-id: "129568"
 spec:
   profile:
     displayName: Bruno Ambrosio

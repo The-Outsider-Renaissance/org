@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: maddiemc01
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "56538"
 spec:
   profile:
     displayName: Maddie McCardle

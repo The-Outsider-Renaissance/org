@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: danielbournival
     portal.powerapp.cloud/job-title: Apprentice Site Reliability Engineer
+    nitro.powerhrg.com/user-id: "25506"
 spec:
   profile:
     displayName: Dan Bournival

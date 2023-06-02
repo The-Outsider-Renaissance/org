@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: kristiflin
     portal.powerapp.cloud/job-title: User Experience Designer
+    nitro.powerhrg.com/user-id: "99094"
 spec:
   profile:
     displayName: Kristi Lin

@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: Israel-Molestina
     portal.powerapp.cloud/job-title: Associate User Experience Engineer
+    nitro.powerhrg.com/user-id: "116415"
 spec:
   profile:
     displayName: Israel Molestina

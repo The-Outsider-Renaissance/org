@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: jbatphoto
     portal.powerapp.cloud/job-title: Director of User Experience Design
+    nitro.powerhrg.com/user-id: "118780"
 spec:
   profile:
     displayName: Justin Battenfield

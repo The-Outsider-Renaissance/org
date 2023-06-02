@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: evalouderback
     portal.powerapp.cloud/job-title: User Experience Designer
+    nitro.powerhrg.com/user-id: "69019"
 spec:
   profile:
     displayName: Eva Louderback

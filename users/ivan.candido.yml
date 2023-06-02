@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: Ivancandido11
     portal.powerapp.cloud/job-title: Associate Software Developer
+    nitro.powerhrg.com/user-id: "88400"
 spec:
   profile:
     displayName: Ivan Candido

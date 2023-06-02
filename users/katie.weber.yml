@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: web-kat
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "40888"
 spec:
   profile:
     displayName: Katie Weber

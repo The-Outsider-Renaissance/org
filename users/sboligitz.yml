@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: sboligitz
     portal.powerapp.cloud/job-title: Nitro Producteer
+    nitro.powerhrg.com/user-id: "663"
 spec:
   profile:
     displayName: Steve Boligitz

@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: that-jill
     portal.powerapp.cloud/job-title: Nitro Sr. Developer
+    nitro.powerhrg.com/user-id: "22056"
 spec:
   profile:
     displayName: Jill Klang

@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: renatomeloferraz
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "121496"
 spec:
   profile:
     displayName: Renato Ferraz

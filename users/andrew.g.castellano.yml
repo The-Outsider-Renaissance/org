@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: JrooNature
     portal.powerapp.cloud/job-title: Nitro Quality Ninja
+    nitro.powerhrg.com/user-id: "111260"
 spec:
   profile:
     displayName: Drew Castellano

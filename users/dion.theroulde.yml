@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: diontheroulde
     portal.powerapp.cloud/job-title: Student Developer
+    nitro.powerhrg.com/user-id: "83620"
 spec:
   profile:
     displayName: Dion Theroulde

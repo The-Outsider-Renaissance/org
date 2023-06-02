@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: jasoncypret
     portal.powerapp.cloud/job-title: Vice President of User Experience
+    nitro.powerhrg.com/user-id: "32825"
 spec:
   profile:
     displayName: Jason Cypret

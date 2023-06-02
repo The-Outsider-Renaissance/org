@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: garettarrowood
     portal.powerapp.cloud/job-title: Nitro Lead Developer
+    nitro.powerhrg.com/user-id: "25331"
 spec:
   profile:
     displayName: Garett Arrowood

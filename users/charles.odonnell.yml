@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: charlie-power
     portal.powerapp.cloud/job-title: User Experience Designer
+    nitro.powerhrg.com/user-id: "114095"
 spec:
   profile:
     displayName: Charlie Odonnell

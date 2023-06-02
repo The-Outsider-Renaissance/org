@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: kathrenepowerhrg
     portal.powerapp.cloud/job-title: Associate User Experience Designer
+    nitro.powerhrg.com/user-id: "95421"
 spec:
   profile:
     displayName: Kathrene Binag

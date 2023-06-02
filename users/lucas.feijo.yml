@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: lucasfeijo
     portal.powerapp.cloud/job-title: Nitro Mobile Application Developer
+    nitro.powerhrg.com/user-id: "33868"
 spec:
   profile:
     displayName: Lucas Feijo

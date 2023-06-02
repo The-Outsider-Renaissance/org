@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: lucasciriacos
     portal.powerapp.cloud/job-title: Site Reliability Engineer - International
+    nitro.powerhrg.com/user-id: "116555"
 spec:
   profile:
     displayName: Lucas Ciriaco dos Santos

@@ -10,6 +10,7 @@ metadata:
       icon: chat
   annotations:
     portal.powerapp.cloud/job-title: Assistant Director of Procurement & Asset Management
+    nitro.powerhrg.com/user-id: "1804"
 spec:
   profile:
     displayName: Michelle Bower

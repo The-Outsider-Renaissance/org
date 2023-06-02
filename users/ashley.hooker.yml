@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: ash-hooker
     portal.powerapp.cloud/job-title: Senior User Experience Designer
+    nitro.powerhrg.com/user-id: "118905"
 spec:
   profile:
     displayName: Ashley Hooker

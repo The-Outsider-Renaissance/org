@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: bklang
     portal.powerapp.cloud/job-title: Vice President of Business Technology
+    nitro.powerhrg.com/user-id: "745"
 spec:
   profile:
     displayName: Ben Klang

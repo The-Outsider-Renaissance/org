@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: stephenmckeon
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "52973"
 spec:
   profile:
     displayName: Steve McKeon

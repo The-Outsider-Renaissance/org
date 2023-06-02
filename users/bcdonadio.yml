@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: bcdonadio
     portal.powerapp.cloud/job-title: Site Reliability Engineer - International
+    nitro.powerhrg.com/user-id: "58886"
 spec:
   profile:
     displayName: Bernardo Donadio

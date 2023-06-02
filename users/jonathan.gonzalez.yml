@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: jon1735
     portal.powerapp.cloud/job-title: Associate Software Developer
+    nitro.powerhrg.com/user-id: "75159"
 spec:
   profile:
     displayName: Jonathan Gonzalez

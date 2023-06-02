@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: gerald
     portal.powerapp.cloud/job-title: Nitro Sr. Developer - International
+    nitro.powerhrg.com/user-id: "422"
 spec:
   profile:
     displayName: Gerald Abrencillo

@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: Yash-Ambegaokar
     portal.powerapp.cloud/job-title: Data Analyst
+    nitro.powerhrg.com/user-id: "52273"
 spec:
   profile:
     displayName: Yash Ambegaokar

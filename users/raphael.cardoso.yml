@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: raphaelcardoso
     portal.powerapp.cloud/job-title: Site Reliability Engineer - International
+    nitro.powerhrg.com/user-id: "125496"
 spec:
   profile:
     displayName: Raphael Cardoso

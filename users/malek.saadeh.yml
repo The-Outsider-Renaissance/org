@@ -11,9 +11,10 @@ metadata:
   annotations:
     github.com/user-login: malekphrg
     portal.powerapp.cloud/job-title: UX Engineer
+    nitro.powerhrg.com/user-id: "112375"
 spec:
   profile:
-    displayName: Malek 
+    displayName: Malek
     email: malek.saadeh@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/112375/photo/badge
   memberOf: []

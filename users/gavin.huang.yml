@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: gavhuang
     portal.powerapp.cloud/job-title: Associate User Experience Engineer
+    nitro.powerhrg.com/user-id: "107895"
 spec:
   profile:
     displayName: Gavin Huang

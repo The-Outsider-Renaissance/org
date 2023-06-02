@@ -10,6 +10,7 @@ metadata:
       icon: chat
   annotations:
     portal.powerapp.cloud/job-title: Special Projects Manager
+    nitro.powerhrg.com/user-id: "821"
 spec:
   profile:
     displayName: Chris Wilson

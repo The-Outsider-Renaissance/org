@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: evertoncunha
     portal.powerapp.cloud/job-title: Nitro Developer - International
+    nitro.powerhrg.com/user-id: "86035"
 spec:
   profile:
     displayName: Everton Cunha

@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: vdittgen
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "129573"
 spec:
   profile:
     displayName: Vinicius Dittgen

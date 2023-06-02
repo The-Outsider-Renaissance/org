@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: AlannahHunt
     portal.powerapp.cloud/job-title: Nitro Support Ninja
+    nitro.powerhrg.com/user-id: "34313"
 spec:
   profile:
     displayName: Alannah Hunt

@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: RexGluck
     portal.powerapp.cloud/job-title: Associate User Experience Designer
+    nitro.powerhrg.com/user-id: "102367"
 spec:
   profile:
     displayName: Rex Gluck

@@ -10,6 +10,7 @@ metadata:
       icon: chat
   annotations:
     portal.powerapp.cloud/job-title: Nitro Support Ninja
+    nitro.powerhrg.com/user-id: "91408"
 spec:
   profile:
     displayName: Benny Jenkins

@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: haydenrou
     portal.powerapp.cloud/job-title: Nitro Sr. Developer - International
+    nitro.powerhrg.com/user-id: "88290"
 spec:
   profile:
     displayName: Hayden Rouille

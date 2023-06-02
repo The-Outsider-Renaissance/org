@@ -9,8 +9,9 @@ metadata:
       title: Connect
       icon: chat
   annotations:
-    github.com/user-login: "trinhderella"
+    github.com/user-login: trinhderella
     portal.powerapp.cloud/job-title: Nitro Producteer
+    nitro.powerhrg.com/user-id: "18606"
 spec:
   profile:
     displayName: Trinh Thach

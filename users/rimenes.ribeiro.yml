@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: rimenes
     portal.powerapp.cloud/job-title: Nitro Sr. Developer - International
+    nitro.powerhrg.com/user-id: "98769"
 spec:
   profile:
     displayName: Rimenes Ribeiro

@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: courtneylong
     portal.powerapp.cloud/job-title: Associate User Experience Designer
+    nitro.powerhrg.com/user-id: "95751"
 spec:
   profile:
     displayName: Courtney Long

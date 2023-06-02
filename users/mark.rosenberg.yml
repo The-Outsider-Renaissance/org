@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: markdoeswork
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "105153"
 spec:
   profile:
     displayName: Mark Rosenberg

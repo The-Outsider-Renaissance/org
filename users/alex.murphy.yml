@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: moumoutaru
     portal.powerapp.cloud/job-title: Site Reliability Engineer
+    nitro.powerhrg.com/user-id: "111995"
 spec:
   profile:
     displayName: Alex Murphy

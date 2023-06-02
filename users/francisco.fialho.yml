@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: fffialho
     portal.powerapp.cloud/job-title: Site Reliability Engineer - International
+    nitro.powerhrg.com/user-id: "112825"
 spec:
   profile:
     displayName: Francisco Fialho

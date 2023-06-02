@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: unnatibhattpower
     portal.powerapp.cloud/job-title: Wordpress Developer
+    nitro.powerhrg.com/user-id: "113025"
 spec:
   profile:
     displayName: Unnatiben Bhatt

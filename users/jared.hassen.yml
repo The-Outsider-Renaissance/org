@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: Jaredism
     portal.powerapp.cloud/job-title: Scrum Master
+    nitro.powerhrg.com/user-id: "12063"
 spec:
   profile:
     displayName: Jared Hassen

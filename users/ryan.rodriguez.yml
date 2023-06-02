@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: ryanmrodriguez
     portal.powerapp.cloud/job-title: Nitro Sr. Developer
+    nitro.powerhrg.com/user-id: "86425"
 spec:
   profile:
     displayName: Ryan Rodriguez

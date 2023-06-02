@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: EricPowerLewis
     portal.powerapp.cloud/job-title: Engineer of Things
+    nitro.powerhrg.com/user-id: "35733"
 spec:
   profile:
     displayName: Eric Lewis

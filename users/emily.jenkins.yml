@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: EmilyJenkins1
     portal.powerapp.cloud/job-title: Nitro Producteer
+    nitro.powerhrg.com/user-id: "120765"
 spec:
   profile:
     displayName: Emily Jenkins

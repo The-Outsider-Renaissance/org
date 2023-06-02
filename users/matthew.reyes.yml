@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: matthewreyesphrg
     portal.powerapp.cloud/job-title: Nitro Test Automation Engineer
+    nitro.powerhrg.com/user-id: "94382"
 spec:
   profile:
     displayName: Matthew Reyes

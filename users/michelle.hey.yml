@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: michellemhey
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "91003"
 spec:
   profile:
     displayName: Michelle Hey

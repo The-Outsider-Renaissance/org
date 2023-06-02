@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: dhhuynh2
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "103182"
 spec:
   profile:
     displayName: Dang Huynh

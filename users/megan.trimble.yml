@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: megantrimble
     portal.powerapp.cloud/job-title: User Experience Designer
+    nitro.powerhrg.com/user-id: "73384"
 spec:
   profile:
     displayName: Megan Trimble

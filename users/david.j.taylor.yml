@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: djtaylor
     portal.powerapp.cloud/job-title: Sr. Site Reliability Engineer
+    nitro.powerhrg.com/user-id: "15700"
 spec:
   profile:
     displayName: David Taylor

@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: maricris-sn
     portal.powerapp.cloud/job-title: Nitro Developer - International
+    nitro.powerhrg.com/user-id: "92678"
 spec:
   profile:
     displayName: Maricris Nonato

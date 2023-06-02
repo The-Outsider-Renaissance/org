@@ -10,8 +10,9 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: average-jen
-    portal.powerapp.cloud/job-title: >
+    portal.powerapp.cloud/job-title: |
       Vice President of Application Development and Infrastructure
+    nitro.powerhrg.com/user-id: "79745"
 spec:
   profile:
     displayName: Jenny Gray
