@@ -3,7 +3,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: katie.weber
-  title: Katie Weber
+  title: Katie Edgar
   links:
     - url: https://nitro.powerhrg.com/connect/#users/40888
       title: Connect
@@ -11,9 +11,10 @@ metadata:
   annotations:
     github.com/user-login: web-kat
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "40888"
 spec:
   profile:
-    displayName: Katie Weber
+    displayName: Katie Edgar
     email: katie.weber@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/40888/photo/badge
   memberOf:
