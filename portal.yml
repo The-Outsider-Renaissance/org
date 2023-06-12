@@ -68,9 +68,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: all-vendors
-  description: A collection of Power third party vendors 
-  title: Third Party API
-  description: A collection of all third party vendor API
+  description: A collection of Power third party vendors
 spec:
   targets:
     - ./vendors/*.yml
