@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hugo.ortega
+  title: Hugo Ortega
+  links:
+    - url: https://nitro.powerhrg.com/connect#users/132423
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: hugoortega1
+    portal.powerapp.cloud/job-title: hugo.ortega@powerhrg.com
+    nitro.powerhrg.com/user-id: "132423"
+spec:
+  profile:
+    displayName: Hugo Ortega
+    email: hugo.ortega@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/132423/photo/badge
+  memberOf:
+    - watchmen
