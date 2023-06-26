@@ -18,4 +18,5 @@ spec:
     email: kelly.speier@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/117450/photo/badge
   memberOf:
+    - power-rangers
     - the-incredibles
