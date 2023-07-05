@@ -1,0 +1,21 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kimberlee.mariano
+  title: Kimberlee Mariano
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/132008
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: KMariano1
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
+    nitro.powerhrg.com/user-id: "132008"
+spec:
+  profile:
+    displayName: Kimberlee Mariano
+    email: kimberlee.mariano@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/132008/photo/badge
+  memberOf:
+    - first-contact
+    - unbreakable
