@@ -1,0 +1,21 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ally.fries
+  title: Ally Fries
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/132083
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: ally-f
+    portal.powerapp.cloud/job-title: Nitro Quality Ninja
+    nitro.powerhrg.com/user-id: "132083"
+spec:
+  profile:
+    displayName: Ally Fries
+    email: ally.fries@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/132083/photo/badge
+  memberOf:
+    - infinity-inc
+    - green-lantern-corps
