@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: chris.pashalis
+  title: Chris Pashalis
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/134128
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: chris-pashalis
+    portal.powerapp.cloud/job-title: Contractor - Application Development
+    nitro.powerhrg.com/user-id: "134128"
+spec:
+  profile:
+    displayName: Chris Pashalis
+    email: chris.pashalis@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/134128/photo/badge
+  memberOf:
+    - web-warriors
