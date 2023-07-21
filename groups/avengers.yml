@@ -1,0 +1,26 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: avengers
+  title: Avengers
+  description: Stream Financial / Tempo Development Team
+  annotations:
+    github.com/team-slug: powerhome/avengers
+    nitro.powerhrg.com/deployment-connect-room: "67319"
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/686/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/eternals
+      title: Zoom
+      icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/147021
+      title: Connect
+      icon: chat
+spec:
+  type: team
+  profile:
+    displayName: Avengers
+  children: []
+  parent: stream
