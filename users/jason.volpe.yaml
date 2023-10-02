@@ -9,6 +9,7 @@ metadata:
       title: Connect
       icon: chat
   annotations:
+    github.com/user-login: Jason-Volpe
     portal.powerapp.cloud/job-title: Nitro Producteer
     nitro.powerhrg.com/user-id: "136386"
 spec:
