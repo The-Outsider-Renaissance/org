@@ -18,4 +18,6 @@ spec:
     email: edward.saleeby@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/122816/photo/badge
   memberOf:
+    - legends-of-tomorrow
+    - green-lantern-corps
     - ux-team

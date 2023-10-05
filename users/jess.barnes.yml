@@ -16,4 +16,7 @@ spec:
     displayName: Jess Barnes
     email: jess.barnes@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/122646/photo/badge
-  memberOf: []
+  memberOf:
+    - rebel-alliance
+    - rogue-one
+    - ux-team

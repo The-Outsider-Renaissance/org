@@ -10,7 +10,7 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: ash-hooker
-    portal.powerapp.cloud/job-title: Senior User Experience Designer
+    portal.powerapp.cloud/job-title: User Experience Design Mentor
     nitro.powerhrg.com/user-id: "118905"
 spec:
   profile:
@@ -19,3 +19,4 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/118905/photo/badge
   memberOf:
     - titans
+    - ux-team
