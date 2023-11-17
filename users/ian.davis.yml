@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ian.davis
+  title: Ian Davis
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/137981
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: IanDavisPHRG
+    portal.powerapp.cloud/job-title: Information Security Manager
+    nitro.powerhrg.com/user-id: "137981"
+spec:
+  profile:
+    displayName: Ian Davis
+    email: ian.davis@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/137981/photo/badge
+  memberOf:
+    - sword
