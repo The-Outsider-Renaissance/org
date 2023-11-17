@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: scott.feinstein
+  title: Scott Feinstein
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/138101
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: scottfPHRG
+    portal.powerapp.cloud/job-title: Information Security Specialist
+    nitro.powerhrg.com/user-id: "138101"
+spec:
+  profile:
+    displayName: Scott Feinstein
+    email: scott.feinstein@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/138101/photo/badge
+  memberOf:
+    - sword
