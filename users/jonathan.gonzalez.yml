@@ -10,11 +10,12 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: jon1735
-    portal.powerapp.cloud/job-title: Student Developer
+    portal.powerapp.cloud/job-title: Associate Software Developer
+    nitro.powerhrg.com/user-id: "75159"
 spec:
   profile:
     displayName: Jonathan Gonzalez
     email: jonathan.gonzalez@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/75159/photo/badge
   memberOf:
-    - umbrella-academy
+    - heroes-for-hire

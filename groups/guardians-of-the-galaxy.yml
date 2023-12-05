@@ -7,6 +7,7 @@ metadata:
   description: Release Engineering
   annotations:
     github.com/team-slug: powerhome/guardians-of-the-galaxy
+    nitro.powerhrg.com/deployment-connect-room: "8978"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/85/backlog/
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/guardians
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/8978
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

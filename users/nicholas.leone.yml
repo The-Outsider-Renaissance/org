@@ -10,6 +10,7 @@ metadata:
       icon: chat
   annotations:
     portal.powerapp.cloud/job-title: Technology Support Samurai
+    nitro.powerhrg.com/user-id: "40283"
 spec:
   profile:
     displayName: Nick Leone

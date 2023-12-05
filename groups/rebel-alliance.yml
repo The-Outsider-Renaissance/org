@@ -7,6 +7,7 @@ metadata:
   description: Connect development team
   annotations:
     github.com/team-slug: powerhome/rebel-alliance
+    nitro.powerhrg.com/deployment-connect-room: "40980"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/115/backlog/
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/rebels
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect/#rooms/40980
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

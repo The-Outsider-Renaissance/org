@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: steven.piccirelli
+  title: Steven Piccirelli
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/128448
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: stendur
+    portal.powerapp.cloud/job-title: Site Reliability Engineer
+    nitro.powerhrg.com/user-id: "128448"
+spec:
+  profile:
+    displayName: Steven Piccirelli
+    email: steven.piccirelli@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/128448/photo/badge
+  memberOf:
+    - stormwatch

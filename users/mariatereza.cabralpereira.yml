@@ -11,10 +11,11 @@ metadata:
   annotations:
     github.com/user-login: mterezac
     portal.powerapp.cloud/job-title: Nitro Developer - International
+    nitro.powerhrg.com/user-id: "113885"
 spec:
   profile:
     displayName: MT Pereira
     email: mariatereza.cabralpereira@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/113885/photo/badge
   memberOf:
-    - x-factor
+    - nova-corps

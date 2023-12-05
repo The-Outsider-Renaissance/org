@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: adub65
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "9793"
 spec:
   profile:
     displayName: Aaron Wilson

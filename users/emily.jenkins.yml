@@ -11,10 +11,13 @@ metadata:
   annotations:
     github.com/user-login: EmilyJenkins1
     portal.powerapp.cloud/job-title: Nitro Producteer
+    nitro.powerhrg.com/user-id: "120765"
 spec:
   profile:
     displayName: Emily Jenkins
     email: emily.jenkins@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/120765/photo/badge
-  memberOf: 
+  memberOf:
     - super-friends
+    - web-warriors
+    - outsiders

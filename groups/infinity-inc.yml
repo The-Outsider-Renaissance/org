@@ -7,6 +7,7 @@ metadata:
   description: Corporate Finance
   annotations:
     github.com/team-slug: powerhome/infinity-inc
+    nitro.powerhrg.com/deployment-connect-room: "38410"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/130/backlog/
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/infinity
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/38410
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

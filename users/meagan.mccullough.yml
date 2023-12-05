@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: meaganmcc
     portal.powerapp.cloud/job-title: Nitro Quality Ninja
+    nitro.powerhrg.com/user-id: "105443"
 spec:
   profile:
     displayName: Meagan McCullough
@@ -18,3 +19,4 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/105443/photo/badge
   memberOf:
     - x-factor
+    - outsiders

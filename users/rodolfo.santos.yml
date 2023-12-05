@@ -10,7 +10,8 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: rodolfoasantos
-    portal.powerapp.cloud/job-title: Nitro Developer - International
+    portal.powerapp.cloud/job-title: Nitro Sr. Developer - International
+    nitro.powerhrg.com/user-id: "92653"
 spec:
   profile:
     displayName: Rodolfo Santos

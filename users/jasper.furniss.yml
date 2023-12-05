@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: jasperfurniss
     portal.powerapp.cloud/job-title: Senior User Experience Engineer
+    nitro.powerhrg.com/user-id: "59346"
 spec:
   profile:
     displayName: Jasper Furniss
@@ -18,3 +19,6 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/59346/photo/badge
   memberOf:
     - ux-team
+    - ux-tooling
+    - playbook-web
+    - playbook-admins

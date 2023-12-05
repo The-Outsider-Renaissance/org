@@ -10,9 +10,11 @@ metadata:
       icon: chat
   annotations:
     portal.powerapp.cloud/job-title: Admin Coordinator to UX
+    nitro.powerhrg.com/user-id: "102602"
 spec:
   profile:
     displayName: Emily Kanarek
     email: emily.kanarek@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/102602/photo/badge
-  memberOf: []
+  memberOf:
+    - ux-team

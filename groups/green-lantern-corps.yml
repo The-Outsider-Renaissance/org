@@ -7,6 +7,7 @@ metadata:
   description: Accounting
   annotations:
     github.com/team-slug: powerhome/green-lantern-corps
+    nitro.powerhrg.com/deployment-connect-room: "96480"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/530/backlog/
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/glcorps
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/96480
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

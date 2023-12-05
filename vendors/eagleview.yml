@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: eagleview
+  title: EagleView
+  description: EagleView is a technology provider of aerial imagery, data analytics and geographic information system mapping
+  links:
+    - url: https://www.eagleview.com/
+      title: EagleView
+spec:
+  type: organization
+  profile:
+    displayName: EagleView
+  children: []

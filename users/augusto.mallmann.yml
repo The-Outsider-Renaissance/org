@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: augustomallmann
     portal.powerapp.cloud/job-title: User Experience Engineer - International
+    nitro.powerhrg.com/user-id: "116545"
 spec:
   profile:
     displayName: Augusto Mallmann
@@ -18,3 +19,5 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/116545/photo/badge
   memberOf:
     - ux-team
+    - ux-tooling
+    - playbook-web

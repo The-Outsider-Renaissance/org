@@ -10,7 +10,8 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: RudeChowder
-    portal.powerapp.cloud/job-title: Associate Developer
+    portal.powerapp.cloud/job-title: Associate Software Developer
+    nitro.powerhrg.com/user-id: "11992"
 spec:
   profile:
     displayName: Stephen Crane

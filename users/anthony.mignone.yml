@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: lilantman
     portal.powerapp.cloud/job-title: BT Intern
+    nitro.powerhrg.com/user-id: "114735"
 spec:
   profile:
     displayName: Anthony Mignone

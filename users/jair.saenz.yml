@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: jairsaenz
     portal.powerapp.cloud/job-title: Data Analyst
+    nitro.powerhrg.com/user-id: "61041"
 spec:
   profile:
     displayName: Jair Saenz

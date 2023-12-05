@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: stevelandwehr
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "90076"
 spec:
   profile:
     displayName: Steve Landwehr

@@ -10,7 +10,8 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: mattsc90
-    portal.powerapp.cloud/job-title: Associate Scrum Master
+    portal.powerapp.cloud/job-title: Scrum Master
+    nitro.powerhrg.com/user-id: "44553"
 spec:
   profile:
     displayName: Matt Carr
@@ -19,3 +20,4 @@ spec:
   memberOf:
     - green-lantern-corps
     - infinity-inc
+    - sword

@@ -1,0 +1,23 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: rachel.radford
+  title: Rachel Radford
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/138351
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: RachelRadford21
+    portal.powerapp.cloud/job-title: Associate Mobile User Experience Engineer
+    nitro.powerhrg.com/user-id: "138351"
+spec:
+  profile:
+    displayName: Rachel Radford
+    email: rachel.radford@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/138351/photo/badge
+  memberOf:
+    - ux-team
+    - ux-tooling
+    - playbook-web

@@ -11,11 +11,11 @@ metadata:
   annotations:
     github.com/user-login: gmfvpereira
     portal.powerapp.cloud/job-title: Nitro Lead Developer - International
+    nitro.powerhrg.com/user-id: "24746"
 spec:
   profile:
     displayName: Gabriel Pereira
     email: gabriel.pereira@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/24746/photo/badge
   memberOf:
-    - legion-academy
-    - nova-corps
+    - outsiders

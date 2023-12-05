@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: benlangfeld
     portal.powerapp.cloud/job-title: Nitro Principal Developer - International
+    nitro.powerhrg.com/user-id: "10795"
 spec:
   profile:
     displayName: Ben Langfeld

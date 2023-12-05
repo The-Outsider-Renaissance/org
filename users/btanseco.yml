@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: btanseco
     portal.powerapp.cloud/job-title: Director of Technology Support Services
+    nitro.powerhrg.com/user-id: "232"
 spec:
   profile:
     displayName: Butch Tanseco

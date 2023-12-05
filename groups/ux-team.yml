@@ -7,6 +7,7 @@ metadata:
   description: UX Design and Engineering
   annotations:
     github.com/team-slug: powerhome/ux-team
+    nitro.powerhrg.com/deployment-connect-room: "6348"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/74/backlog/
       title: UX Design Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/nitroux
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect/#rooms/6348
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

@@ -10,7 +10,8 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: gavhuang
-    portal.powerapp.cloud/job-title: Associate User Experience Engineer
+    portal.powerapp.cloud/job-title: User Experience Engineer
+    nitro.powerhrg.com/user-id: "107895"
 spec:
   profile:
     displayName: Gavin Huang
@@ -18,3 +19,5 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/107895/photo/badge
   memberOf:
     - ux-team
+    - ux-tooling
+    - playbook-web

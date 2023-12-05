@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: Jonwatkins2010
     portal.powerapp.cloud/job-title: Sr. Nitro Quality Ninja
+    nitro.powerhrg.com/user-id: "24146"
 spec:
   profile:
     displayName: Jonathan Watkins

@@ -7,6 +7,7 @@ metadata:
   description: Operations and Outside Vendors
   annotations:
     github.com/team-slug: powerhome/titans
+    nitro.powerhrg.com/deployment-connect-room: "743"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/110/backlog/
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/titans
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/743
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

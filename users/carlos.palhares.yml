@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: xjunior
     portal.powerapp.cloud/job-title: Nitro Lead Developer - International
+    nitro.powerhrg.com/user-id: "19596"
 spec:
   profile:
     displayName: Carlos Palhares
@@ -18,3 +19,4 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/19596/photo/badge
   memberOf:
     - heroes-for-hire
+    - super-friends

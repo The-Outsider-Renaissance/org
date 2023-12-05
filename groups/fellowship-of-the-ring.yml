@@ -7,6 +7,7 @@ metadata:
   description: Powers the contact center
   annotations:
     github.com/team-slug: powerhome/fellowship-of-the-ring
+    nitro.powerhrg.com/deployment-connect-room: "11042"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/95/backlog/
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/fellowship
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/11042
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

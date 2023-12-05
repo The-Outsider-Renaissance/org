@@ -1,3 +1,4 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
@@ -10,10 +11,13 @@ metadata:
   annotations:
     github.com/user-login: edwardsaleeby
     portal.powerapp.cloud/job-title: Associate User Experience Designer
+    nitro.powerhrg.com/user-id: "122816"
 spec:
   profile:
     displayName: Edward Saleeby
     email: edward.saleeby@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/122816/photo/badge
   memberOf:
+    - legends-of-tomorrow
+    - green-lantern-corps
     - ux-team

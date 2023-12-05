@@ -7,6 +7,7 @@ metadata:
   description: Scrum tools
   annotations:
     github.com/team-slug: powerhome/birds-of-prey
+    nitro.powerhrg.com/deployment-connect-room: "17486"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/54/backlog/
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/birdsofprey
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/17486
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

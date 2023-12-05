@@ -10,11 +10,12 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: KurstynStorms
-    portal.powerapp.cloud/job-title: Student Developer
+    portal.powerapp.cloud/job-title: Associate Software Developer
+    nitro.powerhrg.com/user-id: "23666"
 spec:
   profile:
     displayName: Kurstyn Storms
     email: kurstyn.storms@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/23666/photo/badge
-  memberOf: 
+  memberOf:
     - web-warriors

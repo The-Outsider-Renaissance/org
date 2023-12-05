@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: guild-quality
+  title: Guild Quality
+  description: Customer satisfaction surveying, performance reporting, and marketing for quality-minded home builders, remodelers, and service providers
+  links:
+    - url: https://www.guildquality.com/
+      title: Guild Quality
+spec:
+  type: organization
+  profile:
+    displayName: Guild Quality
+  children: []

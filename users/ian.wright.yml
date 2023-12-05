@@ -11,10 +11,11 @@ metadata:
   annotations:
     github.com/user-login: ns-ian
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "105263"
 spec:
   profile:
     displayName: Ian Wright
     email: ian.wright@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/105263/photo/badge
   memberOf:
-    - unbreakable
+    - avengers

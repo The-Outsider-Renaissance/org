@@ -1,3 +1,4 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
@@ -9,9 +10,13 @@ metadata:
       icon: chat
   annotations:
     portal.powerapp.cloud/job-title: Associate User Experience Designer
+    nitro.powerhrg.com/user-id: "122646"
 spec:
   profile:
     displayName: Jess Barnes
     email: jess.barnes@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/122646/photo/badge
-  memberOf: []
+  memberOf:
+    - rebel-alliance
+    - rogue-one
+    - ux-team

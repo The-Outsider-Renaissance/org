@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: fairy-godboss
+  title: Fairy Godboss
+  description: Fairy Godboss is the largest online career community for women
+  links:
+    - url: https://fairygodboss.com/
+      title: Fairy Godboss
+spec:
+  type: organization
+  profile:
+    displayName: Fairy Godboss
+  children: []

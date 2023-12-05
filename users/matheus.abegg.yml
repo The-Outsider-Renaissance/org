@@ -11,10 +11,11 @@ metadata:
   annotations:
     github.com/user-login: mpabegg
     portal.powerapp.cloud/job-title: Nitro Developer - International
+    nitro.powerhrg.com/user-id: "25641"
 spec:
   profile:
     displayName: Matheus Abegg
     email: matheus.abegg@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/25641/photo/badge
   memberOf:
-    - eternals
+    - avengers

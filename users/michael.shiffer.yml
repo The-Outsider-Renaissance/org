@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: mikeshiffer
     portal.powerapp.cloud/job-title: Technology Support Samurai
+    nitro.powerhrg.com/user-id: "32520"
 spec:
   profile:
     displayName: Mike Shiffer

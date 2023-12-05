@@ -1,0 +1,16 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: monster
+  title: Monster
+  description: Monster is source for jobs and career opportunities
+  description: LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps
+  links:
+    - url: https://www.monster.com/
+      title: Monster
+spec:
+  type: organization
+  profile:
+    displayName: Monster
+  children: []

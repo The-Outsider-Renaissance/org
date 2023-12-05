@@ -10,7 +10,8 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: Israel-Molestina
-    portal.powerapp.cloud/job-title: Associate User Experience Engineer
+    portal.powerapp.cloud/job-title: User Experience Engineer
+    nitro.powerhrg.com/user-id: "116415"
 spec:
   profile:
     displayName: Israel Molestina
@@ -18,3 +19,5 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/116415/photo/badge
   memberOf:
     - ux-team
+    - ux-tooling
+    - playbook-web

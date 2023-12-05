@@ -10,11 +10,14 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: princelang
-    portal.powerapp.cloud/job-title: Associate User Experience Designer
+    portal.powerapp.cloud/job-title: User Experience Designer
+    nitro.powerhrg.com/user-id: "113090"
 spec:
   profile:
     displayName: Prince Lang
     email: prince.lang@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/113090/photo/badge
   memberOf:
+    - green-lantern-corps
+    - infinity-inc
     - ux-team

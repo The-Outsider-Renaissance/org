@@ -9,8 +9,9 @@ metadata:
       title: Connect
       icon: chat
   annotations:
-    github.com/user-login: Ivancandido11
-    portal.powerapp.cloud/job-title: Student Developer
+    github.com/user-login: THElvan
+    portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "88400"
 spec:
   profile:
     displayName: Ivan Candido

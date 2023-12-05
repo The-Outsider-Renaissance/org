@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: pella
+  title: Pella
+  description: Pella is Power's new windows supplier
+  links:
+    - url: https://www.pellabranch.com/
+      title: Pella
+spec:
+  type: organization
+  profile:
+    displayName: Pella
+  children: []

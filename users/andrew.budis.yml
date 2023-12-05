@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: ajbudis
     portal.powerapp.cloud/job-title: Lead Technology Support Specialist
+    nitro.powerhrg.com/user-id: "20611"
 spec:
   profile:
     displayName: Andrew Budis

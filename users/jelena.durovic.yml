@@ -10,11 +10,12 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: JelenaD1
-    portal.powerapp.cloud/job-title: Student Developer
+    portal.powerapp.cloud/job-title: Associate Software Developer
+    nitro.powerhrg.com/user-id: "82215"
 spec:
   profile:
     displayName: Jelena Durovic
     email: jelena.durovic@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/82215/photo/badge
   memberOf:
-  - x-men
+    - x-men

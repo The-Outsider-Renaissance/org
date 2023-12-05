@@ -11,10 +11,11 @@ metadata:
   annotations:
     github.com/user-login: KFad11
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "7735"
 spec:
   profile:
     displayName: Kyle Fadigan
     email: kyle.fadigan@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/7735/photo/badge
   memberOf:
-    - green-lantern-corps
+    - legends-of-tomorrow

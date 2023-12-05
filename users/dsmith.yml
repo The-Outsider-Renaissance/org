@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: phylum
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "69744"
 spec:
   profile:
     displayName: Daniel Smith

@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: wadewinningham
     portal.powerapp.cloud/job-title: Nitro Principal Developer
+    nitro.powerhrg.com/user-id: "1"
 spec:
   profile:
     displayName: Wade Winningham

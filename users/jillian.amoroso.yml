@@ -11,11 +11,13 @@ metadata:
   annotations:
     github.com/user-login: jillianamoroso
     portal.powerapp.cloud/job-title: Scrum Master
+    nitro.powerhrg.com/user-id: "74934"
 spec:
   profile:
     displayName: Jillian Amoroso
     email: jillian.amoroso@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/74934/photo/badge
   memberOf:
+    - heroes-for-hire
     - the-incredibles
     - x-factor

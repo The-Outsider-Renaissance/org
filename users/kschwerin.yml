@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: thisisntkraig
     portal.powerapp.cloud/job-title: Director of Nitro Support Services
+    nitro.powerhrg.com/user-id: "1674"
 spec:
   profile:
     displayName: Kraig Schwerin

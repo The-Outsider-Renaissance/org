@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: jackiehpowerhrg
     portal.powerapp.cloud/job-title: Site Reliability Engineer
+    nitro.powerhrg.com/user-id: "72459"
 spec:
   profile:
     displayName: Jacqueline Henry

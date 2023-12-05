@@ -11,9 +11,12 @@ metadata:
   annotations:
     github.com/user-login: diontheroulde
     portal.powerapp.cloud/job-title: Student Developer
+    nitro.powerhrg.com/user-id: "83620"
 spec:
   profile:
     displayName: Dion Theroulde
     email: dion.theroulde@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/83620/photo/badge
-  memberOf: []
+  memberOf:
+    - x-factor
+    - outsiders

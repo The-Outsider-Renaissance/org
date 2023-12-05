@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: DevanRusso
     portal.powerapp.cloud/job-title: Associate Scrum Master
+    nitro.powerhrg.com/user-id: "46368"
 spec:
   profile:
     displayName: Devan Russo

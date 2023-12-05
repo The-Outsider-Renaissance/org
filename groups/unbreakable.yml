@@ -7,6 +7,7 @@ metadata:
   description: Talkbox core tech
   annotations:
     github.com/team-slug: powerhome/unbreakable
+    nitro.powerhrg.com/deployment-connect-room: "118391"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/95/backlog
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/fellowship
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/118391
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

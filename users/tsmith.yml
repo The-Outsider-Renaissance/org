@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: tsmith0692
     portal.powerapp.cloud/job-title: Nitro Producteer
+    nitro.powerhrg.com/user-id: "99909"
 spec:
   profile:
     displayName: Tyler Smith

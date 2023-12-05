@@ -10,11 +10,14 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: markdoeswork
-    portal.powerapp.cloud/job-title: Nitro Developer
+    portal.powerapp.cloud/job-title: User Experience Engineer
+    nitro.powerhrg.com/user-id: "105153"
 spec:
   profile:
     displayName: Mark Rosenberg
     email: mark.rosenberg@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/105153/photo/badge
   memberOf:
-    - green-lantern-corps
+    - ux-team
+    - ux-tooling
+    - playbook-web

@@ -10,6 +10,7 @@ metadata:
       icon: chat
   annotations:
     portal.powerapp.cloud/job-title: Administrative Coordinator
+    nitro.powerhrg.com/user-id: "42383"
 spec:
   profile:
     displayName: Melissa Storey

@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: DanWoodPower
     portal.powerapp.cloud/job-title: Nitro Mobile Application Developer
+    nitro.powerhrg.com/user-id: "117340"
 spec:
   profile:
     displayName: Dan Wood

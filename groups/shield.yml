@@ -7,6 +7,7 @@ metadata:
   description: IAM & Application Security
   annotations:
     github.com/team-slug: powerhome/s-h-i-e-l-d
+    nitro.powerhrg.com/deployment-connect-room: "90100"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/520/backlog
       title: Runway

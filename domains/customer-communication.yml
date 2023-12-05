@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: customer-communication
+  title: Customer Communication
+  description: Teams supporting the Customer Communication domain
+spec:
+  type: domain
+  profile:
+    displayName: Customer Communication
+  children: []
+  parent: bt
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: customer-communication
+  title: Customer Communication
+  description: Customer Communication tools
+spec:
+  owner: outsiders

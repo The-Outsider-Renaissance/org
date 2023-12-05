@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: stephenagreer
     portal.powerapp.cloud/job-title: Nitro Sr. Developer
+    nitro.powerhrg.com/user-id: "70999"
 spec:
   profile:
     displayName: Stephen Greer

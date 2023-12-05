@@ -7,13 +7,17 @@ metadata:
   description: Powers the contact center
   annotations:
     github.com/team-slug: powerhome/first-contact
+    nitro.powerhrg.com/deployment-connect-room: "118396"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/540/backlog
       title: Runway
       icon: list
-    - url: https://powerhrg.zoom.us/my/fellowship
+    - url: https://powerhrg.zoom.us/my/firstcontact
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/118396
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

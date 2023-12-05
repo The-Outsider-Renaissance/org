@@ -10,6 +10,7 @@ metadata:
       icon: chat
   annotations:
     portal.powerapp.cloud/job-title: Manager of Application Development
+    nitro.powerhrg.com/user-id: "116730"
 spec:
   profile:
     displayName: Caitie Rosenberg

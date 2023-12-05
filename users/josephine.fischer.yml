@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: josephinef9
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "53823"
 spec:
   profile:
     displayName: Jo Fischer

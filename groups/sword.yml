@@ -6,7 +6,8 @@ metadata:
   title: S.W.O.R.D.
   description: Information & Network Security
   annotations:
-    github.com/team-slug: powerhome/s-w-o-r-d
+    github.com/team-slug: powerhome/sword
+    nitro.powerhrg.com/deployment-connect-room: "62114"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/299/backlog
       title: Runway

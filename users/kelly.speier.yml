@@ -11,10 +11,13 @@ metadata:
   annotations:
     github.com/user-login: k-speier
     portal.powerapp.cloud/job-title: Senior User Experience Designer
+    nitro.powerhrg.com/user-id: "117450"
 spec:
   profile:
     displayName: Kelly Speier
     email: kelly.speier@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/117450/photo/badge
   memberOf:
+    - power-rangers
     - the-incredibles
+    - ux-team

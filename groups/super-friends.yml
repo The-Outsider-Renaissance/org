@@ -7,6 +7,7 @@ metadata:
   description: Team supporting Brand and The Bugle
   annotations:
     github.com/team-slug: powerhome/super-friends
+    nitro.powerhrg.com/deployment-connect-room: "124211"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/611/backlog/
       title: Runway

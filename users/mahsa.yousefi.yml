@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: mahsa-ysf
     portal.powerapp.cloud/job-title: Scrum Master
+    nitro.powerhrg.com/user-id: "98779"
 spec:
   profile:
     displayName: Mahsa Yousefi

@@ -10,6 +10,7 @@ metadata:
       icon: chat
   annotations:
     portal.powerapp.cloud/job-title: Nitro Producteer
+    nitro.powerhrg.com/user-id: "115020"
 spec:
   profile:
     displayName: Colin Lewis

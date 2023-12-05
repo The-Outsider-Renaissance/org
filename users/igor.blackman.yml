@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: iblackman
     portal.powerapp.cloud/job-title: Site Reliability Engineer - International
+    nitro.powerhrg.com/user-id: "69754"
 spec:
   profile:
     displayName: Igor Blackman

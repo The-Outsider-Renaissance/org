@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: jonathan-levy17
     portal.powerapp.cloud/job-title: Nitro Quality Ninja
+    nitro.powerhrg.com/user-id: "36998"
 spec:
   profile:
     displayName: Jonathan Levy

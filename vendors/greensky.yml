@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: greensky
+  title: GreenSky
+  description: The GreenSky Loan Program offers fast, easy online loans to help you live better
+  links:
+    - url: https://www.greensky.com/
+      title: GreenSky
+spec:
+  type: organization
+  profile:
+    displayName: Greensky
+  children: []

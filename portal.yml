@@ -63,3 +63,12 @@ metadata:
 spec:
   targets:
     - ./systems/*.yml
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: all-vendors
+  description: A collection of Power third party vendors
+spec:
+  targets:
+    - ./vendors/*.yml

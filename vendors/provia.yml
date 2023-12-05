@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: provia
+  title: ProVia
+  description: ProVia is door, windows, siding, stone manufacturer and metal roofing home exterior design solutions
+  links:
+    - url: https://www.provia.com/
+      title: ProVia
+spec:
+  type: organization
+  profile:
+    displayName: ProVia
+  children: []

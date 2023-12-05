@@ -1,3 +1,4 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
@@ -10,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: Llama-Ranger
     portal.powerapp.cloud/job-title: Site Reliability Engineer Fellow
+    nitro.powerhrg.com/user-id: "106781"
 spec:
   profile:
     displayName: John Jimenez

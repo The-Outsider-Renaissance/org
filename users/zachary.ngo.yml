@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: zachary.ngo
+  title: Zach Ngo
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/137761
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: osxi
+    portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "137761"
+spec:
+  profile:
+    displayName: Zach Ngo
+    email: zachary.ngo@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/137761/photo/badge
+  memberOf:
+    - unbreakable

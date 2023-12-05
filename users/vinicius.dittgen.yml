@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: vinicius.dittgen
+  title: Vinicius Dittgen
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/129573
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: vdittgen
+    portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "129573"
+spec:
+  profile:
+    displayName: Vinicius Dittgen
+    email: vinicius.dittgen@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/129573/photo/badge
+  memberOf:
+    - batmans-oracle

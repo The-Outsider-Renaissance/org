@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: Talia-TurnerBT
     portal.powerapp.cloud/job-title: Scrum Master
+    nitro.powerhrg.com/user-id: "630"
 spec:
   profile:
     displayName: Talia Turner

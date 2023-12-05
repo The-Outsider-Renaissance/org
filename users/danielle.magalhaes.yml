@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: danielle.magalhaes
+  title: Dannie Magalhães
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/130188
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: danniemag
+    portal.powerapp.cloud/job-title: Nitro Developer - International
+    nitro.powerhrg.com/user-id: "130188"
+spec:
+  profile:
+    displayName: Dannie Magalhães
+    email: danielle.magalhaes@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/130188/photo/badge
+  memberOf:
+    - rebel-alliance

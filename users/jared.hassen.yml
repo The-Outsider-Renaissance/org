@@ -10,12 +10,14 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: Jaredism
-    portal.powerapp.cloud/job-title: Associate Scrum Master
+    portal.powerapp.cloud/job-title: Scrum Master
+    nitro.powerhrg.com/user-id: "12063"
 spec:
   profile:
     displayName: Jared Hassen
     email: jared.hassen@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/12063/photo/badge
   memberOf:
+    - power-rangers
     - titans
     - x-men

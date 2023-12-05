@@ -1,3 +1,4 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
@@ -10,10 +11,14 @@ metadata:
   annotations:
     github.com/user-login: Cutty1324
     portal.powerapp.cloud/job-title: Associate Scrum Master
+    nitro.powerhrg.com/user-id: "7594"
 spec:
   profile:
     displayName: Mike McGillin
     email: michael.mcgillin@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/7594/photo/badge
   memberOf:
+    - rebel-alliance
     - super-friends
+    - rogue-one
+    - outsiders

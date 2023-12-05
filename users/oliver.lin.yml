@@ -1,3 +1,4 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
@@ -10,9 +11,11 @@ metadata:
   annotations:
     github.com/user-login: PowerOliver
     portal.powerapp.cloud/job-title: Director of Application Development
+    nitro.powerhrg.com/user-id: "121656"
 spec:
   profile:
     displayName: Oliver Lin
     email: oliver.lin@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/121656/photo/badge
-  memberOf: []
+  memberOf:
+    - sword

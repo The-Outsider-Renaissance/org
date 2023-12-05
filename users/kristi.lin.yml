@@ -10,12 +10,14 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: kristiflin
-    portal.powerapp.cloud/job-title: Associate User Experience Designer
+    portal.powerapp.cloud/job-title: User Experience Designer
+    nitro.powerhrg.com/user-id: "99094"
 spec:
   profile:
     displayName: Kristi Lin
     email: kristi.lin@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/99094/photo/badge
   memberOf:
+    - avengers
     - eternals
     - ux-team

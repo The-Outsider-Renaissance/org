@@ -1,3 +1,4 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
@@ -9,7 +10,8 @@ metadata:
       icon: chat
   annotations:
     github.com/user-login: nidaqg
-    portal.powerapp.cloud/job-title: Associate User Experience Engineer
+    portal.powerapp.cloud/job-title: User Experience Engineer II
+    nitro.powerhrg.com/user-id: "108830"
 spec:
   profile:
     displayName: Nida Ghuman
@@ -17,3 +19,5 @@ spec:
     picture: https://nitro.powerhrg.com/api/v1/users/108830/photo/badge
   memberOf:
     - ux-team
+    - ux-tooling
+    - playbook-web

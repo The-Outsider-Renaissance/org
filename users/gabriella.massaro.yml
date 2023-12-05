@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: gabbymassaro
     portal.powerapp.cloud/job-title: Nitro Quality Ninja
+    nitro.powerhrg.com/user-id: "111295"
 spec:
   profile:
     displayName: Gabriella Massaro

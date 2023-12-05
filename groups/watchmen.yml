@@ -7,6 +7,7 @@ metadata:
   description: Networking and Security
   annotations:
     github.com/team-slug: powerhome/site-reliability-engineers
+    nitro.powerhrg.com/deployment-connect-room: "12798"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/145/backlog/
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/watchmen
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect/#rooms/12798
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

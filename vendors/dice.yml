@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dice
+  title: Dice
+  description: Dice.com is a career website based in New York City with primary sales and development operations in Urbandale, Iowa and Denver
+  links:
+    - url: https://www.dice.com/
+      title: Dice
+spec:
+  type: organization
+  profile:
+    displayName: Dice
+  children: []

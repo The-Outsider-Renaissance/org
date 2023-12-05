@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: michaelejones
     portal.powerapp.cloud/job-title: Nitro Support Ninja
+    nitro.powerhrg.com/user-id: "103827"
 spec:
   profile:
     displayName: Michael Jones

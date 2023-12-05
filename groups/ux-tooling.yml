@@ -1,0 +1,26 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: ux-tooling
+  title: UXe Tooling Team
+  description: UXe Tooling
+  annotations:
+    github.com/team-slug: powerhome/ux-tooling
+    nitro.powerhrg.com/deployment-connect-room: "39300"
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/263/backlog/
+      title: UX Tooling
+      icon: list
+    - url: https://powerhrg.zoom.us/my/nitroux
+      title: Zoom
+      icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/39300
+      title: Connect
+      icon: chat
+spec:
+  type: team
+  profile:
+    displayName: UXe Tooling Team
+  children: []
+  parent: design

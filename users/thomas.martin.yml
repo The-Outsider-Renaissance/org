@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: Tomm1128
     portal.powerapp.cloud/job-title: Nitro Quality Ninja
+    nitro.powerhrg.com/user-id: "106876"
 spec:
   profile:
     displayName: TJ Martin

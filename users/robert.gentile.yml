@@ -11,6 +11,7 @@ metadata:
   annotations:
     github.com/user-login: RobGentile17
     portal.powerapp.cloud/job-title: Student Developer
+    nitro.powerhrg.com/user-id: "76819"
 spec:
   profile:
     displayName: Robert Gentile

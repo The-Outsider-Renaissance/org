@@ -7,6 +7,7 @@ metadata:
   description: Code Academy Team
   annotations:
     github.com/team-slug: powerhome/heart-of-gold
+    nitro.powerhrg.com/deployment-connect-room: "122951"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/486/backlog/
       title: Runway

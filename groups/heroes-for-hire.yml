@@ -7,6 +7,7 @@ metadata:
   description: Nitro upgrades and refactoring
   annotations:
     github.com/team-slug: powerhome/heroes-for-hire
+    nitro.powerhrg.com/deployment-connect-room: "19319"
   links:
     - url: https://nitro.powerhrg.com/runway/teams/199/backlog/
       title: Runway
@@ -14,6 +15,9 @@ metadata:
     - url: https://powerhrg.zoom.us/my/heroesforhire
       title: Zoom
       icon: videocall
+    - url: https://nitro.powerhrg.com/connect/#rooms/19319
+      title: Connect
+      icon: chat
 spec:
   type: team
   profile:

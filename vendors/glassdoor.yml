@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: glassdoor
+  title: Glassdoor
+  description: Glassdoor empowers job seekers with straight-from-the-source insights, reviews, and intel
+  links:
+    - url: https://www.glassdoor.com/member/home/index.htm
+      title: Glassdoor
+spec:
+  type: organization
+  profile:
+    displayName: Glassdoor
+  children: []

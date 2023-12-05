@@ -11,10 +11,11 @@ metadata:
   annotations:
     github.com/user-login: derricklannaman
     portal.powerapp.cloud/job-title: Nitro Developer
+    nitro.powerhrg.com/user-id: "91683"
 spec:
   profile:
     displayName: Derrick Lannaman
     email: derrick.lannaman@powerhrg.com
     picture: https://nitro.powerhrg.com/api/v1/users/91683/photo/badge
   memberOf:
-    - eternals
+    - web-warriors
