@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: new.guy
+  title: New Guy
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/123456
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: newguy123
+    portal.powerapp.cloud/job-title: Intern
+spec:
+  profile:
+    displayName: New Guy
+    email: new.guy@powerhrg.com
+    picture: https://nitro.powerhrg.com/api/v1/users/123456/photo/badge
+  memberOf:
+    - guardians-of-the-galaxy
