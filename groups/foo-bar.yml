@@ -1,0 +1,26 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: foo-bar
+  title: Foo Bar
+  description: Fooos and Barrs
+  annotations:
+    github.com/team-slug: powerhome/foo-bar
+    nitro.powerhrg.com/deployment-connect-room: "456"
+  links:
+    - url: https://nitro.powerhrg.com/runway/teams/123/backlog/
+      title: Runway
+      icon: list
+    - url: https://powerhrg.zoom.us/my/foo-bar
+      title: Zoom
+      icon: videocall
+    - url: https://nitro.powerhrg.com/connect#rooms/456
+      title: Connect
+      icon: chat
+spec:
+  type: team
+  profile:
+    displayName: Foo Bar
+  children: []
+  parent: workforce-enablement
