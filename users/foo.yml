@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: foo
+  title: Foo Bar
+  links:
+    - url: https://nitro.powerhrg.com/connect/#users/123
+      title: Connect
+      icon: chat
+  annotations:
+    github.com/user-login: s2e2
+    portal.powerapp.cloud/job-title: Foo
+    nitro.powerhrg.com/user-id: "123"
+spec:
+  profile:
+    displayName: Foo Bar
+    email: foo@bar.com
+    picture: https://nitro.powerhrg.com/api/v1/users/123/photo/badge
+  memberOf: []
